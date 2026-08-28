@@ -1,4 +1,4 @@
-# Hi, I'm Abi Precious Jibrin 👋
+# Hi, I'm Abi Precious Jibrin
 
 ### Public Health • Epidemiology • Monitoring & Evaluation • One Health • Health Data
 
