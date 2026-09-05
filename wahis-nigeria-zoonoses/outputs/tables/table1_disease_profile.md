@@ -1,0 +1,35 @@
+**Table 1.** Reporting profile of rabies, high-pathogenicity avian influenza and tsetse-transmitted trypanosomosis, Nigeria, WOAH WAHIS, 2006–2023.
+
+| Characteristic                                       | Rabies                   | HPAI                                                             | Trypanosomosis                              |
+|------------------------------------------------------|--------------------------|------------------------------------------------------------------|---------------------------------------------|
+| WAHIS disease label                                  | Rabies virus (Inf. with) | High pathogenicity avian influenza viruses (Inf. with) (poultry) | Trypanosomosis (tsetse-transmitted) (-2021) |
+| Observation window                                   | 2006–2023                | 2006–2023                                                        | 2008–2021                                   |
+| Years with a report, n/18                            | 18/18                    | 13/18                                                            | 13/18                                       |
+| Years with no report                                 | none                     | 2009–2013                                                        | 2006–2007, 2016, 2022–2023                  |
+| Reporting semesters, n                               | 32                       | 22                                                               | 22                                          |
+| Reporting blocks, n                                  | 200                      | 197                                                              | 53                                          |
+| States/FCT reporting, n/37                           | 35/37                    | 35/37                                                            | 17/37                                       |
+| Total reported new outbreaks                         | 923                      | 1,232                                                            | 130                                         |
+| Annual reported outbreaks, median (IQR)              | 24 (6–86)                | 44 (2–150)                                                       | 9 (3–14)                                    |
+| Peak reporting year (outbreaks)                      | 2022 (178)               | 2021 (257)                                                       | 2021 (40)                                   |
+| Animal-count records, n                              | 237                      | 203                                                              | 57                                          |
+| Predominant host species                             | Dogs (84.0% of records)  | Birds (99.5% of records)                                         | Cattle (82.5% of records)                   |
+| Susceptible animals — total                          | 28,297                   | 6,817,724                                                        | 13,620                                      |
+| Susceptible animals — records reporting / missing    | 203 / 34                 | 189 / 14                                                         | 53 / 4                                      |
+| Cases — total                                        | 2,751                    | 2,650,659                                                        | 3,008                                       |
+| Cases — records reporting / missing                  | 230 / 7                  | 162 / 41                                                         | 56 / 1                                      |
+| Deaths — total                                       | 618                      | 1,237,397                                                        | 285                                         |
+| Deaths — records reporting / missing                 | 228 / 9                  | 189 / 14                                                         | 52 / 5                                      |
+| Killed and disposed of — total                       | 624                      | 4,886,232                                                        | 192                                         |
+| Killed and disposed of — records reporting / missing | 228 / 9                  | 166 / 37                                                         | 52 / 5                                      |
+| Slaughtered — total                                  | 26                       | 1,748                                                            | 77                                          |
+| Slaughtered — records reporting / missing            | 228 / 9                  | 183 / 20                                                         | 51 / 6                                      |
+| Vaccinated — total                                   | 4,985                    | 1,500                                                            | 0                                           |
+| Vaccinated — records reporting / missing             | 208 / 29                 | 115 / 88                                                         | 29 / 28                                     |
+
+1. Values are counts of events **reported to WAHIS**, not estimates of disease occurrence. No population denominators exist in this dataset, so no rates are presented.
+2. A year with no reporting block is shown as a year with no report and is excluded from the median (IQR); it is **not** a reported zero. Missing counts ('-' in the source) are never imputed as zero.
+3. Outbreak totals are national in scope (state + national records). Exactly one study-period record is national rather than state-level (HPAI, 2014, 1 outbreak); states reporting is therefore counted from state-level records only.
+4. **Animal-level totals must not be compared across columns.** HPAI counts commercial poultry flocks, rabies counts individually presented animals, and trypanosomosis counts herd-screened cattle; hosts, sectors and detection pathways differ entirely.
+5. 'Killed and disposed of' is a control-measure indicator, not a measure of disease impact: it exceeds 'Cases' on 12.3% of comparable records because healthy in-contact birds are culled.
+6. Trypanosomosis is reportable under this WAHIS name only to 2021 ('(-2021)' suffix) and is first reported in 2008, so its observation window is 2008–2021. The absence of 2022–2023 records is a classification artefact, not an observed decline.
