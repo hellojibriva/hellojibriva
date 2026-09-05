@@ -1,0 +1,15 @@
+variable,n_rows,n_dash,pct_dash,n_empty_string,n_true_null,n_zero,n_positive
+New outbreaks,1112,582,52.3,0,0,0.0,530.0
+Susceptible,1112,576,51.8,0,0,0.0,536.0
+Cases,1112,573,51.5,0,0,1.0,538.0
+Killed and disposed of,1112,575,51.7,0,0,164.0,373.0
+Slaughtered,1112,560,50.4,0,0,533.0,19.0
+Deaths,1112,552,49.6,0,0,162.0,398.0
+Vaccinated,1112,670,60.3,0,0,415.0,27.0
+Administrative Division,1112,0,0.0,0,0,,
+Disease,1112,0,0.0,0,0,,
+Animal Category,1112,0,0.0,0,0,,
+Species,1112,0,0.0,524,0,,
+Serotype/Subtype/Genotype,1112,0,0.0,299,0,,
+Event_id,1112,1106,99.5,0,0,,
+Outbreak_id,1112,1108,99.6,0,0,,

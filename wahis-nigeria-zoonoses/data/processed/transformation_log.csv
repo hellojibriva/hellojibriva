@@ -1,0 +1,6 @@
+step,detail,rows_in,rows_out,rows_removed
+master,"annotated copy of every raw row, nothing dropped",1112,1112,0
+E1_period,"restrict to 2006-2023 (2005 n=4, 2024-2026 n=161)",1112,947,165
+E2_adm2,drop ADM2/LGA-grain rows (all fall in 2026),947,947,0
+outbreaks,one row per reporting-block header,947,450,497
+animal_counts,one row per animal-category x species record,947,497,450

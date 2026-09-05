@@ -1,0 +1,16 @@
+Raw file: Quantitative_data_20260905.csv  md5=d6ebeda431ba0319bc07649c7e954153  rows=1112
+[master] annotated copy of every raw row, nothing dropped: 1112 -> 1112 (removed 0)
+[E1_period] restrict to 2006-2023 (2005 n=4, 2024-2026 n=161): 1112 -> 947 (removed 165)
+[E2_adm2] drop ADM2/LGA-grain rows (all fall in 2026): 947 -> 947 (removed 0)
+[outbreaks] one row per reporting-block header: 947 -> 450 (removed 497)
+[animal_counts] one row per animal-category x species record: 947 -> 497 (removed 450)
+       of which informationally empty (every count '-'): 18 — retained and flagged, not dropped
+
+Location standardisation table: 44 labels, 1 recoded
+
+Written to /home/user/hellojibriva/wahis-nigeria-zoonoses/data/processed
+  analysis_animal_counts.csv              69,857 bytes
+  analysis_outbreaks.csv                  49,532 bytes
+  location_standardisation.csv             2,709 bytes
+  transformation_log.csv                     377 bytes
+  wahis_ng_rows_annotated.csv            240,260 bytes

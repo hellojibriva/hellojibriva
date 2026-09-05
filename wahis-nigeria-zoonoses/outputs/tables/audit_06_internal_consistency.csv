@@ -1,0 +1,6 @@
+check,comparable_rows,violations,pct
+Cases > Susceptible,508,4,0.8
+Deaths > Cases,532,5,0.9
+Deaths > Susceptible,529,4,0.8
+Killed & disposed of > Cases,530,65,12.3
+Killed & disposed of > Susceptible,508,1,0.2

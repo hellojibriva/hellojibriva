@@ -1,0 +1,16 @@
+year,Semester,location_raw,Disease,Serotype/Subtype/Genotype,n_rows,n_outbreak_rows,n_animal_rows
+2013,Jan-Jun 2013,Bauchi,Rabies virus (Inf. with),not typed,2,0,2
+2016,Jul-Dec 2016,Kano,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N8,1,0,1
+2017,Jan-Jun 2017,Rivers,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,1,0,1
+2017,Jul-Dec 2017,Bauchi,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,1,0,1
+2017,Jul-Dec 2017,Rivers,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,1,0,1
+2019,Jul-Dec 2019,Sokoto,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N6,1,0,1
+2023,Jan-Jun 2023,Gombe,Rabies virus (Inf. with),,1,0,1
+2024,Jul-Dec 2024,Delta,Rabies virus (Inf. with),RABV,1,0,1
+2024,Jul-Dec 2024,Kano,Rabies virus (Inf. with),RABV,1,0,1
+2026,Jan-Jun 2026,Batagarawa,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,1,0,1
+2026,Jan-Jun 2026,Bauchi,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,1,0,1
+2026,Jan-Jun 2026,Gwale,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,1,0,1
+2026,Jan-Jun 2026,Jos North,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,1,0,1
+2026,Jan-Jun 2026,Toro,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,1,0,1
+2026,Jan-Jun 2026,Ungogo,High pathogenicity avian influenza viruses (Inf. with) (poultry),H5N1,1,0,1

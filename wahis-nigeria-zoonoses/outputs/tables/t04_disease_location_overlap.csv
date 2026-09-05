@@ -1,0 +1,38 @@
+state,Rabies_reported,Rabies_outbreaks,Rabies_reporting_years,HPAI_reported,HPAI_outbreaks,HPAI_reporting_years,Trypanosomosis_reported,Trypanosomosis_outbreaks,Trypanosomosis_reporting_years,n_diseases_reported,total_outbreaks
+Plateau,Yes,469.0,13.0,Yes,303.0,8.0,Yes,2.0,2.0,3,774.0
+Bauchi,Yes,93.0,11.0,Yes,60.0,8.0,Yes,5.0,2.0,3,158.0
+Lagos,Yes,3.0,1.0,Yes,137.0,7.0,Yes,3.0,1.0,3,143.0
+Niger,Yes,5.0,4.0,Yes,11.0,2.0,Yes,54.0,10.0,3,70.0
+Gombe,Yes,34.0,7.0,Yes,15.0,4.0,Yes,2.0,1.0,3,51.0
+Federal Capital Territory,Yes,9.0,5.0,Yes,29.0,6.0,Yes,10.0,2.0,3,48.0
+Nasarawa,Yes,2.0,1.0,Yes,22.0,8.0,Yes,3.0,2.0,3,27.0
+Oyo,Yes,6.0,2.0,Yes,18.0,6.0,Yes,2.0,2.0,3,26.0
+Kwara,Yes,6.0,5.0,Yes,1.0,1.0,Yes,18.0,3.0,3,25.0
+Adamawa,Yes,4.0,4.0,Yes,11.0,4.0,Yes,5.0,1.0,3,20.0
+Jigawa,Yes,4.0,2.0,Yes,12.0,5.0,Yes,4.0,1.0,3,20.0
+Enugu,Yes,1.0,1.0,Yes,9.0,4.0,Yes,7.0,3.0,3,17.0
+Osun,Yes,14.0,9.0,Yes,1.0,1.0,Yes,2.0,1.0,3,17.0
+Anambra,Yes,1.0,1.0,Yes,11.0,5.0,Yes,4.0,3.0,3,16.0
+Zamfara,Yes,2.0,1.0,Yes,7.0,3.0,Yes,2.0,2.0,3,11.0
+Kogi,Yes,3.0,2.0,Yes,1.0,1.0,Yes,3.0,1.0,3,7.0
+Kano,Yes,66.0,9.0,Yes,250.0,10.0,No,,,2,316.0
+Kaduna,Yes,72.0,12.0,Yes,68.0,7.0,No,,,2,140.0
+Delta,Yes,10.0,3.0,Yes,41.0,6.0,No,,,2,51.0
+Katsina,Yes,6.0,3.0,Yes,44.0,7.0,No,,,2,50.0
+Ogun,Yes,3.0,3.0,Yes,44.0,7.0,No,,,2,47.0
+Edo,Yes,2.0,2.0,Yes,25.0,7.0,No,,,2,27.0
+Kebbi,Yes,21.0,5.0,Yes,4.0,3.0,No,,,2,25.0
+Bayelsa,Yes,6.0,4.0,Yes,10.0,4.0,No,,,2,16.0
+Akwa Ibom,Yes,14.0,2.0,Yes,1.0,1.0,No,,,2,15.0
+Benue,Yes,13.0,8.0,Yes,2.0,2.0,No,,,2,15.0
+Ebonyi,Yes,11.0,5.0,Yes,3.0,2.0,No,,,2,14.0
+Ekiti,Yes,11.0,5.0,Yes,2.0,2.0,No,,,2,13.0
+Taraba,Yes,4.0,3.0,Yes,9.0,2.0,No,,,2,13.0
+Borno,Yes,2.0,2.0,Yes,8.0,3.0,No,,,2,10.0
+Ondo,Yes,5.0,3.0,No,,,Yes,4.0,3.0,2,9.0
+Sokoto,Yes,1.0,1.0,Yes,7.0,3.0,No,,,2,8.0
+Imo,Yes,5.0,4.0,Yes,1.0,1.0,No,,,2,6.0
+Yobe,Yes,3.0,3.0,Yes,3.0,2.0,No,,,2,6.0
+Rivers,No,,,Yes,56.0,6.0,No,,,1,56.0
+Cross River,Yes,12.0,4.0,No,,,No,,,1,12.0
+Abia,No,,,Yes,5.0,3.0,No,,,1,5.0

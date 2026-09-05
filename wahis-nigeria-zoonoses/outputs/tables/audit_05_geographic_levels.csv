@@ -1,0 +1,45 @@
+geo_level,location_raw,n_rows,first_year,last_year
+national,Nigeria,6,2005,2014
+state,Plateau,96,2006,2025
+state,Bauchi,87,2006,2026
+state,Kano,79,2006,2025
+state,Kaduna,71,2006,2025
+state,Gombe,50,2007,2025
+state,Niger,45,2008,2024
+state,Federal Capital Territory,40,2006,2025
+state,Delta,33,2006,2024
+state,Ogun,32,2006,2025
+state,Osun,32,2006,2025
+state,Lagos,30,2006,2023
+state,Benue,28,2006,2025
+state,Kebbi,28,2008,2025
+state,Jigawa,26,2006,2025
+state,Katsina,26,2006,2025
+state,Oyo,26,2006,2022
+state,Kwara,25,2006,2025
+state,Anambra,24,2006,2024
+state,Edo,24,2007,2022
+state,Zamfara,24,2007,2025
+state,Adamawa,22,2007,2025
+state,Nasarawa,22,2006,2018
+state,Bayelsa,20,2015,2022
+state,Ekiti,20,2007,2023
+state,Enugu,20,2007,2022
+state,Taraba,20,2006,2025
+state,Ebonyi,19,2011,2024
+state,Rivers,16,2006,2023
+state,Borno,14,2006,2025
+state,Cross River,14,2011,2025
+state,Ondo,14,2008,2023
+state,Yobe,14,2006,2025
+state,Sokoto,13,2007,2025
+state,Imo,12,2010,2025
+state,Kogi,12,2012,2023
+state,Akwa Ibom,9,2020,2024
+state,Abia,8,2015,2025
+state,Nassarawa,6,2021,2022
+sub_state,Batagarawa,1,2026,2026
+sub_state,Gwale,1,2026,2026
+sub_state,Jos North,1,2026,2026
+sub_state,Toro,1,2026,2026
+sub_state,Ungogo,1,2026,2026

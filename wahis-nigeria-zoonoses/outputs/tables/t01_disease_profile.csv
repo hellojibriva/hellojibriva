@@ -1,0 +1,4 @@
+disease,reporting_years,first_year,last_year,reporting_semesters,reporting_blocks,total_new_outbreaks,reporting_states,susceptible,susceptible_n_reported,susceptible_n_missing,cases,cases_n_reported,cases_n_missing,deaths,deaths_n_reported,deaths_n_missing,killed_disposed,killed_disposed_n_reported,killed_disposed_n_missing,slaughtered,slaughtered_n_reported,slaughtered_n_missing,vaccinated,vaccinated_n_reported,vaccinated_n_missing
+Rabies,18,2006,2023,32,200,923.0,35,28297.0,203,34,2751.0,230,7,618.0,228,9,624.0,228,9,26.0,228,9,4985.0,208,29
+HPAI,13,2006,2023,22,197,1232.0,35,6767724.0,188,14,2647359.0,161,41,1234097.0,188,14,4886232.0,165,37,1748.0,182,20,1500.0,114,88
+Trypanosomosis,13,2008,2021,22,53,130.0,17,13620.0,53,4,3008.0,56,1,285.0,52,5,192.0,52,5,77.0,51,6,0.0,29,28

@@ -1,0 +1,45 @@
+location_raw,location_std,geo_level,n_rows,first_year,last_year,action
+Nigeria,Nigeria,national,6,2005,2014,"kept, flagged national — excluded from state-level analysis"
+Abia,Abia,state,8,2015,2025,kept as reported
+Adamawa,Adamawa,state,22,2007,2025,kept as reported
+Akwa Ibom,Akwa Ibom,state,9,2020,2024,kept as reported
+Anambra,Anambra,state,24,2006,2024,kept as reported
+Bauchi,Bauchi,state,87,2006,2026,kept as reported
+Bayelsa,Bayelsa,state,20,2015,2022,kept as reported
+Benue,Benue,state,28,2006,2025,kept as reported
+Borno,Borno,state,14,2006,2025,kept as reported
+Cross River,Cross River,state,14,2011,2025,kept as reported
+Delta,Delta,state,33,2006,2024,kept as reported
+Ebonyi,Ebonyi,state,19,2011,2024,kept as reported
+Edo,Edo,state,24,2007,2022,kept as reported
+Ekiti,Ekiti,state,20,2007,2023,kept as reported
+Enugu,Enugu,state,20,2007,2022,kept as reported
+Federal Capital Territory,Federal Capital Territory,state,40,2006,2025,kept as reported
+Gombe,Gombe,state,50,2007,2025,kept as reported
+Imo,Imo,state,12,2010,2025,kept as reported
+Jigawa,Jigawa,state,26,2006,2025,kept as reported
+Kaduna,Kaduna,state,71,2006,2025,kept as reported
+Kano,Kano,state,79,2006,2025,kept as reported
+Katsina,Katsina,state,26,2006,2025,kept as reported
+Kebbi,Kebbi,state,28,2008,2025,kept as reported
+Kogi,Kogi,state,12,2012,2023,kept as reported
+Kwara,Kwara,state,25,2006,2025,kept as reported
+Lagos,Lagos,state,30,2006,2023,kept as reported
+Nasarawa,Nasarawa,state,22,2006,2018,kept as reported
+Nassarawa,Nasarawa,state,6,2021,2022,"recoded (spelling variant; disjoint years, never co-occurring)"
+Niger,Niger,state,45,2008,2024,kept as reported
+Ogun,Ogun,state,32,2006,2025,kept as reported
+Ondo,Ondo,state,14,2008,2023,kept as reported
+Osun,Osun,state,32,2006,2025,kept as reported
+Oyo,Oyo,state,26,2006,2022,kept as reported
+Plateau,Plateau,state,96,2006,2025,kept as reported
+Rivers,Rivers,state,16,2006,2023,kept as reported
+Sokoto,Sokoto,state,13,2007,2025,kept as reported
+Taraba,Taraba,state,20,2006,2025,kept as reported
+Yobe,Yobe,state,14,2006,2025,kept as reported
+Zamfara,Zamfara,state,24,2007,2025,kept as reported
+Batagarawa,Batagarawa,sub_state,1,2026,2026,"kept, flagged ADM2/LGA — excluded from state-level analysis, not rolled up"
+Gwale,Gwale,sub_state,1,2026,2026,"kept, flagged ADM2/LGA — excluded from state-level analysis, not rolled up"
+Jos North,Jos North,sub_state,1,2026,2026,"kept, flagged ADM2/LGA — excluded from state-level analysis, not rolled up"
+Toro,Toro,sub_state,1,2026,2026,"kept, flagged ADM2/LGA — excluded from state-level analysis, not rolled up"
+Ungogo,Ungogo,sub_state,1,2026,2026,"kept, flagged ADM2/LGA — excluded from state-level analysis, not rolled up"

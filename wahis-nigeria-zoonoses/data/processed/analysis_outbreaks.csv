@@ -1,0 +1,451 @@
+block_id,year,semester,disease,serotype,geo_level,location_raw,location_std,header_animal_category,new_outbreaks
+2006|Jan-Jun 2006|Anambra|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Anambra,Anambra,Both animal categories,1.0
+2006|Jan-Jun 2006|Bauchi|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Bauchi,Bauchi,Both animal categories,11.0
+2006|Jan-Jun 2006|Benue|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Benue,Benue,Both animal categories,1.0
+2006|Jan-Jun 2006|Borno|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Borno,Borno,Both animal categories,1.0
+2006|Jan-Jun 2006|Federal Capital Territory|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,4.0
+2006|Jan-Jun 2006|Jigawa|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Jigawa,Jigawa,Both animal categories,2.0
+2006|Jan-Jun 2006|Kaduna|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Kaduna,Kaduna,Both animal categories,18.0
+2006|Jan-Jun 2006|Kano|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Kano,Kano,Both animal categories,8.0
+2006|Jan-Jun 2006|Katsina|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Katsina,Katsina,Both animal categories,9.0
+2006|Jan-Jun 2006|Lagos|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Lagos,Lagos,Both animal categories,5.0
+2006|Jan-Jun 2006|Nasarawa|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Nasarawa,Nasarawa,Both animal categories,4.0
+2006|Jan-Jun 2006|Ogun|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Ogun,Ogun,Both animal categories,2.0
+2006|Jan-Jun 2006|Osun|Rabies|,2006,Jan-Jun 2006,Rabies,,state,Osun,Osun,Both animal categories,1.0
+2006|Jan-Jun 2006|Oyo|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Oyo,Oyo,Both animal categories,2.0
+2006|Jan-Jun 2006|Plateau|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Plateau,Plateau,Both animal categories,32.0
+2006|Jan-Jun 2006|Rivers|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Rivers,Rivers,Both animal categories,1.0
+2006|Jan-Jun 2006|Taraba|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Taraba,Taraba,Both animal categories,4.0
+2006|Jan-Jun 2006|Yobe|HPAI|H5N1,2006,Jan-Jun 2006,HPAI,H5N1,state,Yobe,Yobe,Both animal categories,1.0
+2006|Jul-Dec 2006|Anambra|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Anambra,Anambra,Both animal categories,2.0
+2006|Jul-Dec 2006|Bauchi|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Bauchi,Bauchi,Both animal categories,1.0
+2006|Jul-Dec 2006|Borno|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Borno,Borno,Both animal categories,2.0
+2006|Jul-Dec 2006|Delta|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Delta,Delta,Both animal categories,1.0
+2006|Jul-Dec 2006|Kaduna|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Kaduna,Kaduna,Both animal categories,4.0
+2006|Jul-Dec 2006|Kano|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Kano,Kano,Both animal categories,6.0
+2006|Jul-Dec 2006|Kwara|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Kwara,Kwara,Both animal categories,1.0
+2006|Jul-Dec 2006|Lagos|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Lagos,Lagos,Both animal categories,13.0
+2006|Jul-Dec 2006|Nasarawa|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Nasarawa,Nasarawa,Both animal categories,1.0
+2006|Jul-Dec 2006|Ogun|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Ogun,Ogun,Both animal categories,1.0
+2006|Jul-Dec 2006|Plateau|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Plateau,Plateau,Both animal categories,1.0
+2006|Jul-Dec 2006|Taraba|HPAI|H5N1,2006,Jul-Dec 2006,HPAI,H5N1,state,Taraba,Taraba,Both animal categories,4.0
+2007|Jan-Jun 2007|Adamawa|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Adamawa,Adamawa,Both animal categories,6.0
+2007|Jan-Jun 2007|Anambra|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Anambra,Anambra,Both animal categories,2.0
+2007|Jan-Jun 2007|Bauchi|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Bauchi,Bauchi,Both animal categories,7.0
+2007|Jan-Jun 2007|Borno|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Borno,Borno,Both animal categories,4.0
+2007|Jan-Jun 2007|Edo|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Edo,Edo,Both animal categories,2.0
+2007|Jan-Jun 2007|Enugu|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Enugu,Enugu,Both animal categories,2.0
+2007|Jan-Jun 2007|Federal Capital Territory|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,1.0
+2007|Jan-Jun 2007|Jigawa|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Jigawa,Jigawa,Both animal categories,3.0
+2007|Jan-Jun 2007|Kaduna|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Kaduna,Kaduna,Both animal categories,17.0
+2007|Jan-Jun 2007|Kano|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Kano,Kano,Both animal categories,32.0
+2007|Jan-Jun 2007|Katsina|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Katsina,Katsina,Both animal categories,18.0
+2007|Jan-Jun 2007|Lagos|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Lagos,Lagos,Both animal categories,4.0
+2007|Jan-Jun 2007|Nasarawa|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Nasarawa,Nasarawa,Both animal categories,1.0
+2007|Jan-Jun 2007|Oyo|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Oyo,Oyo,Both animal categories,1.0
+2007|Jan-Jun 2007|Plateau|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Plateau,Plateau,Both animal categories,10.0
+2007|Jan-Jun 2007|Sokoto|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Sokoto,Sokoto,Both animal categories,4.0
+2007|Jan-Jun 2007|Yobe|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Yobe,Yobe,Both animal categories,2.0
+2007|Jan-Jun 2007|Zamfara|HPAI|H5N1,2007,Jan-Jun 2007,HPAI,H5N1,state,Zamfara,Zamfara,Both animal categories,1.0
+2007|Jul-Dec 2007|Anambra|HPAI|H5N1,2007,Jul-Dec 2007,HPAI,H5N1,state,Anambra,Anambra,Both animal categories,2.0
+2007|Jul-Dec 2007|Delta|HPAI|H5N1,2007,Jul-Dec 2007,HPAI,H5N1,state,Delta,Delta,Both animal categories,1.0
+2007|Jul-Dec 2007|Edo|HPAI|H5N1,2007,Jul-Dec 2007,HPAI,H5N1,state,Edo,Edo,Both animal categories,3.0
+2007|Jul-Dec 2007|Ekiti|HPAI|H5N1,2007,Jul-Dec 2007,HPAI,H5N1,state,Ekiti,Ekiti,Both animal categories,1.0
+2007|Jul-Dec 2007|Gombe|Rabies|,2007,Jul-Dec 2007,Rabies,,state,Gombe,Gombe,Both animal categories,2.0
+2007|Jul-Dec 2007|Lagos|HPAI|H5N1,2007,Jul-Dec 2007,HPAI,H5N1,state,Lagos,Lagos,Both animal categories,2.0
+2007|Jul-Dec 2007|Nasarawa|HPAI|H5N1,2007,Jul-Dec 2007,HPAI,H5N1,state,Nasarawa,Nasarawa,Both animal categories,1.0
+2007|Jul-Dec 2007|Ogun|HPAI|H5N1,2007,Jul-Dec 2007,HPAI,H5N1,state,Ogun,Ogun,Both animal categories,21.0
+2007|Jul-Dec 2007|Oyo|HPAI|H5N1,2007,Jul-Dec 2007,HPAI,H5N1,state,Oyo,Oyo,Both animal categories,1.0
+2007|Jul-Dec 2007|Zamfara|HPAI|H5N1,2007,Jul-Dec 2007,HPAI,H5N1,state,Zamfara,Zamfara,Both animal categories,1.0
+2008|Jan-Jun 2008|Adamawa|Trypanosomosis|,2008,Jan-Jun 2008,Trypanosomosis,,state,Adamawa,Adamawa,Both animal categories,5.0
+2008|Jan-Jun 2008|Bauchi|Rabies|,2008,Jan-Jun 2008,Rabies,,state,Bauchi,Bauchi,Both animal categories,3.0
+2008|Jan-Jun 2008|Federal Capital Territory|Trypanosomosis|,2008,Jan-Jun 2008,Trypanosomosis,,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,2.0
+2008|Jan-Jun 2008|Gombe|Rabies|,2008,Jan-Jun 2008,Rabies,,state,Gombe,Gombe,Both animal categories,1.0
+2008|Jan-Jun 2008|Kaduna|Rabies|,2008,Jan-Jun 2008,Rabies,,state,Kaduna,Kaduna,Both animal categories,1.0
+2008|Jan-Jun 2008|Kebbi|HPAI|H5N1,2008,Jan-Jun 2008,HPAI,H5N1,state,Kebbi,Kebbi,Both animal categories,1.0
+2008|Jan-Jun 2008|Kwara|Rabies|,2008,Jan-Jun 2008,Rabies,,state,Kwara,Kwara,Both animal categories,2.0
+2008|Jan-Jun 2008|Nasarawa|Trypanosomosis|,2008,Jan-Jun 2008,Trypanosomosis,,state,Nasarawa,Nasarawa,Both animal categories,1.0
+2008|Jan-Jun 2008|Niger|Trypanosomosis|,2008,Jan-Jun 2008,Trypanosomosis,,state,Niger,Niger,Both animal categories,1.0
+2008|Jan-Jun 2008|Ondo|Rabies|,2008,Jan-Jun 2008,Rabies,,state,Ondo,Ondo,Both animal categories,2.0
+2008|Jan-Jun 2008|Osun|Rabies|,2008,Jan-Jun 2008,Rabies,,state,Osun,Osun,Both animal categories,2.0
+2008|Jan-Jun 2008|Taraba|Rabies|,2008,Jan-Jun 2008,Rabies,,state,Taraba,Taraba,Both animal categories,1.0
+2008|Jul-Dec 2008|Bauchi|Rabies|,2008,Jul-Dec 2008,Rabies,,state,Bauchi,Bauchi,Both animal categories,4.0
+2008|Jul-Dec 2008|Ekiti|Rabies|,2008,Jul-Dec 2008,Rabies,,state,Ekiti,Ekiti,Both animal categories,1.0
+2008|Jul-Dec 2008|Gombe|HPAI|H5N1,2008,Jul-Dec 2008,HPAI,H5N1,state,Gombe,Gombe,Both animal categories,1.0
+2008|Jul-Dec 2008|Gombe|Rabies|,2008,Jul-Dec 2008,Rabies,,state,Gombe,Gombe,Both animal categories,1.0
+2008|Jul-Dec 2008|Kaduna|Rabies|,2008,Jul-Dec 2008,Rabies,,state,Kaduna,Kaduna,Both animal categories,1.0
+2008|Jul-Dec 2008|Kano|HPAI|H5N1,2008,Jul-Dec 2008,HPAI,H5N1,state,Kano,Kano,Both animal categories,1.0
+2008|Jul-Dec 2008|Kano|Rabies|,2008,Jul-Dec 2008,Rabies,,state,Kano,Kano,Both animal categories,1.0
+2008|Jul-Dec 2008|Katsina|HPAI|H5N1,2008,Jul-Dec 2008,HPAI,H5N1,state,Katsina,Katsina,Both animal categories,1.0
+2008|Jul-Dec 2008|Osun|Rabies|,2008,Jul-Dec 2008,Rabies,,state,Osun,Osun,Both animal categories,1.0
+2008|Jul-Dec 2008|Plateau|Rabies|,2008,Jul-Dec 2008,Rabies,,state,Plateau,Plateau,Both animal categories,1.0
+2008|Jul-Dec 2008|Taraba|Rabies|,2008,Jul-Dec 2008,Rabies,,state,Taraba,Taraba,Both animal categories,1.0
+2009|Jan-Jun 2009|Adamawa|Rabies|,2009,Jan-Jun 2009,Rabies,,state,Adamawa,Adamawa,Both animal categories,1.0
+2009|Jan-Jun 2009|Bauchi|Rabies|,2009,Jan-Jun 2009,Rabies,,state,Bauchi,Bauchi,Both animal categories,2.0
+2009|Jan-Jun 2009|Benue|Rabies|,2009,Jan-Jun 2009,Rabies,,state,Benue,Benue,Both animal categories,1.0
+2009|Jan-Jun 2009|Edo|Rabies|,2009,Jan-Jun 2009,Rabies,,state,Edo,Edo,Both animal categories,1.0
+2009|Jan-Jun 2009|Federal Capital Territory|Rabies|,2009,Jan-Jun 2009,Rabies,,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,2.0
+2009|Jan-Jun 2009|Federal Capital Territory|Trypanosomosis|,2009,Jan-Jun 2009,Trypanosomosis,,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,7.0
+2009|Jan-Jun 2009|Jigawa|Rabies|,2009,Jan-Jun 2009,Rabies,,state,Jigawa,Jigawa,Both animal categories,3.0
+2009|Jan-Jun 2009|Kano|Rabies|,2009,Jan-Jun 2009,Rabies,,state,Kano,Kano,Both animal categories,1.0
+2009|Jan-Jun 2009|Niger|Trypanosomosis|,2009,Jan-Jun 2009,Trypanosomosis,,state,Niger,Niger,Both animal categories,3.0
+2009|Jan-Jun 2009|Ondo|Rabies|,2009,Jan-Jun 2009,Rabies,,state,Ondo,Ondo,Both animal categories,2.0
+2009|Jul-Dec 2009|Bauchi|Rabies|,2009,Jul-Dec 2009,Rabies,,state,Bauchi,Bauchi,Both animal categories,4.0
+2009|Jul-Dec 2009|Bauchi|Trypanosomosis|,2009,Jul-Dec 2009,Trypanosomosis,,state,Bauchi,Bauchi,Both animal categories,1.0
+2009|Jul-Dec 2009|Federal Capital Territory|Rabies|,2009,Jul-Dec 2009,Rabies,,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,2.0
+2009|Jul-Dec 2009|Federal Capital Territory|Trypanosomosis|,2009,Jul-Dec 2009,Trypanosomosis,,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,1.0
+2009|Jul-Dec 2009|Kaduna|Rabies|,2009,Jul-Dec 2009,Rabies,,state,Kaduna,Kaduna,Both animal categories,4.0
+2009|Jul-Dec 2009|Nasarawa|Trypanosomosis|,2009,Jul-Dec 2009,Trypanosomosis,,state,Nasarawa,Nasarawa,Both animal categories,2.0
+2009|Jul-Dec 2009|Plateau|Rabies|,2009,Jul-Dec 2009,Rabies,,state,Plateau,Plateau,Both animal categories,1.0
+2009|Jul-Dec 2009|Plateau|Trypanosomosis|,2009,Jul-Dec 2009,Trypanosomosis,,state,Plateau,Plateau,Both animal categories,1.0
+2010|Jan-Jun 2010|Enugu|Trypanosomosis|,2010,Jan-Jun 2010,Trypanosomosis,,state,Enugu,Enugu,Both animal categories,1.0
+2010|Jan-Jun 2010|Imo|Rabies|,2010,Jan-Jun 2010,Rabies,,state,Imo,Imo,Both animal categories,1.0
+2010|Jan-Jun 2010|Kaduna|Rabies|,2010,Jan-Jun 2010,Rabies,,state,Kaduna,Kaduna,Both animal categories,1.0
+2010|Jan-Jun 2010|Niger|Trypanosomosis|,2010,Jan-Jun 2010,Trypanosomosis,,state,Niger,Niger,Both animal categories,4.0
+2010|Jan-Jun 2010|Plateau|Rabies|,2010,Jan-Jun 2010,Rabies,,state,Plateau,Plateau,Both animal categories,1.0
+2010|Jul-Dec 2010|Bauchi|Rabies|,2010,Jul-Dec 2010,Rabies,,state,Bauchi,Bauchi,Both animal categories,1.0
+2010|Jul-Dec 2010|Enugu|Trypanosomosis|,2010,Jul-Dec 2010,Trypanosomosis,,state,Enugu,Enugu,Both animal categories,1.0
+2010|Jul-Dec 2010|Taraba|Rabies|,2010,Jul-Dec 2010,Rabies,,state,Taraba,Taraba,Both animal categories,1.0
+2011|Jan-Jun 2011|Benue|Rabies|,2011,Jan-Jun 2011,Rabies,,state,Benue,Benue,Both animal categories,1.0
+2011|Jan-Jun 2011|Cross River|Rabies|,2011,Jan-Jun 2011,Rabies,,state,Cross River,Cross River,Both animal categories,3.0
+2011|Jan-Jun 2011|Ebonyi|Rabies|,2011,Jan-Jun 2011,Rabies,,state,Ebonyi,Ebonyi,Both animal categories,1.0
+2011|Jan-Jun 2011|Gombe|Rabies|,2011,Jan-Jun 2011,Rabies,,state,Gombe,Gombe,Both animal categories,5.0
+2011|Jan-Jun 2011|Niger|Trypanosomosis|,2011,Jan-Jun 2011,Trypanosomosis,,state,Niger,Niger,Both animal categories,1.0
+2011|Jan-Jun 2011|Osun|Rabies|,2011,Jan-Jun 2011,Rabies,,state,Osun,Osun,Both animal categories,1.0
+2012|Jan-Jun 2012|Benue|Rabies|,2012,Jan-Jun 2012,Rabies,,state,Benue,Benue,Both animal categories,1.0
+2012|Jan-Jun 2012|Ekiti|Rabies|,2012,Jan-Jun 2012,Rabies,,state,Ekiti,Ekiti,Both animal categories,1.0
+2012|Jan-Jun 2012|Imo|Rabies|,2012,Jan-Jun 2012,Rabies,,state,Imo,Imo,Both animal categories,2.0
+2012|Jan-Jun 2012|Kogi|Rabies|,2012,Jan-Jun 2012,Rabies,,state,Kogi,Kogi,Both animal categories,1.0
+2012|Jan-Jun 2012|Taraba|Rabies|,2012,Jan-Jun 2012,Rabies,,state,Taraba,Taraba,Both animal categories,1.0
+2012|Jul-Dec 2012|Bauchi|Rabies|not typed,2012,Jul-Dec 2012,Rabies,not typed,state,Bauchi,Bauchi,Both animal categories,2.0
+2012|Jul-Dec 2012|Bauchi|Rabies|RABV;not typed,2012,Jul-Dec 2012,Rabies,RABV;not typed,state,Bauchi,Bauchi,Both animal categories,2.0
+2012|Jul-Dec 2012|Cross River|Rabies|RABV,2012,Jul-Dec 2012,Rabies,RABV,state,Cross River,Cross River,Both animal categories,3.0
+2012|Jul-Dec 2012|Ekiti|Rabies|RABV,2012,Jul-Dec 2012,Rabies,RABV,state,Ekiti,Ekiti,Both animal categories,1.0
+2012|Jul-Dec 2012|Kaduna|Rabies|not typed,2012,Jul-Dec 2012,Rabies,not typed,state,Kaduna,Kaduna,Both animal categories,1.0
+2012|Jul-Dec 2012|Kogi|Rabies|not typed,2012,Jul-Dec 2012,Rabies,not typed,state,Kogi,Kogi,Both animal categories,1.0
+2012|Jul-Dec 2012|Niger|Trypanosomosis|,2012,Jul-Dec 2012,Trypanosomosis,,state,Niger,Niger,Both animal categories,1.0
+2012|Jul-Dec 2012|Osun|Rabies|RABV,2012,Jul-Dec 2012,Rabies,RABV,state,Osun,Osun,Both animal categories,1.0
+2012|Jul-Dec 2012|Plateau|Rabies|not typed,2012,Jul-Dec 2012,Rabies,not typed,state,Plateau,Plateau,Both animal categories,2.0
+2013|Jan-Jun 2013|Anambra|Rabies|not typed,2013,Jan-Jun 2013,Rabies,not typed,state,Anambra,Anambra,Both animal categories,1.0
+2013|Jan-Jun 2013|Ekiti|Rabies|not typed,2013,Jan-Jun 2013,Rabies,not typed,state,Ekiti,Ekiti,Both animal categories,1.0
+2013|Jan-Jun 2013|Enugu|Trypanosomosis|,2013,Jan-Jun 2013,Trypanosomosis,,state,Enugu,Enugu,Both animal categories,3.0
+2013|Jan-Jun 2013|Imo|Rabies|not typed,2013,Jan-Jun 2013,Rabies,not typed,state,Imo,Imo,Both animal categories,1.0
+2013|Jan-Jun 2013|Kaduna|Rabies|not typed,2013,Jan-Jun 2013,Rabies,not typed,state,Kaduna,Kaduna,Both animal categories,1.0
+2013|Jan-Jun 2013|Niger|Trypanosomosis|,2013,Jan-Jun 2013,Trypanosomosis,,state,Niger,Niger,Both animal categories,5.0
+2013|Jan-Jun 2013|Osun|Rabies|not typed,2013,Jan-Jun 2013,Rabies,not typed,state,Osun,Osun,Both animal categories,2.0
+2013|Jan-Jun 2013|Plateau|Rabies|not typed,2013,Jan-Jun 2013,Rabies,not typed,state,Plateau,Plateau,Both animal categories,12.0
+2013|Jul-Dec 2013|Ekiti|Rabies|not typed,2013,Jul-Dec 2013,Rabies,not typed,state,Ekiti,Ekiti,Both animal categories,2.0
+2013|Jul-Dec 2013|Niger|Rabies|not typed,2013,Jul-Dec 2013,Rabies,not typed,state,Niger,Niger,Both animal categories,1.0
+2013|Jul-Dec 2013|Niger|Trypanosomosis|,2013,Jul-Dec 2013,Trypanosomosis,,state,Niger,Niger,Both animal categories,3.0
+2013|Jul-Dec 2013|Plateau|Rabies|not typed,2013,Jul-Dec 2013,Rabies,not typed,state,Plateau,Plateau,Both animal categories,10.0
+2014|Jan-Jun 2014|Niger|Trypanosomosis|,2014,Jan-Jun 2014,Trypanosomosis,,state,Niger,Niger,Both animal categories,3.0
+2014|Jan-Jun 2014|Osun|Rabies|,2014,Jan-Jun 2014,Rabies,,state,Osun,Osun,Both animal categories,1.0
+2014|Jan-Jun 2014|Plateau|Rabies|,2014,Jan-Jun 2014,Rabies,,state,Plateau,Plateau,Both animal categories,5.0
+2014|Jul-Dec 2014|Nigeria|HPAI|H5 (N untyped),2014,Jul-Dec 2014,HPAI,H5 (N untyped),national,Nigeria,Nigeria,Both animal categories,1.0
+2014|Jul-Dec 2014|Osun|Rabies|,2014,Jul-Dec 2014,Rabies,,state,Osun,Osun,Both animal categories,2.0
+2014|Jul-Dec 2014|Plateau|Rabies|,2014,Jul-Dec 2014,Rabies,,state,Plateau,Plateau,Both animal categories,1.0
+2015|Jan-Jun 2015|Bauchi|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Bauchi,Bauchi,Both animal categories,5.0
+2015|Jan-Jun 2015|Delta|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Delta,Delta,Both animal categories,1.0
+2015|Jan-Jun 2015|Edo|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Edo,Edo,Both animal categories,1.0
+2015|Jan-Jun 2015|Jigawa|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Jigawa,Jigawa,Both animal categories,3.0
+2015|Jan-Jun 2015|Kaduna|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Kaduna,Kaduna,Both animal categories,3.0
+2015|Jan-Jun 2015|Kano|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Kano,Kano,Both animal categories,29.0
+2015|Jan-Jun 2015|Lagos|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Lagos,Lagos,Both animal categories,4.0
+2015|Jan-Jun 2015|Nasarawa|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Nasarawa,Nasarawa,Both animal categories,1.0
+2015|Jan-Jun 2015|Ogun|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Ogun,Ogun,Both animal categories,4.0
+2015|Jan-Jun 2015|Osun|Rabies|,2015,Jan-Jun 2015,Rabies,,state,Osun,Osun,Both animal categories,1.0
+2015|Jan-Jun 2015|Osun|Trypanosomosis|,2015,Jan-Jun 2015,Trypanosomosis,,state,Osun,Osun,Both animal categories,1.0
+2015|Jan-Jun 2015|Oyo|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Oyo,Oyo,Both animal categories,2.0
+2015|Jan-Jun 2015|Oyo|Trypanosomosis|,2015,Jan-Jun 2015,Trypanosomosis,,state,Oyo,Oyo,Both animal categories,1.0
+2015|Jan-Jun 2015|Plateau|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Plateau,Plateau,Both animal categories,117.0
+2015|Jan-Jun 2015|Rivers|HPAI|H5N1,2015,Jan-Jun 2015,HPAI,H5N1,state,Rivers,Rivers,Both animal categories,3.0
+2015|Jul-Dec 2015|Abia|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Abia,Abia,Both animal categories,2.0
+2015|Jul-Dec 2015|Adamawa|Rabies|,2015,Jul-Dec 2015,Rabies,,state,Adamawa,Adamawa,Both animal categories,1.0
+2015|Jul-Dec 2015|Anambra|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Anambra,Anambra,Both animal categories,1.0
+2015|Jul-Dec 2015|Bayelsa|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Bayelsa,Bayelsa,Both animal categories,1.0
+2015|Jul-Dec 2015|Delta|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Delta,Delta,Both animal categories,3.0
+2015|Jul-Dec 2015|Edo|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Edo,Edo,Both animal categories,2.0
+2015|Jul-Dec 2015|Enugu|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Enugu,Enugu,Both animal categories,3.0
+2015|Jul-Dec 2015|Federal Capital Territory|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,1.0
+2015|Jul-Dec 2015|Gombe|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Gombe,Gombe,Both animal categories,1.0
+2015|Jul-Dec 2015|Jigawa|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Jigawa,Jigawa,Both animal categories,1.0
+2015|Jul-Dec 2015|Kaduna|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Kaduna,Kaduna,Both animal categories,1.0
+2015|Jul-Dec 2015|Kano|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Kano,Kano,Both animal categories,4.0
+2015|Jul-Dec 2015|Lagos|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Lagos,Lagos,Both animal categories,17.0
+2015|Jul-Dec 2015|Nasarawa|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Nasarawa,Nasarawa,Both animal categories,1.0
+2015|Jul-Dec 2015|Ogun|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Ogun,Ogun,Both animal categories,1.0
+2015|Jul-Dec 2015|Osun|Trypanosomosis|,2015,Jul-Dec 2015,Trypanosomosis,,state,Osun,Osun,Both animal categories,1.0
+2015|Jul-Dec 2015|Oyo|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Oyo,Oyo,Both animal categories,3.0
+2015|Jul-Dec 2015|Rivers|HPAI|H5N1,2015,Jul-Dec 2015,HPAI,H5N1,state,Rivers,Rivers,Both animal categories,36.0
+2016|Jan-Jun 2016|Adamawa|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Adamawa,Adamawa,Both animal categories,3.0
+2016|Jan-Jun 2016|Bauchi|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Bauchi,Bauchi,Both animal categories,4.0
+2016|Jan-Jun 2016|Bayelsa|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Bayelsa,Bayelsa,Both animal categories,1.0
+2016|Jan-Jun 2016|Benue|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Benue,Benue,Both animal categories,1.0
+2016|Jan-Jun 2016|Delta|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Delta,Delta,Both animal categories,1.0
+2016|Jan-Jun 2016|Ebonyi|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Ebonyi,Ebonyi,Both animal categories,2.0
+2016|Jan-Jun 2016|Edo|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Edo,Edo,Both animal categories,7.0
+2016|Jan-Jun 2016|Enugu|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Enugu,Enugu,Both animal categories,2.0
+2016|Jan-Jun 2016|Federal Capital Territory|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,15.0
+2016|Jan-Jun 2016|Jigawa|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Jigawa,Jigawa,Both animal categories,2.0
+2016|Jan-Jun 2016|Kaduna|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Kaduna,Kaduna,Both animal categories,12.0
+2016|Jan-Jun 2016|Kano|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Kano,Kano,Both animal categories,91.0
+2016|Jan-Jun 2016|Katsina|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Katsina,Katsina,Both animal categories,5.0
+2016|Jan-Jun 2016|Kebbi|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Kebbi,Kebbi,Both animal categories,1.0
+2016|Jan-Jun 2016|Lagos|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Lagos,Lagos,Both animal categories,1.0
+2016|Jan-Jun 2016|Nasarawa|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Nasarawa,Nasarawa,Both animal categories,1.0
+2016|Jan-Jun 2016|Plateau|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Plateau,Plateau,Both animal categories,55.0
+2016|Jan-Jun 2016|Sokoto|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Sokoto,Sokoto,Both animal categories,2.0
+2016|Jan-Jun 2016|Zamfara|HPAI|H5N1,2016,Jan-Jun 2016,HPAI,H5N1,state,Zamfara,Zamfara,Both animal categories,3.0
+2016|Jul-Dec 2016|Bauchi|HPAI|H5N1,2016,Jul-Dec 2016,HPAI,H5N1,state,Bauchi,Bauchi,Both animal categories,2.0
+2016|Jul-Dec 2016|Delta|HPAI|H5N1,2016,Jul-Dec 2016,HPAI,H5N1,state,Delta,Delta,Both animal categories,1.0
+2016|Jul-Dec 2016|Federal Capital Territory|HPAI|H5N1,2016,Jul-Dec 2016,HPAI,H5N1,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,1.0
+2016|Jul-Dec 2016|Kano|HPAI|H5N1;H5N8,2016,Jul-Dec 2016,HPAI,H5N1;H5N8,state,Kano,Kano,Both animal categories,1.0
+2016|Jul-Dec 2016|Lagos|HPAI|H5N1,2016,Jul-Dec 2016,HPAI,H5N1,state,Lagos,Lagos,Both animal categories,1.0
+2016|Jul-Dec 2016|Oyo|HPAI|H5N1,2016,Jul-Dec 2016,HPAI,H5N1,state,Oyo,Oyo,Both animal categories,1.0
+2016|Jul-Dec 2016|Rivers|HPAI|H5N1,2016,Jul-Dec 2016,HPAI,H5N1,state,Rivers,Rivers,Both animal categories,3.0
+2016|Jul-Dec 2016|Sokoto|Rabies|,2016,Jul-Dec 2016,Rabies,,state,Sokoto,Sokoto,Both animal categories,1.0
+2017|Jan-Jun 2017|Adamawa|HPAI|H5N1,2017,Jan-Jun 2017,HPAI,H5N1,state,Adamawa,Adamawa,Both animal categories,1.0
+2017|Jan-Jun 2017|Bauchi|HPAI|H5N1,2017,Jan-Jun 2017,HPAI,H5N1,state,Bauchi,Bauchi,Both animal categories,12.0
+2017|Jan-Jun 2017|Edo|HPAI|H5N1,2017,Jan-Jun 2017,HPAI,H5N1,state,Edo,Edo,Both animal categories,1.0
+2017|Jan-Jun 2017|Federal Capital Territory|HPAI|H5N1,2017,Jan-Jun 2017,HPAI,H5N1,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,1.0
+2017|Jan-Jun 2017|Gombe|Trypanosomosis|,2017,Jan-Jun 2017,Trypanosomosis,,state,Gombe,Gombe,Both animal categories,1.0
+2017|Jan-Jun 2017|Kaduna|HPAI|H5N1,2017,Jan-Jun 2017,HPAI,H5N1,state,Kaduna,Kaduna,Both animal categories,3.0
+2017|Jan-Jun 2017|Kaduna|Rabies|,2017,Jan-Jun 2017,Rabies,,state,Kaduna,Kaduna,Both animal categories,2.0
+2017|Jan-Jun 2017|Kano|HPAI|H5N1,2017,Jan-Jun 2017,HPAI,H5N1,state,Kano,Kano,Both animal categories,1.0
+2017|Jan-Jun 2017|Kano|HPAI|H5N8,2017,Jan-Jun 2017,HPAI,H5N8,state,Kano,Kano,Both animal categories,1.0
+2017|Jan-Jun 2017|Katsina|HPAI|H5N1,2017,Jan-Jun 2017,HPAI,H5N1,state,Katsina,Katsina,Both animal categories,1.0
+2017|Jan-Jun 2017|Nasarawa|HPAI|H5N1,2017,Jan-Jun 2017,HPAI,H5N1,state,Nasarawa,Nasarawa,Both animal categories,1.0
+2017|Jan-Jun 2017|Plateau|HPAI|H5N1,2017,Jan-Jun 2017,HPAI,H5N1,state,Plateau,Plateau,Both animal categories,21.0
+2017|Jan-Jun 2017|Plateau|Rabies|,2017,Jan-Jun 2017,Rabies,,state,Plateau,Plateau,Both animal categories,1.0
+2017|Jul-Dec 2017|Bauchi|Rabies|,2017,Jul-Dec 2017,Rabies,,state,Bauchi,Bauchi,Both animal categories,4.0
+2017|Jul-Dec 2017|Benue|Rabies|,2017,Jul-Dec 2017,Rabies,,state,Benue,Benue,Both animal categories,1.0
+2017|Jul-Dec 2017|Gombe|Trypanosomosis|,2017,Jul-Dec 2017,Trypanosomosis,,state,Gombe,Gombe,Both animal categories,1.0
+2017|Jul-Dec 2017|Kaduna|Rabies|,2017,Jul-Dec 2017,Rabies,,state,Kaduna,Kaduna,Both animal categories,5.0
+2017|Jul-Dec 2017|Kano|Rabies|,2017,Jul-Dec 2017,Rabies,,state,Kano,Kano,Both animal categories,2.0
+2017|Jul-Dec 2017|Kwara|Rabies|,2017,Jul-Dec 2017,Rabies,,state,Kwara,Kwara,Both animal categories,1.0
+2017|Jul-Dec 2017|Ogun|HPAI|H5N8,2017,Jul-Dec 2017,HPAI,H5N8,state,Ogun,Ogun,Both animal categories,1.0
+2017|Jul-Dec 2017|Plateau|Rabies|,2017,Jul-Dec 2017,Rabies,,state,Plateau,Plateau,Both animal categories,35.0
+2018|Jan-Jun 2018|Adamawa|Rabies|,2018,Jan-Jun 2018,Rabies,,state,Adamawa,Adamawa,Both animal categories,1.0
+2018|Jan-Jun 2018|Kaduna|Rabies|,2018,Jan-Jun 2018,Rabies,,state,Kaduna,Kaduna,Both animal categories,2.0
+2018|Jan-Jun 2018|Kano|Rabies|,2018,Jan-Jun 2018,Rabies,,state,Kano,Kano,Both animal categories,3.0
+2018|Jan-Jun 2018|Kwara|Rabies|,2018,Jan-Jun 2018,Rabies,,state,Kwara,Kwara,Both animal categories,1.0
+2018|Jan-Jun 2018|Kwara|Trypanosomosis|,2018,Jan-Jun 2018,Trypanosomosis,,state,Kwara,Kwara,Both animal categories,5.0
+2018|Jan-Jun 2018|Nasarawa|HPAI|H5N8,2018,Jan-Jun 2018,HPAI,H5N8,state,Nasarawa,Nasarawa,Both animal categories,1.0
+2018|Jan-Jun 2018|Plateau|Rabies|,2018,Jan-Jun 2018,Rabies,,state,Plateau,Plateau,Both animal categories,25.0
+2018|Jul-Dec 2018|Bauchi|Rabies|,2018,Jul-Dec 2018,Rabies,,state,Bauchi,Bauchi,Both animal categories,3.0
+2018|Jul-Dec 2018|Bayelsa|Rabies|,2018,Jul-Dec 2018,Rabies,,state,Bayelsa,Bayelsa,Both animal categories,1.0
+2018|Jul-Dec 2018|Benue|Rabies|,2018,Jul-Dec 2018,Rabies,,state,Benue,Benue,Both animal categories,2.0
+2018|Jul-Dec 2018|Federal Capital Territory|Rabies|,2018,Jul-Dec 2018,Rabies,,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,1.0
+2018|Jul-Dec 2018|Kaduna|Rabies|,2018,Jul-Dec 2018,Rabies,,state,Kaduna,Kaduna,Both animal categories,6.0
+2018|Jul-Dec 2018|Kano|Rabies|,2018,Jul-Dec 2018,Rabies,,state,Kano,Kano,Both animal categories,4.0
+2018|Jul-Dec 2018|Kebbi|Rabies|,2018,Jul-Dec 2018,Rabies,,state,Kebbi,Kebbi,Both animal categories,8.0
+2018|Jul-Dec 2018|Kwara|Trypanosomosis|,2018,Jul-Dec 2018,Trypanosomosis,,state,Kwara,Kwara,Both animal categories,6.0
+2018|Jul-Dec 2018|Plateau|Rabies|,2018,Jul-Dec 2018,Rabies,,state,Plateau,Plateau,Both animal categories,34.0
+2019|Jan-Jun 2019|Bauchi|Rabies|,2019,Jan-Jun 2019,Rabies,,state,Bauchi,Bauchi,Both animal categories,2.0
+2019|Jan-Jun 2019|Bayelsa|Rabies|,2019,Jan-Jun 2019,Rabies,,state,Bayelsa,Bayelsa,Both animal categories,1.0
+2019|Jan-Jun 2019|Edo|HPAI|H5N8,2019,Jan-Jun 2019,HPAI,H5N8,state,Edo,Edo,Both animal categories,2.0
+2019|Jan-Jun 2019|Kaduna|Rabies|,2019,Jan-Jun 2019,Rabies,,state,Kaduna,Kaduna,Both animal categories,2.0
+2019|Jan-Jun 2019|Kano|Rabies|,2019,Jan-Jun 2019,Rabies,,state,Kano,Kano,Both animal categories,1.0
+2019|Jan-Jun 2019|Kwara|Trypanosomosis|,2019,Jan-Jun 2019,Trypanosomosis,,state,Kwara,Kwara,Both animal categories,2.0
+2019|Jan-Jun 2019|Ondo|Trypanosomosis|,2019,Jan-Jun 2019,Trypanosomosis,,state,Ondo,Ondo,Both animal categories,1.0
+2019|Jan-Jun 2019|Plateau|Rabies|,2019,Jan-Jun 2019,Rabies,,state,Plateau,Plateau,Both animal categories,31.0
+2019|Jan-Jun 2019|Zamfara|Trypanosomosis|,2019,Jan-Jun 2019,Trypanosomosis,,state,Zamfara,Zamfara,Both animal categories,1.0
+2019|Jul-Dec 2019|Anambra|Trypanosomosis|,2019,Jul-Dec 2019,Trypanosomosis,,state,Anambra,Anambra,Both animal categories,2.0
+2019|Jul-Dec 2019|Bauchi|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Bauchi,Bauchi,Both animal categories,4.0
+2019|Jul-Dec 2019|Bayelsa|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Bayelsa,Bayelsa,Both animal categories,2.0
+2019|Jul-Dec 2019|Edo|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Edo,Edo,Both animal categories,1.0
+2019|Jul-Dec 2019|Federal Capital Territory|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,1.0
+2019|Jul-Dec 2019|Kaduna|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Kaduna,Kaduna,Both animal categories,5.0
+2019|Jul-Dec 2019|Kano|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Kano,Kano,Both animal categories,2.0
+2019|Jul-Dec 2019|Katsina|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Katsina,Katsina,Both animal categories,1.0
+2019|Jul-Dec 2019|Kebbi|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Kebbi,Kebbi,Both animal categories,1.0
+2019|Jul-Dec 2019|Kwara|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Kwara,Kwara,Both animal categories,1.0
+2019|Jul-Dec 2019|Niger|Trypanosomosis|,2019,Jul-Dec 2019,Trypanosomosis,,state,Niger,Niger,Both animal categories,7.0
+2019|Jul-Dec 2019|Ondo|Trypanosomosis|,2019,Jul-Dec 2019,Trypanosomosis,,state,Ondo,Ondo,Both animal categories,1.0
+2019|Jul-Dec 2019|Osun|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Osun,Osun,Both animal categories,1.0
+2019|Jul-Dec 2019|Plateau|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Plateau,Plateau,Both animal categories,14.0
+2019|Jul-Dec 2019|Yobe|Rabies|,2019,Jul-Dec 2019,Rabies,,state,Yobe,Yobe,Both animal categories,1.0
+2020|Jan-Jun 2020|Anambra|Trypanosomosis|,2020,Jan-Jun 2020,Trypanosomosis,,state,Anambra,Anambra,Both animal categories,1.0
+2020|Jan-Jun 2020|Bauchi|Rabies|RABV,2020,Jan-Jun 2020,Rabies,RABV,state,Bauchi,Bauchi,Domestic,4.0
+2020|Jan-Jun 2020|Bayelsa|Rabies|RABV,2020,Jan-Jun 2020,Rabies,RABV,state,Bayelsa,Bayelsa,Domestic,1.0
+2020|Jan-Jun 2020|Ebonyi|Rabies|RABV,2020,Jan-Jun 2020,Rabies,RABV,state,Ebonyi,Ebonyi,Domestic,1.0
+2020|Jan-Jun 2020|Gombe|Rabies|RABV,2020,Jan-Jun 2020,Rabies,RABV,state,Gombe,Gombe,Domestic,1.0
+2020|Jan-Jun 2020|Kaduna|Rabies|RABV,2020,Jan-Jun 2020,Rabies,RABV,state,Kaduna,Kaduna,Domestic,3.0
+2020|Jan-Jun 2020|Kano|Rabies|RABV,2020,Jan-Jun 2020,Rabies,RABV,state,Kano,Kano,Domestic,5.0
+2020|Jan-Jun 2020|Katsina|Rabies|RABV,2020,Jan-Jun 2020,Rabies,RABV,state,Katsina,Katsina,Domestic,3.0
+2020|Jan-Jun 2020|Kebbi|Rabies|RABV,2020,Jan-Jun 2020,Rabies,RABV,state,Kebbi,Kebbi,Domestic,3.0
+2020|Jan-Jun 2020|Niger|Trypanosomosis|,2020,Jan-Jun 2020,Trypanosomosis,,state,Niger,Niger,Both animal categories,4.0
+2020|Jan-Jun 2020|Ogun|Rabies|RABV,2020,Jan-Jun 2020,Rabies,RABV,state,Ogun,Ogun,Domestic,1.0
+2020|Jan-Jun 2020|Ondo|Trypanosomosis|,2020,Jan-Jun 2020,Trypanosomosis,,state,Ondo,Ondo,Both animal categories,1.0
+2020|Jan-Jun 2020|Plateau|Rabies|RABV,2020,Jan-Jun 2020,Rabies,RABV,state,Plateau,Plateau,Domestic,24.0
+2020|Jan-Jun 2020|Zamfara|Trypanosomosis|,2020,Jan-Jun 2020,Trypanosomosis,,state,Zamfara,Zamfara,Both animal categories,1.0
+2020|Jul-Dec 2020|Akwa Ibom|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Akwa Ibom,Akwa Ibom,Both animal categories,6.0
+2020|Jul-Dec 2020|Bauchi|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Bauchi,Bauchi,Both animal categories,7.0
+2020|Jul-Dec 2020|Benue|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Benue,Benue,Both animal categories,1.0
+2020|Jul-Dec 2020|Borno|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Borno,Borno,Both animal categories,1.0
+2020|Jul-Dec 2020|Gombe|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Gombe,Gombe,Both animal categories,3.0
+2020|Jul-Dec 2020|Kaduna|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Kaduna,Kaduna,Both animal categories,6.0
+2020|Jul-Dec 2020|Kano|HPAI|H5N1,2020,Jul-Dec 2020,HPAI,H5N1,state,Kano,Kano,Domestic,1.0
+2020|Jul-Dec 2020|Kano|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Kano,Kano,Both animal categories,3.0
+2020|Jul-Dec 2020|Katsina|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Katsina,Katsina,Both animal categories,1.0
+2020|Jul-Dec 2020|Kwara|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Kwara,Kwara,Both animal categories,1.0
+2020|Jul-Dec 2020|Niger|Trypanosomosis|,2020,Jul-Dec 2020,Trypanosomosis,,state,Niger,Niger,Both animal categories,7.0
+2020|Jul-Dec 2020|Oyo|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Oyo,Oyo,Both animal categories,5.0
+2020|Jul-Dec 2020|Plateau|Rabies|RABV,2020,Jul-Dec 2020,Rabies,RABV,state,Plateau,Plateau,Both animal categories,27.0
+2021|Jan-Jun 2021|Bauchi|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Bauchi,Bauchi,Domestic,8.0
+2021|Jan-Jun 2021|Bauchi|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Bauchi,Bauchi,Both animal categories,4.0
+2021|Jan-Jun 2021|Bayelsa|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Bayelsa,Bayelsa,Domestic,1.0
+2021|Jan-Jun 2021|Bayelsa|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Bayelsa,Bayelsa,Both animal categories,1.0
+2021|Jan-Jun 2021|Benue|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Benue,Benue,Both animal categories,2.0
+2021|Jan-Jun 2021|Delta|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Delta,Delta,Domestic,3.0
+2021|Jan-Jun 2021|Delta|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Delta,Delta,Both animal categories,1.0
+2021|Jan-Jun 2021|Edo|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Edo,Edo,Domestic,2.0
+2021|Jan-Jun 2021|Federal Capital Territory|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,1.0
+2021|Jan-Jun 2021|Gombe|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Gombe,Gombe,Domestic,2.0
+2021|Jan-Jun 2021|Gombe|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Gombe,Gombe,Both animal categories,1.0
+2021|Jan-Jun 2021|Jigawa|Trypanosomosis|,2021,Jan-Jun 2021,Trypanosomosis,,state,Jigawa,Jigawa,Domestic,1.0
+2021|Jan-Jun 2021|Kaduna|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Kaduna,Kaduna,Domestic,3.0
+2021|Jan-Jun 2021|Kaduna|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Kaduna,Kaduna,Both animal categories,11.0
+2021|Jan-Jun 2021|Kano|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Kano,Kano,Domestic,20.0
+2021|Jan-Jun 2021|Kano|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Kano,Kano,Both animal categories,3.0
+2021|Jan-Jun 2021|Kogi|Trypanosomosis|,2021,Jan-Jun 2021,Trypanosomosis,,state,Kogi,Kogi,Domestic,1.0
+2021|Jan-Jun 2021|Kwara|Trypanosomosis|,2021,Jan-Jun 2021,Trypanosomosis,,state,Kwara,Kwara,Domestic,1.0
+2021|Jan-Jun 2021|Lagos|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Lagos,Lagos,Domestic,1.0
+2021|Jan-Jun 2021|Lagos|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Lagos,Lagos,Both animal categories,3.0
+2021|Jan-Jun 2021|Lagos|Trypanosomosis|,2021,Jan-Jun 2021,Trypanosomosis,,state,Lagos,Lagos,Domestic,2.0
+2021|Jan-Jun 2021|Nassarawa|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Nassarawa,Nasarawa,Domestic,3.0
+2021|Jan-Jun 2021|Niger|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Niger,Niger,Domestic,1.0
+2021|Jan-Jun 2021|Niger|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Niger,Niger,Both animal categories,1.0
+2021|Jan-Jun 2021|Niger|Trypanosomosis|,2021,Jan-Jun 2021,Trypanosomosis,,state,Niger,Niger,Domestic,7.0
+2021|Jan-Jun 2021|Plateau|HPAI|H5N1,2021,Jan-Jun 2021,HPAI,H5N1,state,Plateau,Plateau,Domestic,44.0
+2021|Jan-Jun 2021|Plateau|Rabies|RABV,2021,Jan-Jun 2021,Rabies,RABV,state,Plateau,Plateau,Both animal categories,37.0
+2021|Jul-Dec 2021|Abia|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Abia,Abia,Domestic,2.0
+2021|Jul-Dec 2021|Akwa Ibom|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Akwa Ibom,Akwa Ibom,Domestic,1.0
+2021|Jul-Dec 2021|Anambra|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Anambra,Anambra,Domestic,2.0
+2021|Jul-Dec 2021|Anambra|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Anambra,Anambra,Domestic,1.0
+2021|Jul-Dec 2021|Bauchi|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Bauchi,Bauchi,Domestic,6.0
+2021|Jul-Dec 2021|Bauchi|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Bauchi,Bauchi,Both animal categories,10.0
+2021|Jul-Dec 2021|Bauchi|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Bauchi,Bauchi,Domestic,4.0
+2021|Jul-Dec 2021|Bayelsa|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Bayelsa,Bayelsa,Domestic,5.0
+2021|Jul-Dec 2021|Benue|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Benue,Benue,Both animal categories,3.0
+2021|Jul-Dec 2021|Delta|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Delta,Delta,Domestic,17.0
+2021|Jul-Dec 2021|Delta|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Delta,Delta,Both animal categories,1.0
+2021|Jul-Dec 2021|Ebonyi|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Ebonyi,Ebonyi,Both animal categories,1.0
+2021|Jul-Dec 2021|Edo|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Edo,Edo,Domestic,3.0
+2021|Jul-Dec 2021|Enugu|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Enugu,Enugu,Domestic,2.0
+2021|Jul-Dec 2021|Enugu|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Enugu,Enugu,Domestic,2.0
+2021|Jul-Dec 2021|Federal Capital Territory|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,1.0
+2021|Jul-Dec 2021|Gombe|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Gombe,Gombe,Domestic,5.0
+2021|Jul-Dec 2021|Imo|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Imo,Imo,Both animal categories,1.0
+2021|Jul-Dec 2021|Jigawa|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Jigawa,Jigawa,Domestic,3.0
+2021|Jul-Dec 2021|Kaduna|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Kaduna,Kaduna,Both animal categories,7.0
+2021|Jul-Dec 2021|Kano|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Kano,Kano,Domestic,8.0
+2021|Jul-Dec 2021|Kano|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Kano,Kano,Both animal categories,10.0
+2021|Jul-Dec 2021|Katsina|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Katsina,Katsina,Both animal categories,1.0
+2021|Jul-Dec 2021|Kebbi|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Kebbi,Kebbi,Both animal categories,8.0
+2021|Jul-Dec 2021|Kogi|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Kogi,Kogi,Domestic,2.0
+2021|Jul-Dec 2021|Kwara|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Kwara,Kwara,Domestic,4.0
+2021|Jul-Dec 2021|Lagos|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Lagos,Lagos,Domestic,80.0
+2021|Jul-Dec 2021|Lagos|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Lagos,Lagos,Domestic,1.0
+2021|Jul-Dec 2021|Niger|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Niger,Niger,Domestic,6.0
+2021|Jul-Dec 2021|Niger|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Niger,Niger,Domestic,8.0
+2021|Jul-Dec 2021|Ogun|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Ogun,Ogun,Domestic,10.0
+2021|Jul-Dec 2021|Ondo|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Ondo,Ondo,Domestic,1.0
+2021|Jul-Dec 2021|Oyo|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Oyo,Oyo,Domestic,6.0
+2021|Jul-Dec 2021|Oyo|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Oyo,Oyo,Domestic,1.0
+2021|Jul-Dec 2021|Plateau|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Plateau,Plateau,Domestic,4.0
+2021|Jul-Dec 2021|Plateau|Rabies|RABV,2021,Jul-Dec 2021,Rabies,RABV,state,Plateau,Plateau,Both animal categories,39.0
+2021|Jul-Dec 2021|Plateau|Trypanosomosis|,2021,Jul-Dec 2021,Trypanosomosis,,state,Plateau,Plateau,Domestic,1.0
+2021|Jul-Dec 2021|Rivers|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Rivers,Rivers,Domestic,11.0
+2021|Jul-Dec 2021|Taraba|HPAI|H5N1,2021,Jul-Dec 2021,HPAI,H5N1,state,Taraba,Taraba,Domestic,1.0
+2022|Jan-Jun 2022|Abia|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Abia,Abia,Domestic,1.0
+2022|Jan-Jun 2022|Adamawa|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Adamawa,Adamawa,Domestic,1.0
+2022|Jan-Jun 2022|Adamawa|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Adamawa,Adamawa,Both animal categories,1.0
+2022|Jan-Jun 2022|Anambra|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Anambra,Anambra,Domestic,1.0
+2022|Jan-Jun 2022|Bauchi|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Bauchi,Bauchi,Domestic,3.0
+2022|Jan-Jun 2022|Bauchi|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Bauchi,Bauchi,Both animal categories,5.0
+2022|Jan-Jun 2022|Borno|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Borno,Borno,Domestic,1.0
+2022|Jan-Jun 2022|Borno|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Borno,Borno,Both animal categories,1.0
+2022|Jan-Jun 2022|Delta|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Delta,Delta,Both animal categories,1.0
+2022|Jan-Jun 2022|Ebonyi|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Ebonyi,Ebonyi,Domestic,1.0
+2022|Jan-Jun 2022|Ebonyi|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Ebonyi,Ebonyi,Both animal categories,1.0
+2022|Jan-Jun 2022|Edo|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Edo,Edo,Domestic,2.0
+2022|Jan-Jun 2022|Ekiti|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Ekiti,Ekiti,Both animal categories,2.0
+2022|Jan-Jun 2022|Federal Capital Territory|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Federal Capital Territory,Federal Capital Territory,Domestic,6.0
+2022|Jan-Jun 2022|Gombe|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Gombe,Gombe,Domestic,6.0
+2022|Jan-Jun 2022|Gombe|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Gombe,Gombe,Both animal categories,1.0
+2022|Jan-Jun 2022|Jigawa|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Jigawa,Jigawa,Domestic,1.0
+2022|Jan-Jun 2022|Kaduna|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Kaduna,Kaduna,Domestic,7.0
+2022|Jan-Jun 2022|Kaduna|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Kaduna,Kaduna,Both animal categories,2.0
+2022|Jan-Jun 2022|Kano|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Kano,Kano,Domestic,37.0
+2022|Jan-Jun 2022|Kano|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Kano,Kano,Both animal categories,11.0
+2022|Jan-Jun 2022|Katsina|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Katsina,Katsina,Domestic,8.0
+2022|Jan-Jun 2022|Kebbi|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Kebbi,Kebbi,Domestic,2.0
+2022|Jan-Jun 2022|Kogi|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Kogi,Kogi,Domestic,1.0
+2022|Jan-Jun 2022|Nassarawa|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Nassarawa,Nasarawa,Domestic,7.0
+2022|Jan-Jun 2022|Nassarawa|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Nassarawa,Nasarawa,Both animal categories,2.0
+2022|Jan-Jun 2022|Niger|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Niger,Niger,Domestic,3.0
+2022|Jan-Jun 2022|Niger|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Niger,Niger,Both animal categories,2.0
+2022|Jan-Jun 2022|Ogun|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Ogun,Ogun,Domestic,1.0
+2022|Jan-Jun 2022|Osun|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Osun,Osun,Both animal categories,1.0
+2022|Jan-Jun 2022|Oyo|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Oyo,Oyo,Domestic,1.0
+2022|Jan-Jun 2022|Plateau|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Plateau,Plateau,Domestic,17.0
+2022|Jan-Jun 2022|Plateau|Rabies|RABV,2022,Jan-Jun 2022,Rabies,RABV,state,Plateau,Plateau,Both animal categories,37.0
+2022|Jan-Jun 2022|Zamfara|HPAI|H5N1,2022,Jan-Jun 2022,HPAI,H5N1,state,Zamfara,Zamfara,Domestic,2.0
+2022|Jul-Dec 2022|Akwa Ibom|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Akwa Ibom,Akwa Ibom,Both animal categories,8.0
+2022|Jul-Dec 2022|Bauchi|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Bauchi,Bauchi,Both animal categories,8.0
+2022|Jul-Dec 2022|Bayelsa|HPAI|H5N1,2022,Jul-Dec 2022,HPAI,H5N1,state,Bayelsa,Bayelsa,Domestic,2.0
+2022|Jul-Dec 2022|Benue|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Benue,Benue,Both animal categories,1.0
+2022|Jul-Dec 2022|Cross River|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Cross River,Cross River,Both animal categories,2.0
+2022|Jul-Dec 2022|Delta|HPAI|H5N1,2022,Jul-Dec 2022,HPAI,H5N1,state,Delta,Delta,Domestic,13.0
+2022|Jul-Dec 2022|Delta|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Delta,Delta,Both animal categories,2.0
+2022|Jul-Dec 2022|Ebonyi|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Ebonyi,Ebonyi,Both animal categories,5.0
+2022|Jul-Dec 2022|Ekiti|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Ekiti,Ekiti,Both animal categories,1.0
+2022|Jul-Dec 2022|Enugu|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Enugu,Enugu,Both animal categories,1.0
+2022|Jul-Dec 2022|Gombe|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Gombe,Gombe,Both animal categories,3.0
+2022|Jul-Dec 2022|Kaduna|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Kaduna,Kaduna,Both animal categories,2.0
+2022|Jul-Dec 2022|Kano|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Kano,Kano,Both animal categories,2.0
+2022|Jul-Dec 2022|Lagos|HPAI|H5N1,2022,Jul-Dec 2022,HPAI,H5N1,state,Lagos,Lagos,Domestic,8.0
+2022|Jul-Dec 2022|Niger|HPAI|H5N1,2022,Jul-Dec 2022,HPAI,H5N1,state,Niger,Niger,Domestic,1.0
+2022|Jul-Dec 2022|Ogun|HPAI|H5N1,2022,Jul-Dec 2022,HPAI,H5N1,state,Ogun,Ogun,Domestic,2.0
+2022|Jul-Dec 2022|Ogun|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Ogun,Ogun,Both animal categories,1.0
+2022|Jul-Dec 2022|Osun|HPAI|H5N1,2022,Jul-Dec 2022,HPAI,H5N1,state,Osun,Osun,Domestic,1.0
+2022|Jul-Dec 2022|Oyo|HPAI|H5N1,2022,Jul-Dec 2022,HPAI,H5N1,state,Oyo,Oyo,Domestic,1.0
+2022|Jul-Dec 2022|Oyo|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Oyo,Oyo,Both animal categories,1.0
+2022|Jul-Dec 2022|Plateau|HPAI|H5N1,2022,Jul-Dec 2022,HPAI,H5N1,state,Plateau,Plateau,Domestic,1.0
+2022|Jul-Dec 2022|Plateau|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Plateau,Plateau,Both animal categories,73.0
+2022|Jul-Dec 2022|Rivers|HPAI|H5N1,2022,Jul-Dec 2022,HPAI,H5N1,state,Rivers,Rivers,Domestic,1.0
+2022|Jul-Dec 2022|Sokoto|HPAI|H5N1,2022,Jul-Dec 2022,HPAI,H5N1,state,Sokoto,Sokoto,Domestic,1.0
+2022|Jul-Dec 2022|Yobe|Rabies|RABV,2022,Jul-Dec 2022,Rabies,RABV,state,Yobe,Yobe,Both animal categories,1.0
+2023|Jan-Jun 2023|Bauchi|HPAI|H5N1,2023,Jan-Jun 2023,HPAI,H5N1,state,Bauchi,Bauchi,Domestic,1.0
+2023|Jan-Jun 2023|Bauchi|Rabies|RABV,2023,Jan-Jun 2023,Rabies,RABV,state,Bauchi,Bauchi,Both animal categories,7.0
+2023|Jan-Jun 2023|Ekiti|HPAI|H5N1,2023,Jan-Jun 2023,HPAI,H5N1,state,Ekiti,Ekiti,Domestic,1.0
+2023|Jan-Jun 2023|Gombe|Rabies|RABV,2023,Jan-Jun 2023,Rabies,RABV,state,Gombe,Gombe,Both animal categories,7.0
+2023|Jan-Jun 2023|Imo|HPAI|H5N1,2023,Jan-Jun 2023,HPAI,H5N1,state,Imo,Imo,Domestic,1.0
+2023|Jan-Jun 2023|Kaduna|Rabies|RABV,2023,Jan-Jun 2023,Rabies,RABV,state,Kaduna,Kaduna,Both animal categories,3.0
+2023|Jan-Jun 2023|Kano|HPAI|H5N1,2023,Jan-Jun 2023,HPAI,H5N1,state,Kano,Kano,Domestic,10.0
+2023|Jan-Jun 2023|Kano|Rabies|RABV,2023,Jan-Jun 2023,Rabies,RABV,state,Kano,Kano,Both animal categories,4.0
+2023|Jan-Jun 2023|Katsina|HPAI|H5N1,2023,Jan-Jun 2023,HPAI,H5N1,state,Katsina,Katsina,Domestic,2.0
+2023|Jan-Jun 2023|Ogun|Rabies|RABV,2023,Jan-Jun 2023,Rabies,RABV,state,Ogun,Ogun,Both animal categories,1.0
+2023|Jan-Jun 2023|Plateau|HPAI|H5N1,2023,Jan-Jun 2023,HPAI,H5N1,state,Plateau,Plateau,Domestic,1.0
+2023|Jan-Jun 2023|Plateau|Rabies|RABV,2023,Jan-Jun 2023,Rabies,RABV,state,Plateau,Plateau,Both animal categories,21.0
+2023|Jan-Jun 2023|Rivers|HPAI|H5N1,2023,Jan-Jun 2023,HPAI,H5N1,state,Rivers,Rivers,Domestic,1.0
+2023|Jul-Dec 2023|Bauchi|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Bauchi,Bauchi,Both animal categories,17.0
+2023|Jul-Dec 2023|Cross River|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Cross River,Cross River,Both animal categories,4.0
+2023|Jul-Dec 2023|Delta|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Delta,Delta,Both animal categories,5.0
+2023|Jul-Dec 2023|Ebonyi|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Ebonyi,Ebonyi,Both animal categories,2.0
+2023|Jul-Dec 2023|Ekiti|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Ekiti,Ekiti,Both animal categories,2.0
+2023|Jul-Dec 2023|Federal Capital Territory|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Federal Capital Territory,Federal Capital Territory,Both animal categories,1.0
+2023|Jul-Dec 2023|Gombe|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Gombe,Gombe,Both animal categories,9.0
+2023|Jul-Dec 2023|Jigawa|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Jigawa,Jigawa,Both animal categories,1.0
+2023|Jul-Dec 2023|Kaduna|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Kaduna,Kaduna,Both animal categories,7.0
+2023|Jul-Dec 2023|Kano|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Kano,Kano,Both animal categories,14.0
+2023|Jul-Dec 2023|Kebbi|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Kebbi,Kebbi,Both animal categories,1.0
+2023|Jul-Dec 2023|Kogi|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Kogi,Kogi,Both animal categories,1.0
+2023|Jul-Dec 2023|Lagos|HPAI|H5N1,2023,Jul-Dec 2023,HPAI,H5N1,state,Lagos,Lagos,Domestic,1.0
+2023|Jul-Dec 2023|Niger|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Niger,Niger,Both animal categories,1.0
+2023|Jul-Dec 2023|Ogun|HPAI|H5N1,2023,Jul-Dec 2023,HPAI,H5N1,state,Ogun,Ogun,Domestic,1.0
+2023|Jul-Dec 2023|Ondo|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Ondo,Ondo,Both animal categories,1.0
+2023|Jul-Dec 2023|Plateau|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Plateau,Plateau,Both animal categories,38.0
+2023|Jul-Dec 2023|Yobe|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Yobe,Yobe,Both animal categories,1.0
+2023|Jul-Dec 2023|Zamfara|Rabies|RABV,2023,Jul-Dec 2023,Rabies,RABV,state,Zamfara,Zamfara,Both animal categories,2.0

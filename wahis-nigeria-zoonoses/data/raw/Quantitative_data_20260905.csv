@@ -1,0 +1,1113 @@
+﻿Year,Semester,World region,Country,Administrative Division,Disease,Serotype/Subtype/Genotype,Animal Category,Event_id,Species,Outbreak_id,New outbreaks,Susceptible,Measuring units,Cases,Killed and disposed of,Slaughtered,Deaths,Vaccinated
+2005,Jul-Dec 2005,Africa,Nigeria,"Nigeria","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2005,Jul-Dec 2005,Africa,Nigeria,"Nigeria","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,1,0,0,0
+2005,Jan-Jun 2005,Africa,Nigeria,"Nigeria","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2005,Jan-Jun 2005,Africa,Nigeria,"Nigeria","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,4,Animal,4,2,0,2,150
+2006,Jan-Jun 2006,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,500,Animal,-,-,-,353,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,11,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,19475,Animal,193,98941,0,62941,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Benue","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Benue","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,600,Animal,-,-,-,594,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Borno","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Borno","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,36,Animal,36,16,0,20,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,629,Animal,-,-,-,202,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,0,9026,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,18,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,123073,Animal,42528,15740,0,86223,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,8,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,78741,Animal,3916,46554,0,3911,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,9,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,15074,Animal,-,-,0,-,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,54600,Animal,-,-,0,2981,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,25414,Animal,-,21957,0,3457,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,270000,Animal,-,-,0,188000,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,300,Animal,-,280,0,20,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,32,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,44516,Animal,12475,31903,0,11212,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Wild,-,"Wildlife (species unspecified)",-,-,1,Animal,1,0,0,1,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1200,Animal,-,-,-,700,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Taraba","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Taraba","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,81,Animal,-,45,0,36,0
+2006,Jan-Jun 2006,Africa,Nigeria,"Yobe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jan-Jun 2006,Africa,Nigeria,"Yobe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,6,-,-,-,0
+2006,Jul-Dec 2006,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2680,Animal,403,2277,0,403,0
+2006,Jul-Dec 2006,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2500,Animal,2000,1554,0,946,0
+2006,Jul-Dec 2006,Africa,Nigeria,"Borno","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Borno","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,500,Animal,300,249,0,251,0
+2006,Jul-Dec 2006,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,6,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,8351,Animal,2500,7194,0,1157,0
+2006,Jul-Dec 2006,Africa,Nigeria,"Kwara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Kwara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,6685,Animal,2000,5200,0,1485,0
+2006,Jul-Dec 2006,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,13,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2000,Animal,276,1724,0,276,0
+2006,Jul-Dec 2006,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3536,Animal,-,-,0,652,0
+2006,Jul-Dec 2006,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,86,Animal,86,37,0,49,0
+2006,Jul-Dec 2006,Africa,Nigeria,"Taraba","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2006,Jul-Dec 2006,Africa,Nigeria,"Taraba","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,119,Animal,100,19,0,100,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Adamawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,6,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Adamawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,394,Animal,-,-,0,157,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,15852,Animal,-,-,0,-,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,7,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1356,Animal,-,-,0,286,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Borno","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Borno","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,300,Animal,200,140,0,160,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,6125,Animal,-,-,0,4000,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Enugu","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Enugu","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,500,Animal,500,0,0,500,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,40,Animal,40,-,0,35,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,14057,Animal,50,0,0,3061,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,17,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,31197,Animal,2500,5875,0,7449,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,32,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,85271,Animal,-,-,0,4290,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,18,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,93438,Animal,-,4572,0,6143,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,4244,Animal,-,-,0,867,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,15000,Animal,8600,2400,0,8600,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,10,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,12802,Animal,-,-,0,1532,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Sokoto","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Sokoto","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Yobe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Yobe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,68,Animal,-,-,0,1,0
+2007,Jan-Jun 2007,Africa,Nigeria,"Zamfara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jan-Jun 2007,Africa,Nigeria,"Zamfara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1500,Animal,179,821,0,179,0
+2007,Jul-Dec 2007,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,-,45,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,7452,Animal,-,-,0,1267,0
+2007,Jul-Dec 2007,Africa,Nigeria,"Ekiti","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Ekiti","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2400,Animal,-,-,-,1312,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,2,-,-,2,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3000,Animal,-,-,-,380,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,65,Animal,-,-,0,11,0
+2007,Jul-Dec 2007,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,21,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,69389,Animal,-,-,0,15252,0
+2007,Jul-Dec 2007,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,720,Animal,-,2,0,718,0
+2007,Jul-Dec 2007,Africa,Nigeria,"Zamfara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2007,Jul-Dec 2007,Africa,Nigeria,"Zamfara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3680,Animal,-,-,-,1262,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Adamawa","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Adamawa","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,1477,Animal,1436,3,18,7,0
+2008,Jan-Jun 2008,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,4,Animal,16,1,0,1,281
+2008,Jan-Jun 2008,Africa,Nigeria,"Federal Capital Territory","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Federal Capital Territory","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,600,Animal,113,0,3,0,0
+2008,Jan-Jun 2008,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,-,6,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Kebbi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Kebbi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1,Animal,1,0,0,0,0
+2008,Jan-Jun 2008,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,9,Animal,9,-,0,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Nasarawa","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Nasarawa","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,-,Animal,35,0,-,0,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,-,Animal,15,0,0,0,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Ondo","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Ondo","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,21,Animal,2,2,0,0,312
+2008,Jan-Jun 2008,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,350,Animal,3,3,0,0,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jan-Jun 2008,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,4,1,0,4,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Domestic,-,"Cattle",-,-,4,Animal,2,0,0,2,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,34,0,0,34,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,50,Animal,1,0,0,1,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Gombe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Gombe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1,Animal,1,0,0,0,0
+2008,Jul-Dec 2008,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,10,0,0,10,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,4253,Animal,1514,2739,0,1514,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,3,2,0,1,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,110,Animal,31,79,0,31,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,25,Animal,1,0,0,1,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,1,0,0,1,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2008,Jul-Dec 2008,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,8
+2009,Jan-Jun 2009,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,5,Animal,2,0,0,2,6
+2009,Jan-Jun 2009,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,2,0,0,2,4
+2009,Jan-Jun 2009,Africa,Nigeria,"Edo","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Edo","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,2,Animal,2,0,0,2,5
+2009,Jan-Jun 2009,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,2,0,0,2,15
+2009,Jan-Jun 2009,Africa,Nigeria,"Federal Capital Territory","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,7,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Federal Capital Territory","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,3615,Animal,5,0,0,2,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Jigawa","Rabies virus (Inf. with)","",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Jigawa","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,6,3,0,3,359
+2009,Jan-Jun 2009,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,18
+2009,Jan-Jun 2009,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,132,Animal,42,0,3,0,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Ondo","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2009,Jan-Jun 2009,Africa,Nigeria,"Ondo","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,2,0,0,2,115
+2009,Jul-Dec 2009,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,97,Animal,14,6,0,3,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Bauchi","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Bauchi","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,70,Animal,22,0,4,1,0
+2009,Jul-Dec 2009,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,1,1,0,0,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Federal Capital Territory","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Federal Capital Territory","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,123,Animal,23,0,0,0,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,464,Animal,27,6,0,5,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Nasarawa","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Nasarawa","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,320,Animal,250,189,22,211,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,-,-,-,-,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Plateau","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2009,Jul-Dec 2009,Africa,Nigeria,"Plateau","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,-,Animal,-,-,-,-,-
+2010,Jan-Jun 2010,Africa,Nigeria,"Enugu","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2010,Jan-Jun 2010,Africa,Nigeria,"Enugu","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,1,Animal,1,-,-,-,-
+2010,Jan-Jun 2010,Africa,Nigeria,"Imo","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2010,Jan-Jun 2010,Africa,Nigeria,"Imo","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,1,0,0,1,-
+2010,Jan-Jun 2010,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2010,Jan-Jun 2010,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,-
+2010,Jan-Jun 2010,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2010,Jan-Jun 2010,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,120,Animal,35,0,6,5,-
+2010,Jan-Jun 2010,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2010,Jan-Jun 2010,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,2,Animal,1,0,0,1,-
+2010,Jul-Dec 2010,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2010,Jul-Dec 2010,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,0
+2010,Jul-Dec 2010,Africa,Nigeria,"Enugu","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2010,Jul-Dec 2010,Africa,Nigeria,"Enugu","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,45,Animal,35,0,0,10,-
+2010,Jul-Dec 2010,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2010,Jul-Dec 2010,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,0
+2011,Jan-Jun 2011,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,0
+2011,Jan-Jun 2011,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,5,Animal,5,3,0,2,0
+2011,Jan-Jun 2011,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,0
+2011,Jan-Jun 2011,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,152,Animal,8,4,0,4,0
+2011,Jan-Jun 2011,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","",Domestic,-,"Cattle",-,-,20,Animal,1,0,0,1,0
+2011,Jan-Jun 2011,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,30,Animal,7,0,0,0,-
+2011,Jan-Jun 2011,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2011,Jan-Jun 2011,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,1,0,0,0
+2012,Jan-Jun 2012,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2012,Jan-Jun 2012,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,1,0,0,0
+2012,Jan-Jun 2012,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2012,Jan-Jun 2012,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,100,Animal,1,1,0,0,0
+2012,Jan-Jun 2012,Africa,Nigeria,"Imo","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2012,Jan-Jun 2012,Africa,Nigeria,"Imo","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,2,Animal,2,2,0,0,0
+2012,Jan-Jun 2012,Africa,Nigeria,"Kogi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2012,Jan-Jun 2012,Africa,Nigeria,"Kogi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,30,Animal,1,1,0,0,0
+2012,Jan-Jun 2012,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2012,Jan-Jun 2012,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,1,0,0,0
+2012,Jul-Dec 2012,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,1575,Animal,1575,125,0,78,0
+2012,Jul-Dec 2012,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","not typed",Domestic,-,"Cattle",-,-,-,Animal,-,-,-,-,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV;not typed",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV;not typed",Domestic,-,"Cattle",-,-,31,Animal,6,0,4,2,0
+2012,Jul-Dec 2012,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV;not typed",Domestic,-,"Dogs",-,-,-,Animal,1,1,0,0,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,-,Animal,3,0,0,3,0
+2012,Jul-Dec 2012,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,1500,Animal,2,0,0,2,0
+2012,Jul-Dec 2012,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,12,Animal,1,0,0,1,0
+2012,Jul-Dec 2012,Africa,Nigeria,"Kogi","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Kogi","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,500,Animal,70,0,0,6,0
+2012,Jul-Dec 2012,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,400,Animal,10,0,0,2,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,4,Animal,1,0,0,1,0
+2012,Jul-Dec 2012,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2012,Jul-Dec 2012,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,4,Animal,2,2,0,0,0
+2013,Jan-Jun 2013,Africa,Nigeria,"Anambra","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Anambra","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,5,Animal,3,0,0,3,2
+2013,Jan-Jun 2013,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","not typed",Domestic,-,"Cattle",-,-,-,Animal,-,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,-,Animal,-,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,250,Animal,1,0,0,1,0
+2013,Jan-Jun 2013,Africa,Nigeria,"Enugu","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Enugu","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Swine",-,-,3,Animal,3,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Enugu","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Dogs",-,-,2,Animal,2,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Enugu","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Goats",-,-,-,Animal,2,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Imo","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Imo","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,0
+2013,Jan-Jun 2013,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,130,Animal,5,0,0,5,0
+2013,Jan-Jun 2013,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,299,Animal,54,0,6,0,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,14,Animal,2,0,0,2,122
+2013,Jan-Jun 2013,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,12,-,-,-,-,-,-,-
+2013,Jan-Jun 2013,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,1083,Animal,13,0,12,6,87
+2013,Jul-Dec 2013,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2013,Jul-Dec 2013,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,50,Animal,2,1,0,1,0
+2013,Jul-Dec 2013,Africa,Nigeria,"Niger","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2013,Jul-Dec 2013,Africa,Nigeria,"Niger","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,22,Animal,3,0,0,3,0
+2013,Jul-Dec 2013,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2013,Jul-Dec 2013,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,31,Animal,10,0,0,0,-
+2013,Jul-Dec 2013,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","not typed",Both animal categories,-,"",-,10,-,-,-,-,-,-,-
+2013,Jul-Dec 2013,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","not typed",Domestic,-,"Dogs",-,-,273,Animal,10,0,0,10,166
+2014,Jan-Jun 2014,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2014,Jan-Jun 2014,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,94,Animal,34,0,0,0,-
+2014,Jan-Jun 2014,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2014,Jan-Jun 2014,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,4,Animal,1,0,0,1,6
+2014,Jan-Jun 2014,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2014,Jan-Jun 2014,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,4,Animal,5,0,0,5,159
+2014,Jul-Dec 2014,Africa,Nigeria,"Nigeria","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5 (N untyped)",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2014,Jul-Dec 2014,Africa,Nigeria,"Nigeria","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5 (N untyped)",Domestic,-,"Birds",-,-,50000,Animal,3300,0,0,3300,0
+2014,Jul-Dec 2014,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2014,Jul-Dec 2014,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,3,Animal,2,0,0,2,0
+2014,Jul-Dec 2014,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2014,Jul-Dec 2014,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,10,Animal,1,0,0,1,0
+2015,Jan-Jun 2015,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,9688,Animal,548,8507,0,548,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1950,Animal,1550,400,0,1550,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,410,Animal,200,0,0,200,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1550,Animal,183,1096,0,183,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,5970,Animal,1315,665,0,715,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,29,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,143723,Animal,10071,75804,258,8245,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,7570,Animal,1132,124,0,1114,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2500,Animal,1400,1100,0,1400,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,42946,Animal,2738,36788,0,2738,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,3,Animal,2,1,0,1,0
+2015,Jan-Jun 2015,Africa,Nigeria,"Osun","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Osun","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,30,Animal,3,0,0,1,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,15000,Animal,10000,0,0,10000,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Oyo","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Oyo","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,0,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,117,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,384465,Animal,23584,343749,0,23574,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2015,Jan-Jun 2015,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,5250,Animal,1737,1988,0,1737,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Abia","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Abia","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,6569,Animal,2518,4032,0,2518,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,3,Animal,3,3,0,0,0
+2015,Jul-Dec 2015,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,4000,Animal,1000,0,0,1000,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Bayelsa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Bayelsa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,22800,Animal,1800,21000,0,1800,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,343238,Animal,8373,335105,0,8099,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,11650,Animal,1830,9820,0,1830,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Enugu","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Enugu","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,123230,Animal,26629,95449,0,26167,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,800,Animal,400,0,0,400,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Gombe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Gombe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1000,Animal,370,0,0,350,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,4000,Animal,1000,3000,0,1000,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,7500,Animal,1500,6000,0,1500,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,15586,Animal,512,15074,0,512,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,17,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,71467,Animal,11606,55964,0,11606,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,10000,Animal,1700,8300,0,1700,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2795,Animal,100,2695,0,100,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Osun","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Osun","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,50,Animal,10,0,0,1,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,14155,Animal,6477,7643,0,6477,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,36,-,-,-,-,-,-,-
+2015,Jul-Dec 2015,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,100428,Animal,17760,64168,0,17760,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Adamawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Adamawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,28900,Animal,3380,25520,0,3380,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,76411,Animal,4283,72128,0,4283,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Bayelsa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Bayelsa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3000,Animal,850,2150,0,850,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Benue","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Benue","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,350,Animal,148,202,0,148,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1609,Animal,402,1207,0,402,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Ebonyi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Ebonyi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2200,Animal,270,1930,0,270,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,7,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,36600,Animal,4134,32466,0,4134,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Enugu","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Enugu","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,5000,Animal,2385,2615,0,2385,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,15,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,377199,Animal,59797,317402,0,59797,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,8105,Animal,1550,6555,0,1550,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,12,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,144730,Animal,17156,127574,0,17156,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,91,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,472888,Animal,8226,464211,0,8226,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,114506,Animal,3358,110948,0,3358,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Kebbi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Kebbi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1500,Animal,600,900,0,600,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,4000,Animal,1355,2645,0,1355,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,10500,Animal,1635,8865,0,1635,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,55,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,220151,Animal,11960,208191,0,11960,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Sokoto","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Sokoto","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,12000,Animal,2270,9730,0,2270,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Zamfara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2016,Jan-Jun 2016,Africa,Nigeria,"Zamfara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,38398,Animal,3948,34450,0,3948,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,10214,Animal,378,940,0,378,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,100,Animal,90,10,0,90,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,100000,Animal,10000,90000,0,10000,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1;H5N8",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1;H5N8",Domestic,-,"Birds",-,-,431,Animal,33,398,0,33,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N8",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,250,Animal,55,195,0,55,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1647,Animal,886,0,0,886,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,4800,Animal,1404,3396,0,1404,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Sokoto","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2016,Jul-Dec 2016,Africa,Nigeria,"Sokoto","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,5,Animal,1,0,0,1,0
+2017,Jan-Jun 2017,Africa,Nigeria,"Adamawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Adamawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,200,Animal,50,150,0,50,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,12,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,66665,Animal,13652,53013,0,13652,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,8100,Animal,10,0,0,10,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,130000,Animal,265,129735,0,265,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Gombe","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Gombe","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,23,Animal,1,0,0,0,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,19700,Animal,2947,16753,0,2947,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Cattle",-,-,35,Animal,2,0,1,1,0
+2017,Jan-Jun 2017,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,3000
+2017,Jan-Jun 2017,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,13000,Animal,800,1200,0,800,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N8",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N8",Domestic,-,"Birds",-,-,4,Animal,4,0,0,0,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3198,Animal,320,2878,0,320,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3200,Animal,9,3191,0,9,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Both animal categories,-,"",-,21,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,70917,Animal,1497,67949,1490,1167,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jan-Jun 2017,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,0
+2017,Jan-Jun 2017,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,55,Animal,4,1,0,3,0
+2017,Jul-Dec 2017,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,0
+2017,Jul-Dec 2017,Africa,Nigeria,"Gombe","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Gombe","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,23,Animal,1,0,0,0,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,49,Animal,5,3,0,2,0
+2017,Jul-Dec 2017,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,25,Animal,2,2,0,0,0
+2017,Jul-Dec 2017,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,32,Animal,1,0,0,1,0
+2017,Jul-Dec 2017,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N8",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N8",Domestic,-,"Birds",-,-,100000,Animal,150,9450,0,150,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,35,-,-,-,-,-,-,-
+2017,Jul-Dec 2017,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,519,Animal,35,21,0,14,0
+2017,Jul-Dec 2017,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2018,Jan-Jun 2018,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2018,Jan-Jun 2018,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,1,0,0,1,0
+2018,Jan-Jun 2018,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2018,Jan-Jun 2018,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,2,0,0,2,0
+2018,Jan-Jun 2018,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2018,Jan-Jun 2018,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,3,1,0,2,0
+2018,Jan-Jun 2018,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2018,Jan-Jun 2018,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,2,Animal,1,0,0,1,0
+2018,Jan-Jun 2018,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2018,Jan-Jun 2018,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,332,Animal,56,0,0,0,-
+2018,Jan-Jun 2018,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N8",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2018,Jan-Jun 2018,Africa,Nigeria,"Nasarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N8",Domestic,-,"Birds",-,-,1150,Animal,1105,45,0,1105,-
+2018,Jan-Jun 2018,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,25,-,-,-,-,-,-,-
+2018,Jan-Jun 2018,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,77,Animal,25,0,0,25,0
+2018,Jan-Jun 2018,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Cats",-,-,1,Animal,1,0,0,1,0
+2018,Jul-Dec 2018,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2018,Jul-Dec 2018,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,3,0,0,3,0
+2018,Jul-Dec 2018,Africa,Nigeria,"Bayelsa","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2018,Jul-Dec 2018,Africa,Nigeria,"Bayelsa","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,1,0,0,1,0
+2018,Jul-Dec 2018,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2018,Jul-Dec 2018,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,2,0,0,2,0
+2018,Jul-Dec 2018,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2018,Jul-Dec 2018,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,1,0,0,1,0
+2018,Jul-Dec 2018,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Both animal categories,-,"",-,6,-,-,-,-,-,-,-
+2018,Jul-Dec 2018,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,6,0,0,6,0
+2018,Jul-Dec 2018,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2018,Jul-Dec 2018,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,4,1,0,3,0
+2018,Jul-Dec 2018,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,8,-,-,-,-,-,-,-
+2018,Jul-Dec 2018,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,500,Animal,9,2,0,7,80
+2018,Jul-Dec 2018,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,6,-,-,-,-,-,-,-
+2018,Jul-Dec 2018,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,45,Animal,3,0,0,0,0
+2018,Jul-Dec 2018,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,34,-,-,-,-,-,-,-
+2018,Jul-Dec 2018,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,40,6,5,29,0
+2019,Jan-Jun 2019,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,2,0,0,2,0
+2019,Jan-Jun 2019,Africa,Nigeria,"Bayelsa","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Bayelsa","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,50,Animal,7,4,0,3,2
+2019,Jan-Jun 2019,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N8",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N8",Domestic,-,"Birds",-,-,1500,Animal,290,1250,0,250,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,2,Animal,2,0,0,2,205
+2019,Jan-Jun 2019,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,1,0,0,1,0
+2019,Jan-Jun 2019,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,133,Animal,8,0,0,2,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Ondo","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Ondo","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,900,Animal,3,0,0,0,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,31,-,-,-,-,-,-,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,16,Animal,34,0,0,34,0
+2019,Jan-Jun 2019,Africa,Nigeria,"Zamfara","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jan-Jun 2019,Africa,Nigeria,"Zamfara","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,16,Animal,9,0,0,1,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Anambra","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Anambra","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Dogs",-,-,22,Animal,3,0,0,0,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,4,Animal,4,0,0,4,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Bayelsa","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Bayelsa","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,2,Animal,2,1,0,1,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Edo","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Edo","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,3,Animal,3,0,0,1,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,10,Animal,1,0,0,1,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,7,Animal,7,1,1,5,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,2,Animal,2,2,0,0,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Katsina","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Katsina","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,1,Animal,1,0,0,1,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,250,Animal,1,0,0,1,1
+2019,Jul-Dec 2019,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","",Domestic,-,"Cats",-,-,70,Animal,1,0,0,1,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","",Wild,-,"Crab-eating macaque",-,-,1,Animal,1,1,0,0,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,1,1,0,0,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,7,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,177,Animal,19,0,0,0,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Ondo","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Ondo","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,1350,Animal,2,0,0,0,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,2,Animal,2,0,0,2,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Both animal categories,-,"",-,14,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,14,Animal,14,0,2,12,0
+2019,Jul-Dec 2019,Africa,Nigeria,"Sokoto","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N6",Domestic,-,"Birds",-,-,-,Animal,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Yobe","Rabies virus (Inf. with)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2019,Jul-Dec 2019,Africa,Nigeria,"Yobe","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,-,Animal,2,0,0,2,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Anambra","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Anambra","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,30,Animal,2,0,0,0,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,4,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,122,Animal,4,2,0,2,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Bayelsa","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Bayelsa","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,3,Animal,2,0,0,1,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,47,Animal,1,0,0,1,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,40,Animal,1,0,0,1,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,93,Animal,3,2,0,1,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,5,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,213,Animal,5,1,0,4,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Katsina","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Katsina","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,93,Animal,3,2,0,1,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Domestic,-,"Cattle",-,-,300,Animal,2,0,0,2,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,20,Animal,1,0,0,1,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,30,Animal,12,0,0,0,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Ogun","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Ogun","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,21,Animal,1,0,0,1,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Ondo","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Ondo","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,1100,Animal,2,0,0,0,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,24,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,762,Animal,23,7,0,15,0
+2020,Jan-Jun 2020,Africa,Nigeria,"Zamfara","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2020,Jan-Jun 2020,Africa,Nigeria,"Zamfara","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,30,Animal,7,0,0,0,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Akwa Ibom","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,6,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Akwa Ibom","Rabies virus (Inf. with)","RABV",Domestic,-,"Swine",-,-,35,Animal,3,2,0,1,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Akwa Ibom","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,24,Animal,3,0,0,3,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,7,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,125,Animal,7,0,0,5,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,4,Animal,1,0,0,0,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,13,Animal,1,1,0,0,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Borno","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Borno","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,5,Animal,1,0,0,1,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,30,Animal,2,1,0,1,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,3,Animal,1,1,0,0,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,6,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,389,Animal,10,3,0,6,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,63,Animal,-,2,0,61,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,105,Animal,3,1,0,2,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Katsina","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Katsina","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,24,Animal,1,1,0,0,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,15,Animal,1,0,0,1,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Both animal categories,-,"",-,7,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,197,Animal,64,0,0,0,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Sheep",-,-,9,Animal,2,0,0,0,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Oyo","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Oyo","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,180,Animal,5,1,0,4,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,27,-,-,-,-,-,-,-
+2020,Jul-Dec 2020,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,1195,Animal,28,9,0,20,0
+2020,Jul-Dec 2020,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Rabbits",-,-,20,Animal,1,0,0,1,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,8,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,46896,Animal,44850,43872,0,3024,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,41,Animal,3,1,0,2,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Sheep",-,-,5,Animal,1,1,0,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Bayelsa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Bayelsa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2200,Animal,2200,0,0,850,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Bayelsa","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Bayelsa","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,5,Animal,3,0,0,3,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,24,Animal,2,2,0,0,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,82020,Animal,82020,0,0,34070,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,16,Animal,1,1,0,0,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2800,Animal,2800,1500,0,1300,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,2,Animal,1,1,0,1,1
+2021,Jan-Jun 2021,Africa,Nigeria,"Gombe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Gombe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2780,Animal,2780,596,0,2184,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,20,Animal,1,1,0,0,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Jigawa","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Jigawa","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,279,Animal,57,0,0,0,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,10505,Animal,3600,8469,0,2036,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,11,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,23,Animal,11,1,0,10,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,20,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,226567,Animal,223160,212557,0,14010,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,119,Animal,3,1,0,2,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Cattle",-,-,1,Animal,1,-,0,1,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Kogi","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Kogi","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,5,Animal,2,0,0,0,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,50,Animal,50,0,0,0,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,12,Animal,12,8,0,4,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Lagos","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Lagos","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,5,Animal,3,2,0,1,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Lagos","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Lagos","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,7,Animal,2,0,0,0,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Nassarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Nassarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,7000,Animal,7000,4450,0,2550,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Niger","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Niger","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1500,Animal,1500,698,0,802,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Niger","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Niger","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,12,Animal,1,1,-,0,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,7,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,47,Animal,23,0,0,1,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,44,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,104510,Animal,104510,87105,0,17405,0
+2021,Jan-Jun 2021,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,37,-,-,-,-,-,-,-
+2021,Jan-Jun 2021,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,1496,Animal,40,17,0,22,9
+2021,Jan-Jun 2021,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,1,Animal,1,1,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Abia","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Abia","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,7500,Animal,7500,3200,0,4300,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Akwa Ibom","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Akwa Ibom","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,4964,Animal,4964,1000,0,3964,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,11500,Animal,11500,7700,0,3800,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Anambra","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Anambra","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Goats",-,-,10,Animal,10,0,0,6,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,6,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,32517,Animal,32517,29813,0,2704,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,10,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,451,Animal,10,5,0,5,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Bauchi","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,4,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Bauchi","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,331,Animal,167,0,9,15,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Bayelsa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,5,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Bayelsa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,11300,Animal,11300,7060,0,4240,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,109,Animal,3,3,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,17,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,286299,Animal,286299,187031,0,99268,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,34,Animal,1,1,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,27,Animal,1,1,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,8919,Animal,8919,7751,0,1168,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Enugu","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Enugu","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3820,Animal,3820,2815,0,1005,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Enugu","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Enugu","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Goats",-,-,23,Animal,23,0,0,3,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,27,Animal,1,1,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Gombe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,5,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Gombe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,8112,Animal,8112,5297,0,2815,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Imo","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Imo","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,19,Animal,1,1,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Jigawa","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Jigawa","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,363,Animal,38,0,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,7,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,147,Animal,7,5,0,2,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,8,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,32950,Animal,32950,28477,0,4473,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,10,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,1090,Animal,9,6,0,3,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,16,Animal,1,1,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Katsina","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Katsina","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,32,Animal,1,1,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,8,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,213,Animal,7,3,0,4,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Wild,-,"Cercopithecidae (unidentified)",-,-,1,Animal,1,0,0,1,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Kogi","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Kogi","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,24,Animal,11,0,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,4,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,117,Animal,80,0,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Kwara","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Sheep",-,-,5,Animal,5,0,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,80,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,119775,Animal,119775,105464,0,14311,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Lagos","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Lagos","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,128,Animal,10,0,5,5,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Niger","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,6,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Niger","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,14115,Animal,14115,10295,0,3820,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,8,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Niger","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,64,Animal,13,0,1,6,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,10,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,133064,Animal,133064,101710,0,31354,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Ondo","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Ondo","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Sheep",-,-,150,Animal,80,0,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,6,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,17843,Animal,17643,14077,0,3766,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Oyo","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Oyo","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,80,Animal,80,0,0,6,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,4,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,13155,Animal,13065,11140,0,2015,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,39,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,2899,Animal,38,20,0,18,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Swine",-,-,18,Animal,1,1,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Plateau","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Plateau","Trypanosomosis (tsetse-transmitted) (-2021)","",Domestic,-,"Cattle",-,-,77,Animal,15,0,0,0,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,11,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,45301,Animal,45301,23342,0,21959,0
+2021,Jul-Dec 2021,Africa,Nigeria,"Taraba","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2021,Jul-Dec 2021,Africa,Nigeria,"Taraba","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2000,Animal,2000,1313,0,687,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Abia","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Abia","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3000,Animal,3000,2200,0,800,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Adamawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Adamawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,17000,Animal,17000,13800,0,3200,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,9,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Anambra","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3000,Animal,3000,2850,0,150,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,8090,Animal,8090,5585,0,2505,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,249,Animal,12,12,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,14,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Borno","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Borno","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,37,Animal,37,17,0,20,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Borno","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Borno","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,6,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Domestic,-,"Goats",-,-,27,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Ebonyi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Ebonyi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,500,Animal,500,400,0,100,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,79,Animal,3,3,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Edo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,13000,Animal,13000,12374,0,626,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,44,Animal,2,2,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,6,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,41809,Animal,41809,33888,0,7921,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Gombe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,6,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Gombe","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,17584,Animal,17584,13057,0,4527,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,12,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Jigawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,600,Animal,600,111,0,489,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,7,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,114700,Animal,114700,93537,0,21163,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Goats",-,-,20,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,18,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,37,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,187359,Animal,187359,134299,0,53060,1500
+2022,Jan-Jun 2022,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,11,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,238,Animal,10,7,0,3,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Sheep",-,-,25,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,8,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,114539,Animal,114539,112347,0,2192,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Kebbi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Kebbi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,175,Animal,175,60,0,115,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Kogi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Kogi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2000,Animal,2000,1950,0,50,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Nassarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,7,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Nassarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,30418,Animal,30418,20638,0,9780,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Nassarawa","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Nassarawa","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,40,Animal,2,2,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Niger","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Niger","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,5600,Animal,5600,4110,0,1490,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Niger","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Niger","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,37,Animal,2,1,0,1,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,90000,Animal,90000,83264,0,6736,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,7,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,5,Animal,5,1,0,4,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,17,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,16493,Animal,15993,13774,0,2719,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,37,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,655,Animal,35,21,0,14,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,4,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Wild,-,"Lion",-,-,6,Animal,1,1,0,0,0
+2022,Jan-Jun 2022,Africa,Nigeria,"Zamfara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2022,Jan-Jun 2022,Africa,Nigeria,"Zamfara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,188000,Animal,188000,157500,0,30500,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Akwa Ibom","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,8,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Akwa Ibom","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,74,Animal,8,5,0,4,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,8,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,114,Animal,7,4,0,3,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,6,Animal,1,1,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Bayelsa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Bayelsa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,4000,Animal,4000,3259,0,741,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,19,Animal,1,1,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,22,Animal,2,2,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,13,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,38320,Animal,38320,5788,0,32532,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,22,Animal,2,2,0,1,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,104,Animal,5,5,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,8,Animal,1,1,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Enugu","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Enugu","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,17,Animal,1,1,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,59,Animal,3,3,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,26,Animal,2,2,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Cattle",-,-,27,Animal,1,1,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,21,Animal,1,1,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,8,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,21435,Animal,21435,20750,0,685,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Niger","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Niger","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,300,Animal,300,0,0,300,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3250,Animal,3250,1080,0,2170,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Ogun","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Ogun","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,13,Animal,1,1,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Osun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Osun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,350,Animal,350,105,0,245,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Oyo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2000,Animal,2000,1500,0,500,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Oyo","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Oyo","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,16,Animal,1,1,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,30000,Animal,30000,18000,0,12000,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,73,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,2100,Animal,71,51,0,20,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,17,Animal,2,2,0,0,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1450,Animal,1450,625,0,825,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Sokoto","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Sokoto","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,700,Animal,700,200,0,500,0
+2022,Jul-Dec 2022,Africa,Nigeria,"Yobe","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2022,Jul-Dec 2022,Africa,Nigeria,"Yobe","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,5,Animal,1,1,0,0,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1000,Animal,1000,800,0,200,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,7,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,65,Animal,5,5,0,0,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,13,Animal,2,2,0,0,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Ekiti","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Ekiti","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,609,Animal,609,304,0,305,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","",Domestic,-,"Dogs",-,-,29,Animal,2,2,0,0,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,7,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,104,Animal,7,7,0,0,22
+2023,Jan-Jun 2023,Africa,Nigeria,"Imo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Imo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1000,Animal,1000,825,0,175,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,3,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,44,Animal,3,3,0,0,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,10,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,26541,Animal,26541,20467,0,6074,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,70,Animal,4,4,0,0,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,41200,Animal,41200,29804,0,11396,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Ogun","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Ogun","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,17,Animal,1,1,0,0,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1000,Animal,1000,820,0,180,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,21,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,276,Animal,21,18,1,3,0
+2023,Jan-Jun 2023,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2023,Jan-Jun 2023,Africa,Nigeria,"Rivers","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1800,Animal,1800,1650,0,150,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,17,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,254,Animal,9,8,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,93,Animal,7,6,0,1,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Equidae",-,-,20,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,4,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,89,Animal,4,4,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,5,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,116,Animal,5,4,0,1,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,39,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Domestic,-,"Goats",-,-,36,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Ekiti","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,46,Animal,2,2,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,13,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,9,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,202,Animal,8,8,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,20,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Jigawa","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Jigawa","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,47,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,7,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,204,Animal,7,7,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,14,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,495,Animal,13,12,0,1,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Cattle",-,-,57,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,21,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Kogi","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Kogi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,9,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Lagos","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,6500,Animal,6500,5500,0,1000,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Niger","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Niger","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,38,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,5098,Animal,5098,3220,0,1878,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Ondo","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Ondo","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,39,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,38,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,2283,Animal,38,35,0,3,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Yobe","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,1,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Yobe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,31,Animal,11,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Zamfara","Rabies virus (Inf. with)","RABV",Both animal categories,-,"",-,2,-,-,-,-,-,-,-
+2023,Jul-Dec 2023,Africa,Nigeria,"Zamfara","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,37,Animal,1,1,0,0,0
+2023,Jul-Dec 2023,Africa,Nigeria,"Zamfara","Rabies virus (Inf. with)","RABV",Domestic,-,"Sheep",-,-,23,Animal,1,1,0,0,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Akwa Ibom","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Akwa Ibom","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,15,Animal,1,0,0,1,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,78,Animal,3,3,0,1,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,38,Animal,1,1,0,0,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,42,Animal,2,2,0,0,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Ebonyi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,17,Animal,1,1,0,0,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,3,Animal,1,1,0,0,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,5,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,79,Animal,5,4,0,1,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Sheep",-,-,37,Animal,1,1,0,0,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,5,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,137,Animal,6,5,0,1,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,9,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,267,Animal,10,8,0,2,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Kebbi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Kebbi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,14,Animal,14,4,0,10,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,75,Animal,3,3,0,0,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Niger","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Niger","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,50,Animal,2,1,0,1,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Ogun","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Ogun","Rabies virus (Inf. with)","RABV",Domestic,-,"Cattle",-,-,75,Animal,1,1,0,0,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2502,Animal,2502,2473,0,29,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,45,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,823,Animal,45,38,0,7,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,26,Animal,0,0,0,1,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Yobe","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Yobe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,47,Animal,2,1,0,1,0
+2024,Jan-Jun 2024,Africa,Nigeria,"Zamfara","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jan-Jun 2024,Africa,Nigeria,"Zamfara","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,21,Animal,1,1,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,7,Animal,1,1,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Anambra","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Anambra","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,11,Animal,1,1,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,5,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,52,Animal,5,5,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,35,Animal,3,3,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,4,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,29,Animal,4,4,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Delta","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,1590,Animal,1590,0,0,1590,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Delta","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,11,Animal,1,1,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,5,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,62,Animal,5,5,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Jigawa","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,4,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Jigawa","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,45,Animal,4,4,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,9,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,84,Animal,8,8,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Goats",-,-,12,Animal,1,1,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,50,Animal,50,43,0,7,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,37,Animal,3,3,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Kebbi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,27,Animal,2,2,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Ogun","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Ogun","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,14,Animal,2,2,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,8,Animal,1,1,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,60,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,648,Animal,57,52,0,5,1500
+2024,Jul-Dec 2024,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,12,Animal,3,3,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Sokoto","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Sokoto","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,12,Animal,1,1,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Taraba","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,11,Animal,1,1,0,0,0
+2024,Jul-Dec 2024,Africa,Nigeria,"Zamfara","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2024,Jul-Dec 2024,Africa,Nigeria,"Zamfara","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,24,Animal,2,2,0,0,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Abia","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Abia","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,8,Animal,1,0,0,1,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Adamawa","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,13,Animal,1,1,0,0,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,8,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,257,Animal,8,6,0,2,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,18,Animal,3,2,0,1,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Borno","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Borno","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,11,Animal,1,1,0,0,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Cross River","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,17,Animal,2,2,0,0,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Federal Capital Territory","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,7300,Animal,7300,6900,0,400,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Federal Capital Territory","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,15,Animal,1,0,0,1,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,4,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,51,Animal,3,2,0,1,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Sheep",-,-,20,Animal,1,0,0,1,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Imo","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Imo","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,13,Animal,1,1,0,0,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Jigawa","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Jigawa","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,26,Animal,2,2,0,0,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Kaduna","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,66500,Animal,66500,64243,0,2257,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,4,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,99,Animal,4,3,0,1,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,10,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,9621,Animal,9621,7929,0,1692,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,51,Animal,3,2,0,1,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Katsina","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,325,Animal,325,160,-,165,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Kwara","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,23,Animal,1,1,0,0,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Osun","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,23,Animal,2,2,0,0,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,2,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,3300,Animal,3300,2500,0,800,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,39,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,814,Animal,38,33,0,6,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,5,Animal,1,1,0,0,0
+2025,Jan-Jun 2025,Africa,Nigeria,"Zamfara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jan-Jun 2025,Africa,Nigeria,"Zamfara","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,6500,Animal,6500,2830,0,3670,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,7,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,53,Animal,6,3,0,3,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Bauchi","Rabies virus (Inf. with)","RABV",Domestic,-,"Cattle",-,-,27,Animal,1,0,0,1,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,4,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Benue","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,36,Animal,4,0,0,4,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Gombe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,8,Animal,1,0,0,1,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Jigawa","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Jigawa","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,12,Animal,1,0,0,1,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,7,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Kaduna","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,70,Animal,7,3,0,4,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Kano","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,2958,Animal,2958,2274,0,684,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,5,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Kano","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,67,Animal,5,2,0,3,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Katsina","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Katsina","Rabies virus (Inf. with)","RABV",Domestic,-,"Goats",-,-,23,Animal,1,0,0,1,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Kebbi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Kebbi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,13425,Animal,13425,12739,0,686,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Ogun","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,6500,Animal,6200,300,0,6200,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Plateau","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,216,Animal,216,166,0,50,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,19,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,144,Animal,14,7,0,7,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Cats",-,-,22,Animal,4,1,0,3,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Plateau","Rabies virus (Inf. with)","RABV",Domestic,-,"Goats",-,-,21,Animal,1,1,0,0,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Sokoto","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,1,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Sokoto","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,11,Animal,1,1,0,0,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Taraba","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"",-,14,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Taraba","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,-,"Birds",-,-,687,Animal,687,311,0,376,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Yobe","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Yobe","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,35,Animal,3,1,0,2,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Zamfara","Rabies virus (Inf. with)","RABV",Domestic,-,"",-,3,-,-,-,-,-,-,-
+2025,Jul-Dec 2025,Africa,Nigeria,"Zamfara","Rabies virus (Inf. with)","RABV",Domestic,-,"Goats",-,-,17,Animal,1,0,0,1,0
+2025,Jul-Dec 2025,Africa,Nigeria,"Zamfara","Rabies virus (Inf. with)","RABV",Domestic,-,"Dogs",-,-,16,Animal,2,0,0,2,0
+2026,Jan-Jun 2026,Africa,Nigeria,"Batagarawa","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,3533,"Birds",178211,1,3000,Animal,3000,2435,0,565,0
+2026,Jan-Jun 2026,Africa,Nigeria,"Bauchi","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,3533,"Birds",192114,1,1400,Animal,1400,840,0,560,0
+2026,Jan-Jun 2026,Africa,Nigeria,"Gwale","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,3533,"Birds",178210,1,97,Animal,97,72,0,25,0
+2026,Jan-Jun 2026,Africa,Nigeria,"Jos North","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,3533,"Birds",-,2,950,Animal,890,856,0,94,0
+2026,Jan-Jun 2026,Africa,Nigeria,"Toro","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,3533,"Birds",-,3,21400,Animal,21400,13676,0,7724,0
+2026,Jan-Jun 2026,Africa,Nigeria,"Ungogo","High pathogenicity avian influenza viruses (Inf. with) (poultry)","H5N1",Domestic,3533,"Birds",179492,1,350,Animal,340,310,0,40,0

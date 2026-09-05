@@ -1,0 +1,317 @@
+
+==============================================================================
+PHASE 6. OVERALL DISEASE PROFILE, 2006-2023
+==============================================================================
+                reporting_years  first_year  last_year  reporting_states  reporting_blocks  total_new_outbreaks
+disease                                                                                                        
+Rabies                       18        2006       2023                35               200                923.0
+HPAI                         13        2006       2023                35               197               1232.0
+Trypanosomosis               13        2008       2021                17                53                130.0
+
+Animal-level totals (state-level rows only; '-' excluded, never zeroed):
+                susceptible  susceptible_n_missing      cases  cases_n_missing     deaths  deaths_n_missing  killed_disposed  vaccinated
+disease                                                                                                                                 
+Rabies              28297.0                     34     2751.0                7      618.0                 9            624.0      4985.0
+HPAI              6767724.0                     14  2647359.0               41  1234097.0                14        4886232.0      1500.0
+Trypanosomosis      13620.0                      4     3008.0                1      285.0                 5            192.0         0.0
+
+CAUTION: the animal-level totals are NOT comparable across the three
+diseases. HPAI counts commercial poultry flocks (millions of birds per
+year), rabies counts individually presented dogs and cattle, and
+trypanosomosis counts herd-screened cattle. The denominators, the case
+definitions and the detection pathways all differ. They are reported
+per disease and must never be ranked against one another.
+
+==============================================================================
+PHASE 7. ANNUAL REPORTED NEW OUTBREAKS BY DISEASE, 2006-2023
+==============================================================================
+disease Rabies HPAI Trypanosomosis
+year                              
+2006         1  143              .
+2007         2  150              .
+2008        23    4              9
+2009        24    .             15
+2010         5    .              6
+2011        11    .              1
+2012        19    .              1
+2013        31    .             11
+2014         9    1              3
+2015         2  251              3
+2016         1  219              .
+2017        51   44              2
+2018        91    1             11
+2019        71    2             14
+2020       107    1             14
+2021       147  257             40
+2022       178  140              .
+2023       150   19              .
+
+Totals: {'Rabies': 923, 'HPAI': 1232, 'Trypanosomosis': 130} | grand total: 2285
+
+Blocks reported per disease-year (reporting activity, not outbreak count):
+disease  Rabies  HPAI  Trypanosomosis
+year                                 
+2006          1    29               0
+2007          1    27               0
+2008         15     4               4
+2009         12     0               6
+2010          5     0               3
+2011          5     0               1
+2012         13     0               1
+2013          9     0               3
+2014          4     1               1
+2015          2    28               3
+2016          1    26               0
+2017          8    11               2
+2018         13     1               2
+2019         17     1               6
+2020         21     1               5
+2021         22    28              16
+2022         28    31               0
+2023         23     9               0
+
+Temporal features:
+
+  Rabies
+    reported in 18/18 study years (2006-2023)
+    peak year   : 2022 (178 outbreaks)
+    top 3 years : 2022 (178), 2023 (150), 2021 (147)
+    years with NO report: none
+    median annual reported outbreaks (reporting years only): 23.5
+
+  HPAI
+    reported in 13/18 study years (2006-2023)
+    peak year   : 2021 (257 outbreaks)
+    top 3 years : 2021 (257), 2015 (251), 2016 (219)
+    years with NO report: [2009, 2010, 2011, 2012, 2013]
+    median annual reported outbreaks (reporting years only): 44.0
+
+  Trypanosomosis
+    reported in 13/18 study years (2008-2021)
+    peak year   : 2021 (40 outbreaks)
+    top 3 years : 2021 (40), 2009 (15), 2019 (14)
+    years with NO report: [2006, 2007, 2016, 2022, 2023]
+    median annual reported outbreaks (reporting years only): 9.0
+
+TRYPANOSOMOSIS — reporting ends after 2021 and the last recorded value
+(2021) is the series maximum. The WAHIS disease label itself is
+'Trypanosomosis (tsetse-transmitted) (-2021)'; the '(-2021)' suffix marks
+the end of the WOAH listing under that name, not the end of the disease.
+The 2022 and 2023 blanks are therefore an ARTEFACT OF THE DISEASE
+CLASSIFICATION, and are stored as missing, never as zero. Any statement
+that trypanosomosis 'declined' or 'disappeared' after 2021 is unsupported.
+
+==============================================================================
+PHASE 8. STATE-LEVEL REPORTED SURVEILLANCE BURDEN AND PERSISTENCE
+==============================================================================
+                    state        disease  total_reported_outbreaks  reporting_years  reporting_blocks  first_year  last_year
+                  Plateau           HPAI                     303.0                8                11        2006       2023
+                     Kano           HPAI                     250.0               10                15        2006       2023
+                    Lagos           HPAI                     137.0                7                12        2006       2023
+                   Kaduna           HPAI                      68.0                7                 9        2006       2022
+                   Bauchi           HPAI                      60.0                8                11        2006       2023
+                   Rivers           HPAI                      56.0                6                 7        2006       2023
+                  Katsina           HPAI                      44.0                7                 7        2006       2023
+                     Ogun           HPAI                      44.0                7                10        2006       2023
+                    Delta           HPAI                      41.0                6                 9        2006       2022
+Federal Capital Territory           HPAI                      29.0                6                 7        2006       2022
+                      Edo           HPAI                      25.0                7                10        2007       2022
+                 Nasarawa           HPAI                      22.0                8                11        2006       2022
+                      Oyo           HPAI                      18.0                6                 9        2006       2022
+                    Gombe           HPAI                      15.0                4                 5        2008       2022
+                   Jigawa           HPAI                      12.0                5                 6        2006       2022
+                  Adamawa           HPAI                      11.0                4                 4        2007       2022
+                  Anambra           HPAI                      11.0                5                 7        2006       2022
+                    Niger           HPAI                      11.0                2                 4        2021       2022
+                  Bayelsa           HPAI                      10.0                4                 5        2015       2022
+                    Enugu           HPAI                       9.0                4                 4        2007       2021
+                   Taraba           HPAI                       9.0                2                 3        2006       2021
+                    Borno           HPAI                       8.0                3                 4        2006       2022
+                   Sokoto           HPAI                       7.0                3                 3        2007       2022
+                  Zamfara           HPAI                       7.0                3                 4        2007       2022
+                     Abia           HPAI                       5.0                3                 3        2015       2022
+                    Kebbi           HPAI                       4.0                3                 3        2008       2022
+                   Ebonyi           HPAI                       3.0                2                 2        2016       2022
+                     Yobe           HPAI                       3.0                2                 2        2006       2007
+                    Benue           HPAI                       2.0                2                 2        2006       2016
+                    Ekiti           HPAI                       2.0                2                 2        2007       2023
+                Akwa Ibom           HPAI                       1.0                1                 1        2021       2021
+                      Imo           HPAI                       1.0                1                 1        2023       2023
+                     Kogi           HPAI                       1.0                1                 1        2022       2022
+                    Kwara           HPAI                       1.0                1                 1        2006       2006
+                     Osun           HPAI                       1.0                1                 1        2022       2022
+                  Plateau         Rabies                     469.0               13                22        2008       2023
+                   Bauchi         Rabies                      93.0               11                19        2008       2023
+                   Kaduna         Rabies                      72.0               12                20        2008       2023
+                     Kano         Rabies                      66.0                9                15        2008       2023
+                    Gombe         Rabies                      34.0                7                11        2007       2023
+                    Kebbi         Rabies                      21.0                5                 5        2018       2023
+                Akwa Ibom         Rabies                      14.0                2                 2        2020       2022
+                     Osun         Rabies                      14.0                9                11        2006       2022
+                    Benue         Rabies                      13.0                8                 9        2009       2022
+              Cross River         Rabies                      12.0                4                 4        2011       2023
+                   Ebonyi         Rabies                      11.0                5                 6        2011       2023
+                    Ekiti         Rabies                      11.0                5                 8        2008       2023
+                    Delta         Rabies                      10.0                3                 5        2021       2023
+Federal Capital Territory         Rabies                       9.0                5                 7        2009       2023
+                  Bayelsa         Rabies                       6.0                4                 5        2018       2021
+                  Katsina         Rabies                       6.0                3                 4        2019       2021
+                    Kwara         Rabies                       6.0                5                 5        2008       2020
+                      Oyo         Rabies                       6.0                2                 2        2020       2022
+                      Imo         Rabies                       5.0                4                 4        2010       2021
+                    Niger         Rabies                       5.0                4                 4        2013       2023
+                     Ondo         Rabies                       5.0                3                 3        2008       2023
+                  Adamawa         Rabies                       4.0                4                 4        2009       2022
+                   Jigawa         Rabies                       4.0                2                 2        2009       2023
+                   Taraba         Rabies                       4.0                3                 4        2008       2012
+                     Kogi         Rabies                       3.0                2                 3        2012       2023
+                    Lagos         Rabies                       3.0                1                 1        2021       2021
+                     Ogun         Rabies                       3.0                3                 3        2020       2023
+                     Yobe         Rabies                       3.0                3                 3        2019       2023
+                    Borno         Rabies                       2.0                2                 2        2020       2022
+                      Edo         Rabies                       2.0                2                 2        2009       2019
+                 Nasarawa         Rabies                       2.0                1                 1        2022       2022
+                  Zamfara         Rabies                       2.0                1                 1        2023       2023
+                  Anambra         Rabies                       1.0                1                 1        2013       2013
+                    Enugu         Rabies                       1.0                1                 1        2022       2022
+                   Sokoto         Rabies                       1.0                1                 1        2016       2016
+                    Niger Trypanosomosis                      54.0               10                13        2008       2021
+                    Kwara Trypanosomosis                      18.0                3                 5        2018       2021
+Federal Capital Territory Trypanosomosis                      10.0                2                 3        2008       2009
+                    Enugu Trypanosomosis                       7.0                3                 4        2010       2021
+                  Adamawa Trypanosomosis                       5.0                1                 1        2008       2008
+                   Bauchi Trypanosomosis                       5.0                2                 2        2009       2021
+                  Anambra Trypanosomosis                       4.0                3                 3        2019       2021
+                   Jigawa Trypanosomosis                       4.0                1                 2        2021       2021
+                     Ondo Trypanosomosis                       4.0                3                 4        2019       2021
+                     Kogi Trypanosomosis                       3.0                1                 2        2021       2021
+                    Lagos Trypanosomosis                       3.0                1                 2        2021       2021
+                 Nasarawa Trypanosomosis                       3.0                2                 2        2008       2009
+                    Gombe Trypanosomosis                       2.0                1                 2        2017       2017
+                     Osun Trypanosomosis                       2.0                1                 2        2015       2015
+                      Oyo Trypanosomosis                       2.0                2                 2        2015       2021
+                  Plateau Trypanosomosis                       2.0                2                 2        2009       2021
+                  Zamfara Trypanosomosis                       2.0                2                 2        2019       2020
+
+Top 10 states by CUMULATIVE reported outbreaks (all three diseases):
+         total_reported_outbreaks  diseases_reported
+state                                               
+Plateau                     774.0                  3
+Kano                        316.0                  2
+Bauchi                      158.0                  3
+Lagos                       143.0                  3
+Kaduna                      140.0                  2
+Niger                        70.0                  3
+Rivers                       56.0                  1
+Delta                        51.0                  2
+Gombe                        51.0                  3
+Katsina                      50.0                  2
+
+Top 10 states by PERSISTENCE (distinct disease-years reported):
+                           disease_years  diseases_reported
+state                                                      
+Plateau                               23                  3
+Bauchi                                21                  3
+Kaduna                                19                  2
+Kano                                  19                  2
+Niger                                 16                  3
+Federal Capital Territory             13                  3
+Gombe                                 12                  3
+Nasarawa                              11                  3
+Osun                                  11                  3
+Benue                                 10                  2
+
+These two rankings measure different things and diverge. Cumulative
+outbreaks are dominated by a few large HPAI epidemic semesters;
+persistence reflects how consistently a state appears in the reporting
+system. Both describe REPORTED SURVEILLANCE ACTIVITY. Neither is a
+measure of disease risk: a state can report more because it has more
+veterinary capacity, more commercial poultry, or a closer relationship
+with the national reporting chain.
+
+==============================================================================
+PHASE 9. DISEASE x LOCATION OVERLAP
+==============================================================================
+                          Rabies_reported HPAI_reported Trypanosomosis_reported  n_diseases_reported  total_outbreaks
+state                                                                                                                
+Plateau                               Yes           Yes                     Yes                    3            774.0
+Bauchi                                Yes           Yes                     Yes                    3            158.0
+Lagos                                 Yes           Yes                     Yes                    3            143.0
+Niger                                 Yes           Yes                     Yes                    3             70.0
+Gombe                                 Yes           Yes                     Yes                    3             51.0
+Federal Capital Territory             Yes           Yes                     Yes                    3             48.0
+Nasarawa                              Yes           Yes                     Yes                    3             27.0
+Oyo                                   Yes           Yes                     Yes                    3             26.0
+Kwara                                 Yes           Yes                     Yes                    3             25.0
+Adamawa                               Yes           Yes                     Yes                    3             20.0
+Jigawa                                Yes           Yes                     Yes                    3             20.0
+Enugu                                 Yes           Yes                     Yes                    3             17.0
+Osun                                  Yes           Yes                     Yes                    3             17.0
+Anambra                               Yes           Yes                     Yes                    3             16.0
+Zamfara                               Yes           Yes                     Yes                    3             11.0
+Kogi                                  Yes           Yes                     Yes                    3              7.0
+Kano                                  Yes           Yes                      No                    2            316.0
+Kaduna                                Yes           Yes                      No                    2            140.0
+Delta                                 Yes           Yes                      No                    2             51.0
+Katsina                               Yes           Yes                      No                    2             50.0
+Ogun                                  Yes           Yes                      No                    2             47.0
+Edo                                   Yes           Yes                      No                    2             27.0
+Kebbi                                 Yes           Yes                      No                    2             25.0
+Bayelsa                               Yes           Yes                      No                    2             16.0
+Akwa Ibom                             Yes           Yes                      No                    2             15.0
+Benue                                 Yes           Yes                      No                    2             15.0
+Ebonyi                                Yes           Yes                      No                    2             14.0
+Ekiti                                 Yes           Yes                      No                    2             13.0
+Taraba                                Yes           Yes                      No                    2             13.0
+Borno                                 Yes           Yes                      No                    2             10.0
+Ondo                                  Yes            No                     Yes                    2              9.0
+Sokoto                                Yes           Yes                      No                    2              8.0
+Imo                                   Yes           Yes                      No                    2              6.0
+Yobe                                  Yes           Yes                      No                    2              6.0
+Rivers                                 No           Yes                      No                    1             56.0
+Cross River                           Yes            No                      No                    1             12.0
+Abia                                   No           Yes                      No                    1              5.0
+
+States by number of the three diseases reported:
+n_diseases_reported
+1     3
+2    18
+3    16
+
+States reporting all three:
+['Adamawa', 'Anambra', 'Bauchi', 'Enugu', 'Federal Capital Territory', 'Gombe', 'Jigawa', 'Kogi', 'Kwara', 'Lagos', 'Nasarawa', 'Niger', 'Osun', 'Oyo', 'Plateau', 'Zamfara']
+
+States reporting only one:
+  Rivers: HPAI only
+  Cross River: Rabies only
+  Abia: HPAI only
+
+==============================================================================
+SENSITIVITY CHECKS
+==============================================================================
+S1. Withholding the Nassarawa -> Nasarawa recode:
+    Nasarawa    {'Rabies': 0, 'HPAI': 12, 'Trypanosomosis': 3}
+    Nassarawa   {'Rabies': 2, 'HPAI': 10, 'Trypanosomosis': 0}
+    merged     {'Rabies': 2, 'HPAI': 22, 'Trypanosomosis': 3}
+    Affects Nasarawa's own totals only; no state ranking above the top
+    12 changes, and no disease-level or annual total changes at all.
+
+S2. Effect of excluding the national ('Nigeria') rows:
+    national outbreak rows in study period: 1, outbreaks = 1 (['HPAI'], [2014])
+    national total incl. these = 2285; state-only total = 2284
+    National rows are used for the national annual series (Phase 7) and
+    excluded from all state rankings (Phases 8-9). They are never added
+    to a state's total.
+
+S3. Would summing every row double-count outbreaks?
+    sum over ALL study-period rows        = 2285
+    sum over outbreak (header) rows only  = 2285
+    Identical, because detail rows carry '-' (NaN) for New outbreaks.
+    Double-counting arises only if '-' is first converted to 0 and the
+    animal columns are then summed alongside, or if a disease-year with
+    no report is written in as a zero.
+
+==============================================================================
+DESCRIPTIVE ANALYSIS COMPLETE
+==============================================================================
+Tables written to /home/user/hellojibriva/wahis-nigeria-zoonoses/outputs/tables

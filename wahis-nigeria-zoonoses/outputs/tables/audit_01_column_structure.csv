@@ -1,0 +1,20 @@
+column,stored_as,n_unique,n_dash,n_empty,example
+Year,text (all fields read as str),22,0,0,2005
+Semester,text (all fields read as str),42,0,0,Jul-Dec 2005
+World region,text (all fields read as str),1,0,0,Africa
+Country,text (all fields read as str),1,0,0,Nigeria
+Administrative Division,text (all fields read as str),44,0,0,Nigeria
+Disease,text (all fields read as str),3,0,0,Rabies virus (Inf. with)
+Serotype/Subtype/Genotype,text (all fields read as str),9,0,299,H5N1
+Animal Category,text (all fields read as str),3,0,0,Both animal categories
+Event_id,text (all fields read as str),2,1106,0,3533
+Species,text (all fields read as str),14,0,524,Dogs
+Outbreak_id,text (all fields read as str),5,1108,0,178211
+New outbreaks,text (all fields read as str),41,582,0,1
+Susceptible,text (all fields read as str),297,576,0,1
+Measuring units,text (all fields read as str),2,524,0,Animal
+Cases,text (all fields read as str),190,573,0,1
+Killed and disposed of,text (all fields read as str),183,575,0,1
+Slaughtered,text (all fields read as str),14,560,0,0
+Deaths,text (all fields read as str),199,552,0,0
+Vaccinated,text (all fields read as str),25,670,0,0

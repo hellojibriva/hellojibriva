@@ -1,0 +1,7 @@
+figure1_temporal_outbreaks.png/.pdf
+figure2_geographic_distribution.png/.pdf
+/home/user/hellojibriva/wahis-nigeria-zoonoses/scripts/04_figures.py:269: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout(rect=[0, 0.075, 1, 0.955])
+figure3_disease_state_matrix.png/.pdf
+
+Figures written to /home/user/hellojibriva/wahis-nigeria-zoonoses/outputs/figures
