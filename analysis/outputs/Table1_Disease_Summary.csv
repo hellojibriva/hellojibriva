@@ -1,0 +1,4 @@
+Disease,Study_years,Reporting_years,Missing_years,Reporting_coverage_pct,Total_reported_outbreaks,Total_reported_cases,Total_deaths,Total_killed_disposed,Total_slaughtered,Total_susceptible,Total_vaccinated,Missing_years_list
+HPAI,20,15,5,75.0,1273,2771847,1256013,4989104,1748,6939212,1500,"2009, 2010, 2011, 2012, 2013"
+Rabies,20,20,0,100.0,1232,3066,687,873,26,33294,6485,none
+Trypanosomosis,20,13,7,65.0,130,3008,285,192,77,13620,0,"2006, 2007, 2016, 2022, 2023, 2024, 2025"

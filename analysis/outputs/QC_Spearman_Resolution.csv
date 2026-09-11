@@ -1,0 +1,4 @@
+Disease,n,rho_reproduced,p_reproduced,rho_published,p_published,Exact_match,Specification
+HPAI,13,0.828742,0.00046307504520740934,0.828742,0.000463,True,"Spearman(annual reported OUTBREAKS vs annual reported CASES), 2006-2023, with cases unreported in an observed disease-year set to 0"
+Rabies,18,0.861944,4.263554713303292e-06,0.861944,4e-06,True,"Spearman(annual reported OUTBREAKS vs annual reported CASES), 2006-2023, with cases unreported in an observed disease-year set to 0"
+Trypanosomosis,13,0.795304,0.0011531268671394232,0.795304,0.001153,True,"Spearman(annual reported OUTBREAKS vs annual reported CASES), 2006-2023, with cases unreported in an observed disease-year set to 0"

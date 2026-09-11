@@ -1,0 +1,31 @@
+Disease,Administrative_Division,Reported_outbreaks,Pct_of_national_reported_outbreaks,Rank,Reported_cases
+HPAI,Plateau,308,24.19,1,220189
+HPAI,Kano,262,20.58,2,510215
+HPAI,Lagos,137,10.76,3,161870
+HPAI,Kaduna,70,5.5,4,252746
+HPAI,Bauchi,60,4.71,5,107511
+HPAI,Rivers,56,4.4,6,69452
+HPAI,Ogun,45,3.53,7,240600
+HPAI,Katsina,45,3.53,8,159773
+HPAI,Delta,42,3.3,9,418644
+HPAI,Federal Capital Territory,31,2.44,10,119611
+Rabies,Plateau,632,51.3,1,647
+Rabies,Bauchi,116,9.42,2,1758
+Rabies,Kaduna,97,7.87,3,131
+Rabies,Kano,83,6.74,4,90
+Rabies,Gombe,49,3.98,5,65
+Rabies,Kebbi,26,2.11,6,29
+Rabies,Benue,23,1.87,7,24
+Rabies,Cross River,19,1.54,8,21
+Rabies,Osun,17,1.38,9,19
+Rabies,Akwa Ibom,15,1.22,10,15
+Trypanosomosis,Niger,54,41.54,1,340
+Trypanosomosis,Kwara,18,13.85,2,202
+Trypanosomosis,Federal Capital Territory,10,7.69,3,141
+Trypanosomosis,Enugu,7,5.38,4,66
+Trypanosomosis,Adamawa,5,3.85,5,1436
+Trypanosomosis,Bauchi,5,3.85,6,189
+Trypanosomosis,Anambra,4,3.08,7,15
+Trypanosomosis,Ondo,4,3.08,8,87
+Trypanosomosis,Jigawa,4,3.08,9,95
+Trypanosomosis,Nasarawa,3,2.31,10,285

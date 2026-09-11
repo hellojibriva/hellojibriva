@@ -1,0 +1,4 @@
+Disease,Jan_Jun_outbreaks,Jul_Dec_outbreaks,Total,Jan_Jun_pct,Jul_Dec_pct,Exact_binomial_p,CI95_Jan_Jun_prop,Observed_disease_years
+HPAI,887,386,1273,69.678,30.322,8.67328515799364e-46,0.6707-0.7219,15
+Rabies,520,712,1232,42.208,57.792,4.9738953521094736e-08,0.3943-0.4502,20
+Trypanosomosis,67,63,130,51.538,48.462,0.7925825227940955,0.4262-0.6039,13

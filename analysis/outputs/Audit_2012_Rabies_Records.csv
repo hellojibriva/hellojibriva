@@ -1,0 +1,29 @@
+Year,Semester,Administrative_Division,Animal_Category,Species,rowtype,Outbreaks,Susceptible,Cases,Killed_disposed,Slaughtered,Deaths,Vaccinated
+2012,Jan-Jun 2012,Benue,Both animal categories,,outbreak_row_BOTH,1.0,,,,,,
+2012,Jan-Jun 2012,Benue,Domestic,Dogs,animal_record,,1.0,1.0,1.0,0.0,0.0,0.0
+2012,Jan-Jun 2012,Ekiti,Both animal categories,,outbreak_row_BOTH,1.0,,,,,,
+2012,Jan-Jun 2012,Ekiti,Domestic,Dogs,animal_record,,100.0,1.0,1.0,0.0,0.0,0.0
+2012,Jan-Jun 2012,Imo,Both animal categories,,outbreak_row_BOTH,2.0,,,,,,
+2012,Jan-Jun 2012,Imo,Domestic,Dogs,animal_record,,2.0,2.0,2.0,0.0,0.0,0.0
+2012,Jan-Jun 2012,Kogi,Both animal categories,,outbreak_row_BOTH,1.0,,,,,,
+2012,Jan-Jun 2012,Kogi,Domestic,Dogs,animal_record,,30.0,1.0,1.0,0.0,0.0,0.0
+2012,Jan-Jun 2012,Taraba,Both animal categories,,outbreak_row_BOTH,1.0,,,,,,
+2012,Jan-Jun 2012,Taraba,Domestic,Dogs,animal_record,,1.0,1.0,1.0,0.0,0.0,0.0
+2012,Jul-Dec 2012,Bauchi,Both animal categories,,outbreak_row_BOTH,2.0,,,,,,
+2012,Jul-Dec 2012,Bauchi,Domestic,Dogs,animal_record,,1575.0,1575.0,125.0,0.0,78.0,0.0
+2012,Jul-Dec 2012,Bauchi,Domestic,Cattle,animal_record,,,,,,,
+2012,Jul-Dec 2012,Bauchi,Both animal categories,,outbreak_row_BOTH,2.0,,,,,,
+2012,Jul-Dec 2012,Bauchi,Domestic,Cattle,animal_record,,31.0,6.0,0.0,4.0,2.0,0.0
+2012,Jul-Dec 2012,Bauchi,Domestic,Dogs,animal_record,,,1.0,1.0,0.0,0.0,
+2012,Jul-Dec 2012,Cross River,Both animal categories,,outbreak_row_BOTH,3.0,,,,,,
+2012,Jul-Dec 2012,Cross River,Domestic,Dogs,animal_record,,,3.0,0.0,0.0,3.0,0.0
+2012,Jul-Dec 2012,Ekiti,Both animal categories,,outbreak_row_BOTH,1.0,,,,,,
+2012,Jul-Dec 2012,Ekiti,Domestic,Dogs,animal_record,,1500.0,2.0,0.0,0.0,2.0,0.0
+2012,Jul-Dec 2012,Kaduna,Both animal categories,,outbreak_row_BOTH,1.0,,,,,,
+2012,Jul-Dec 2012,Kaduna,Domestic,Dogs,animal_record,,12.0,1.0,0.0,0.0,1.0,0.0
+2012,Jul-Dec 2012,Kogi,Both animal categories,,outbreak_row_BOTH,1.0,,,,,,
+2012,Jul-Dec 2012,Kogi,Domestic,Dogs,animal_record,,500.0,70.0,0.0,0.0,6.0,0.0
+2012,Jul-Dec 2012,Osun,Both animal categories,,outbreak_row_BOTH,1.0,,,,,,
+2012,Jul-Dec 2012,Osun,Domestic,Dogs,animal_record,,4.0,1.0,0.0,0.0,1.0,0.0
+2012,Jul-Dec 2012,Plateau,Both animal categories,,outbreak_row_BOTH,2.0,,,,,,
+2012,Jul-Dec 2012,Plateau,Domestic,Dogs,animal_record,,4.0,2.0,2.0,0.0,0.0,0.0

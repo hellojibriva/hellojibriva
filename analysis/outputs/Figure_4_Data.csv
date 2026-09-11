@@ -1,0 +1,31 @@
+Disease,Rank,Administrative_Division,Reported_outbreaks,Pct_of_national_reported_outbreaks
+HPAI,1,Plateau,308,24.19
+HPAI,2,Kano,262,20.58
+HPAI,3,Lagos,137,10.76
+HPAI,4,Kaduna,70,5.5
+HPAI,5,Bauchi,60,4.71
+HPAI,6,Rivers,56,4.4
+HPAI,7,Ogun,45,3.53
+HPAI,8,Katsina,45,3.53
+HPAI,9,Delta,42,3.3
+HPAI,10,Federal Capital Territory,31,2.44
+Rabies,1,Plateau,632,51.3
+Rabies,2,Bauchi,116,9.42
+Rabies,3,Kaduna,97,7.87
+Rabies,4,Kano,83,6.74
+Rabies,5,Gombe,49,3.98
+Rabies,6,Kebbi,26,2.11
+Rabies,7,Benue,23,1.87
+Rabies,8,Cross River,19,1.54
+Rabies,9,Osun,17,1.38
+Rabies,10,Akwa Ibom,15,1.22
+Trypanosomosis,1,Niger,54,41.54
+Trypanosomosis,2,Kwara,18,13.85
+Trypanosomosis,3,Federal Capital Territory,10,7.69
+Trypanosomosis,4,Enugu,7,5.38
+Trypanosomosis,5,Adamawa,5,3.85
+Trypanosomosis,6,Bauchi,5,3.85
+Trypanosomosis,7,Anambra,4,3.08
+Trypanosomosis,8,Ondo,4,3.08
+Trypanosomosis,9,Jigawa,4,3.08
+Trypanosomosis,10,Nasarawa,3,2.31

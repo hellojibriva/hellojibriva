@@ -1,0 +1,25 @@
+Disease,Finding,Value
+HPAI,Reporting coverage,15/20 observed disease-years (75.0%)
+HPAI,Total reported outbreaks (2006-2025),"1,273"
+HPAI,Total reported cases (2006-2025),"2,771,847"
+HPAI,Deaths / killed-disposed / slaughtered,"1,256,013 / 4,989,104 / 1,748"
+HPAI,"Year vs reported outbreaks (Spearman, observed disease-years only)","n=15, rho=-0.139786, p=0.619279"
+HPAI,Semester distribution of reported outbreaks,"Jan-Jun 887 (69.678%) vs Jul-Dec 386 (30.322%), exact binomial p=8.67329e-46"
+HPAI,Highest geographic concentration of reported outbreaks,Plateau: 308 reported outbreaks (24.19% of national reported outbreaks)
+HPAI,Missing disease-years (no WAHIS observation in extract),"2009, 2010, 2011, 2012, 2013"
+Rabies,Reporting coverage,20/20 observed disease-years (100.0%)
+Rabies,Total reported outbreaks (2006-2025),"1,232"
+Rabies,Total reported cases (2006-2025),"3,066"
+Rabies,Deaths / killed-disposed / slaughtered,687 / 873 / 26
+Rabies,"Year vs reported outbreaks (Spearman, observed disease-years only)","n=20, rho=0.811136, p=1.43014e-05"
+Rabies,Semester distribution of reported outbreaks,"Jan-Jun 520 (42.208%) vs Jul-Dec 712 (57.792%), exact binomial p=4.9739e-08"
+Rabies,Highest geographic concentration of reported outbreaks,Plateau: 632 reported outbreaks (51.3% of national reported outbreaks)
+Rabies,Missing disease-years (no WAHIS observation in extract),none
+Trypanosomosis,Reporting coverage,13/20 observed disease-years (65.0%)
+Trypanosomosis,Total reported outbreaks (2006-2025),130
+Trypanosomosis,Total reported cases (2006-2025),"3,008"
+Trypanosomosis,Deaths / killed-disposed / slaughtered,285 / 192 / 77
+Trypanosomosis,"Year vs reported outbreaks (Spearman, observed disease-years only)","n=13, rho=0.367409, p=0.21683"
+Trypanosomosis,Semester distribution of reported outbreaks,"Jan-Jun 67 (51.538%) vs Jul-Dec 63 (48.462%), exact binomial p=0.792583"
+Trypanosomosis,Highest geographic concentration of reported outbreaks,Niger: 54 reported outbreaks (41.54% of national reported outbreaks)
+Trypanosomosis,Missing disease-years (no WAHIS observation in extract),"2006, 2007, 2016, 2022, 2023, 2024, 2025"

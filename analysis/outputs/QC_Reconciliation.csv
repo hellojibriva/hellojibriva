@@ -1,0 +1,16 @@
+Metric,Disease,Old_2006_2023,New_2006_2023,Difference,Status
+Outbreaks,HPAI,1232,1232,0,PASS
+Cases,HPAI,2650659,2650659,0,PASS
+Deaths,HPAI,1237397,1237397,0,PASS
+Killed_disposed,HPAI,4886232,4886232,0,PASS
+Slaughtered,HPAI,1748,1748,0,PASS
+Outbreaks,Rabies,923,923,0,PASS
+Cases,Rabies,2751,2751,0,PASS
+Deaths,Rabies,618,618,0,PASS
+Killed_disposed,Rabies,624,624,0,PASS
+Slaughtered,Rabies,26,26,0,PASS
+Outbreaks,Trypanosomosis,130,130,0,PASS
+Cases,Trypanosomosis,3008,3008,0,PASS
+Deaths,Trypanosomosis,285,285,0,PASS
+Killed_disposed,Trypanosomosis,192,192,0,PASS
+Slaughtered,Trypanosomosis,77,77,0,PASS

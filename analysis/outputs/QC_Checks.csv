@@ -1,0 +1,32 @@
+Check,Result,Detail
+1. Raw file loaded unmodified,PASS,"shape=(1112, 19); 19 expected columns present"
+5. Only 3 target diseases retained,PASS,raw disease labels=3 -> all map to HPAI/Rabies/Trypanosomosis
+2. Study years restricted to 2006-2025,PASS,"years present=2006-2025, n rows=1102 of 1112"
+3. 2005 excluded,PASS,4 raw 2005 rows removed (Rabies only)
+4. 2026 excluded,PASS,6 raw 2026 rows removed (Jan-Jun only)
+19. No unintended NA->0 conversion,PASS,'-' parsed to NaN; group sums use min_count=1; unobserved disease-years forced NaN. NaN cells in annual outbreak table=12
+20. No unexplained duplicate removal,PASS,"0 rows dropped as duplicates. Row types: {'animal_record': 580, 'outbreak_row_BOTH': 355, 'outbreak_row_DOMESTIC': 167}; outbreak rows and animal records never co-occur for the same Year/Semester/Disease/Division (verified below)"
+20b. Outbreak-row labelings are disjoint (no double counting),PASS,0 of 520 Year/Semester/Disease/Division keys carry both 'Both animal categories' and 'Domestic' outbreak rows
+7. Historical annual outbreak totals reproduced (2006-2023),PASS,HPAI=1232; Rabies=923; Trypanosomosis=130
+8. Historical case totals reproduced (2006-2023),PASS,"HPAI=2,650,659; Rabies=2,751; Trypanosomosis=3,008"
+"9. Historical consequence totals reproduced (deaths/killed/slaughtered, 2006-2023)",PASS,9 metric-disease cells all zero-difference
+7b. Published 2006-2023 annual outbreak cells match (incl. NA placement),PASS,"54 disease-year cells checked, 0 mismatches"
+8b. Published 2006-2023 annual case cells match (incl. NA placement),PASS,"54 disease-year cells checked, 0 mismatches, 2 documented NA-vs-0 divergences (2006 Rabies, 2020 HPAI)"
+6. Missing disease-years preserved as NA,PASS,"HPAI: 5 missing years [2009, 2010, 2011, 2012, 2013]; Rabies: 0 missing years []; Trypanosomosis: 7 missing years [2006, 2007, 2016, 2022, 2023, 2024, 2025]"
+"6b. Reporting coverage matches expectation (HPAI 15/20, Rabies 20/20, Tryp 13/20)",PASS,HPAI 15/20=75.0%; Rabies 20/20=100.0%; Trypanosomosis 13/20=65.0%
+6c. Trypanosomosis missing-year list verified from raw data,PASS,"expected [2006, 2007, 2016, 2022, 2023, 2024, 2025]; observed-from-raw [2006, 2007, 2016, 2022, 2023, 2024, 2025]"
+7c. Completeness engine reproduces historical 2006-2023 figures,PASS,497 records / 479 complete / 18 all-counts-missing (3.6217%) reproduced
+16. Semester totals reconcile to annual totals,PASS,HPAI: semester=1273 annual=1273; Rabies: semester=1232 annual=1232; Trypanosomosis: semester=130 annual=130
+8c. Historical 2006-2023 semester split and exact binomial p reproduced,PASS,"HPAI 866/366, Rabies 364/559, Tryp 67/63 with matching p-values"
+15b. Historical 2006-2023 Spearman AS LABELLED (calendar year vs reported outbreaks) reproduced,FAIL,"NOT REPRODUCIBLE AS LABELLED - root cause identified, see check 15d. Correctly specified values are HPAI n=13 rho=-0.116024 p=0.7058 (published +0.828742 p=0.000463); Rabies n=18 rho=+0.761364 p=0.0002421 (published +0.861944 p=4e-06); Trypanosomosis n=13 rho=+0.367409 p=0.2168 (published +0.795304 p=0.001153). The published annual outbreak series itself reproduces exactly (check 7b), so with x=calendar year and y=that series the coefficient is mathematically determined and differs from the published value. CONSEQUENCE: the published HPAI and Trypanosomosis 'increasing trend' results do not hold; only Rabies shows a genuine positive year-vs-outbreaks association."
+15d. Source of the previously published Spearman coefficients identified,PASS,"The three published coefficients reproduce EXACTLY (to 6 dp, rho and p) as Spearman(annual reported outbreaks vs annual reported cases) over 2006-2023 - not as year vs outbreaks: HPAI n=13 rho=0.828742 p=0.000463; Rabies n=18 rho=0.861944 p=0.000004; Trypanosomosis n=13 rho=0.795304 p=0.001153. The previously reported 'trend over calendar year' was therefore an outbreak-case consistency correlation carrying a temporal-trend label."
+15c. Geography reconciles to national annual totals,PASS,HPAI: geo=1273 national=1273; Rabies: geo=1232 national=1232; Trypanosomosis: geo=130 national=130
+18. State x disease matrix reconciles to geographic totals,PASS,38 administrative divisions; column sums equal national totals for all 3 diseases
+10. 2012 Rabies annual totals reproduced,PASS,28 raw records; outbreaks=19 cases=1667 deaths=93 killed=134 slaughtered=4
+"10b. Largest single 2012 Rabies record verified (Bauchi, Jul-Dec, domestic dogs)",PASS,1575 cases = 94.48% of 2012 Rabies cases; no field in the quantitative dataset identifies a cause
+11. HPAI 2009-2013 reporting gap confirmed in raw data,PASS,"0 HPAI raw rows across 2009-2013; other diseases reported in the same years (Rabies 93 rows, Trypanosomosis 30 rows), so the gap is disease-specific, not a whole-country reporting outage. Retained as NA, not zero"
+12. 2024 independently verified from raw data,PASS,"HPAI 5 outbreaks/4,156 cases; Rabies 184 outbreaks/190 cases; Trypanosomosis no observations"
+13. 2025 independently verified from raw data,PASS,"HPAI 36 outbreaks/117,032 cases; Rabies 125 outbreaks/125 cases; Trypanosomosis no observations"
+14. 2026 exclusion audited and justified,PASS,"6 rows, HPAI only, Jan-Jun 2026 only: 9 outbreaks, 27,127 cases, 9,008 deaths, 18,189 killed/disposed, 0 slaughtered; divisions Batagarawa, Bauchi, Gwale, Jos North, Toro, Ungogo (LGA-level, unlike the state-level 2006-2025 records)"
+17b. Cutoff sensitivity totals match specification for all 3 windows,PASS,45 metric-disease-period cells verified across 2006-2023 / 2006-2024 / 2006-2025
+17. Figure datasets reconcile to tables,PASS,"Figure_1_Data==Table 2, Figure_2_Data==Table 3, Figure_3_Data==Table 4, Figure_4_Data==Table 5 (cell-for-cell, NA preserved)"

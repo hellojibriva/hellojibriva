@@ -1,0 +1,5 @@
+Disease,Animal_level_records,Complete_records,All_counts_missing,Pct_incomplete,Fully_populated_all_4_vars,Pct_fully_populated
+HPAI,218,207,11,5.0459,174,79.8165
+Rabies,305,299,6,1.9672,293,96.0656
+Trypanosomosis,57,56,1,1.7544,51,89.4737
+ALL,580,562,18,3.1034,518,89.3103

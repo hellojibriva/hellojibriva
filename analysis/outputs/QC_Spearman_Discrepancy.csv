@@ -1,0 +1,4 @@
+Disease,Period,n_published,n_rebuilt,rho_published,rho_rebuilt,p_published,p_rebuilt,rho_difference,Status,Published_conclusion,Rebuilt_conclusion
+HPAI,2006-2023,13,13,0.828742,-0.116024,0.000463,0.7058335018395138,-0.944766,FAIL - published value not reproducible,Significant positive trend,No significant monotonic association
+Rabies,2006-2023,18,18,0.861944,0.761364,4e-06,0.00024212376044155723,-0.10058,FAIL - published value not reproducible,Significant positive trend,Positive association (p<0.05)
+Trypanosomosis,2006-2023,13,13,0.795304,0.367409,0.001153,0.21682966223556177,-0.427895,FAIL - published value not reproducible,Significant positive trend,No significant monotonic association

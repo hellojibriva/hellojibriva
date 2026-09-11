@@ -1,0 +1,7 @@
+Year,Disease,Raw_records,Outbreaks,Cases,Deaths,Killed_disposed,Slaughtered,Status
+2024,HPAI,8,5.0,4156.0,1636.0,2520.0,0.0,Observed
+2024,Rabies,67,184.0,190.0,21.0,171.0,0.0,Observed
+2024,Trypanosomosis,0,,,,,,No observations present in the extracted WAHIS dataset
+2025,HPAI,22,36.0,117032.0,16980.0,100352.0,0.0,Observed
+2025,Rabies,58,125.0,125.0,48.0,78.0,0.0,Observed
+2025,Trypanosomosis,0,,,,,,No observations present in the extracted WAHIS dataset

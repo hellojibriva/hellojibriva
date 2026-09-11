@@ -1,0 +1,4 @@
+Disease,Observed_disease_years,Total_reported_outbreaks,Total_reported_cases,Mean_reported_cases_per_outbreak,Median_annual_cases_per_outbreak,Min_annual_cases_per_outbreak,Max_annual_cases_per_outbreak,Spearman_rho_outbreaks_vs_cases,p_value,n_years_in_correlation
+HPAI,15,1273,2771847,2177.41,736.5,80.46,6822.96,0.8250830075260457,0.00028046525974375426,14
+Rabies,20,1232,3066,2.49,1.07,1.0,87.74,0.8427756631808243,5.9243381770950406e-06,19
+Trypanosomosis,13,130,3008,23.14,7.0,1.0,177.67,0.7953042185996729,0.0011531268671394232,13

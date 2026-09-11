@@ -1,0 +1,3 @@
+Year,Disease,Metric,Previously_published,Rebuilt,Reason
+2006,Rabies,Cases,0,NA,"Disease-year is observed (an outbreak was reported) but no record in the raw extract carries a value for this metric: every contributing cell is ""-"". Under the missing-is-not-zero rule this is NA, not 0."
+2020,HPAI,Cases,0,NA,"Disease-year is observed (an outbreak was reported) but no record in the raw extract carries a value for this metric: every contributing cell is ""-"". Under the missing-is-not-zero rule this is NA, not 0."
