@@ -1,0 +1,8 @@
+Original_value,Cleaned_state,Rows_affected,Action,Reason,Years_affected,Rows_in_2006_2025_study_period
+Nassarawa,Nasarawa,6,Rename,Spelling correction; same Nigerian state,"2021, 2022",6
+Batagarawa,Katsina,1,Recode,LGA -> parent state,2026,0
+Gwale,Kano,1,Recode,LGA -> parent state,2026,0
+Jos North,Plateau,1,Recode,LGA -> parent state,2026,0
+Toro,Bauchi,1,Recode,LGA -> parent state,2026,0
+Ungogo,Kano,1,Recode,LGA -> parent state,2026,0
+Nigeria,Nigeria (state not specified),6,Flag only,National-level record with no state resolved; retained as a separate non-mappable row,"2005, 2014",2

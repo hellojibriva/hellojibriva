@@ -1,0 +1,5 @@
+Disease,Before_cleaning,After_cleaning,Difference,Status
+HPAI,1273,1273,0,PASS
+Rabies,1232,1232,0,PASS
+Trypanosomosis,130,130,0,PASS
+ALL THREE,2635,2635,0,PASS

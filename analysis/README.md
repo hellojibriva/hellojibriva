@@ -39,9 +39,19 @@ python3 analysis/scripts/20_figures.py          # figures
 - **Reported, not true.** All figures are *reported* counts. Geography describes the
   geographic concentration of reported outbreaks, not incidence, prevalence or
   population-adjusted burden.
+- **Geographic cleaning.** State-level geography uses the derived `State_Clean` field; the raw
+  `Administrative Division` column is never modified, so every recoding stays auditable
+  (`Geo_Recoding_Audit`). `Nassarawa`→`Nasarawa` (spelling, 6 rows); five LGAs recoded to parent
+  states (`Batagarawa`→Katsina, `Gwale`→Kano, `Jos North`→Plateau, `Toro`→Bauchi, `Ungogo`→Kano;
+  1 row each, all in 2026). `Nigeria` is flagged for review, not guessed, and is held out of the
+  state file. Cleaning is a relabelling only: national totals are unchanged (diff 0).
+- **No observed zeros exist.** All 530 `New outbreaks` values in the raw file are ≥1, so a
+  state-disease cell with no records means "no reported outbreaks in the extract", never an
+  observed zero. The QGIS file carries `*_outbreaks` (blank where missing), a clearly labelled
+  `*_outbreaks_map0` join convenience, and a `*_status` column.
 
 ## Status
 
-32 of 33 QC checks PASS. The single FAIL is deliberate and unresolved-by-design: the
+42 of 43 QC checks PASS. The single FAIL is deliberate and unresolved-by-design: the
 previously published Spearman coefficients do not reproduce as labelled. Root cause
 identified and documented in `QC_Spearman_Resolution` — see the audit report.

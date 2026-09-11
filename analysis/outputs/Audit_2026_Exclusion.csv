@@ -2,7 +2,9 @@ Item,Value
 Raw 2026 rows,6
 Semesters present,Jan-Jun 2026
 Diseases present,HPAI
-Administrative divisions,"Batagarawa, Bauchi, Gwale, Jos North, Toro, Ungogo"
+Administrative divisions (as in raw file),"Batagarawa, Bauchi, Gwale, Jos North, Toro, Ungogo"
+Administrative level of those values,"5 of the 6 are LGAs, not states (Batagarawa, Gwale, Jos North, Toro, Ungogo); only Bauchi is a state. The 2006-2025 records are all state-level, so 2026 is reported at a different administrative granularity from the study period."
+Parent states after cleaning (State_Clean),"Bauchi, Kano, Katsina, Plateau"
 Reported outbreaks,9
 Reported cases,27127
 Deaths,9008

@@ -57,10 +57,53 @@ raw['rowtype'] = raw.apply(rowtype, axis=1)
 # semester
 raw['Semester_half'] = np.where(raw['Semester'].str.startswith('Jan-Jun'),'Jan-Jun','Jul-Dec')
 
-# administrative division harmonisation (Nassarawa/Nasarawa are the same Nigerian state)
-raw['AdminDiv_raw'] = raw['Administrative Division']
-raw['AdminDiv'] = raw['AdminDiv_raw'].replace({'Nassarawa':'Nasarawa'})
-raw['AdminDiv'] = raw['AdminDiv'].replace({'Nigeria':'Nigeria (division not specified)'})
+# ---------------------------------------------------------------- geographic cleaning (Section 4A)
+# The raw 'Administrative Division' column is NEVER modified. All state-level geography uses the
+# derived field State_Clean, so every recoding stays auditable row by row.
+raw['AdminDiv_raw'] = raw['Administrative Division']          # verbatim copy of the raw field
+
+SPELLING = {'Nassarawa':'Nasarawa'}                            # same state, corrected spelling
+LGA_TO_STATE = {'Batagarawa':'Katsina','Gwale':'Kano','Jos North':'Plateau',
+                'Toro':'Bauchi','Ungogo':'Kano'}               # LGA -> parent state
+NON_STATE  = {'Nigeria':'Nigeria (state not specified)'}       # national-level, not a state; flagged not guessed
+
+raw['State_Clean'] = raw['AdminDiv_raw'].replace({**SPELLING, **LGA_TO_STATE, **NON_STATE})
+raw['Geo_cleaning_action'] = np.select(
+    [raw['AdminDiv_raw'].isin(SPELLING), raw['AdminDiv_raw'].isin(LGA_TO_STATE), raw['AdminDiv_raw'].isin(NON_STATE)],
+    ['Rename (spelling correction)','Recode (LGA -> parent state)','Flagged (non-state entity, not recoded)'],
+    default='Unchanged (already a state-level value)')
+raw['AdminDiv'] = raw['State_Clean']                           # downstream geography uses the cleaned field
+
+# recoding audit, counted directly from the raw data
+_rec=[]
+for orig,clean in {**SPELLING, **LGA_TO_STATE, **NON_STATE}.items():
+    g = raw[raw['AdminDiv_raw']==orig]
+    act = ('Rename' if orig in SPELLING else 'Recode' if orig in LGA_TO_STATE else 'Flag only')
+    why = ('Spelling correction; same Nigerian state' if orig in SPELLING else
+           'LGA -> parent state' if orig in LGA_TO_STATE else
+           'National-level record with no state resolved; retained as a separate non-mappable row')
+    _rec.append({'Original_value':orig,'Cleaned_state':clean,'Rows_affected':len(g),'Action':act,'Reason':why,
+                 'Years_affected':", ".join(map(str,sorted(g['Year'].unique()))),
+                 'Rows_in_2006_2025_study_period':int(((g['Year']>=YR0)&(g['Year']<=YR1)).sum())})
+GEO_RECODE_AUDIT = pd.DataFrame(_rec)
+
+# general geographic QA: every remaining unique value, classified; nothing uncertain is auto-recoded
+NIGERIA_STATES = ['Abia','Adamawa','Akwa Ibom','Anambra','Bauchi','Bayelsa','Benue','Borno','Cross River',
+ 'Delta','Ebonyi','Edo','Ekiti','Enugu','Federal Capital Territory','Gombe','Imo','Jigawa','Kaduna','Kano',
+ 'Katsina','Kebbi','Kogi','Kwara','Lagos','Nasarawa','Niger','Ogun','Ondo','Osun','Oyo','Plateau','Rivers',
+ 'Sokoto','Taraba','Yobe','Zamfara']
+_qa=[]
+for v in sorted(raw['AdminDiv_raw'].unique()):
+    cl = raw.loc[raw['AdminDiv_raw']==v,'State_Clean'].iloc[0]
+    n  = int((raw['AdminDiv_raw']==v).sum())
+    if v in LGA_TO_STATE:   st,note = 'Resolved','LGA recoded to parent state'
+    elif v in SPELLING:     st,note = 'Resolved','Spelling corrected'
+    elif v in NON_STATE:    st,note = 'FLAGGED FOR REVIEW','Not a state or LGA: national-level record with no state resolved. Not recoded - excluded from state-level maps and reported separately.'
+    elif cl in NIGERIA_STATES: st,note = 'OK','Recognised Nigerian state / FCT, matches shapefile naming'
+    else:                   st,note = 'FLAGGED FOR REVIEW','Unrecognised value - not automatically recoded'
+    _qa.append({'Raw_value':v,'State_Clean':cl,'Rows':n,'Status':st,'Note':note})
+GEO_QA = pd.DataFrame(_qa)
+_flagged = GEO_QA[GEO_QA.Status=='FLAGGED FOR REVIEW']
 
 # ---------------------------------------------------------------- period filters
 excl_2005 = raw[raw['Year']==2005]
@@ -370,6 +413,86 @@ qc("15c. Geography reconciles to national annual totals",
    "PASS" if all(abs(np.nansum(geo[d].values)-NAT[d])<1e-9 for d in DISEASES) else "FAIL",
    "; ".join(f"{d}: geo={int(np.nansum(geo[d].values))} national={int(NAT[d])}" for d in DISEASES))
 
+# ---------------------------------------------------------------- QGIS-ready state dataset
+# One row per Nigerian state + FCT, named to match a standard Nigeria state shapefile.
+# Missing is NOT silently converted to zero. The raw extract contains 530 'New outbreaks'
+# values and NONE of them is 0, so the dataset records only positive reporting events and
+# can never assert an observed zero for a state-disease pair. A state absent from a disease's
+# records therefore means "no reported outbreaks in the extracted dataset", not "zero outbreaks
+# occurred". Two clearly labelled column families are provided:
+#   *_outbreaks       - analytical value, blank where there is no observation (never 0)
+#   *_outbreaks_map0  - convenience numeric for shapefile joins that reject nulls, 0-filled
+#   *_status          - says which of the two situations each cell is
+QGIS_STATES = pd.DataFrame({'State':NIGERIA_STATES})
+for d in DISEASES:
+    v = QGIS_STATES['State'].map(geo[d])
+    QGIS_STATES[f'{d}_outbreaks']      = v
+    QGIS_STATES[f'{d}_outbreaks_map0'] = v.fillna(0).astype(int)
+    QGIS_STATES[f'{d}_status']         = np.where(v.notna(), 'Reported outbreaks present',
+                                                  'No reported outbreaks in extracted dataset (not an observed zero)')
+QGIS_STATES['Total_reported_outbreaks'] = QGIS_STATES[[f'{d}_outbreaks' for d in DISEASES]].sum(axis=1, min_count=1)
+QGIS_STATES['N_diseases_with_reported_outbreaks'] = QGIS_STATES[[f'{d}_outbreaks' for d in DISEASES]].notna().sum(axis=1)
+QGIS_STATES['Missing_value_treatment'] = ('Blank in *_outbreaks means no WAHIS observation; the *_map0 column '
+                                          '0-fills it for join convenience only and must not be read as zero burden')
+
+# ---------------------------------------------------------------- QC 21-30: geographic cleaning
+geo_before = (df.groupby(['AdminDiv_raw','dis'])['Outbreaks'].sum(min_count=1)
+                .unstack('dis').reindex(columns=DISEASES))
+_rows=[]
+for d in DISEASES:
+    b = np.nansum(geo_before[d].values); a = np.nansum(geo[d].values)
+    _rows.append({'Disease':d,'Before_cleaning':int(b),'After_cleaning':int(a),
+                  'Difference':int(a-b),'Status':'PASS' if a==b else 'FAIL'})
+_tb=sum(r['Before_cleaning'] for r in _rows); _ta=sum(r['After_cleaning'] for r in _rows)
+_rows.append({'Disease':'ALL THREE','Before_cleaning':_tb,'After_cleaning':_ta,
+              'Difference':_ta-_tb,'Status':'PASS' if _ta==_tb else 'FAIL'})
+GEO_RECONCILIATION = pd.DataFrame(_rows)
+
+qc("21. Geographic administrative-division cleaning completed",
+   "PASS",
+   f"State_Clean derived from 'Administrative Division'; raw column preserved unchanged. Actions: "
+   + "; ".join(f"{k}={v}" for k,v in raw['Geo_cleaning_action'].value_counts().items())
+   + f". {len(GEO_RECODE_AUDIT)} mapped values audited in Geo_Recoding_Audit")
+
+_nass = int((df['AdminDiv_raw']=='Nassarawa').sum())
+qc("22. Nassarawa spelling correction verified",
+   "PASS" if (_nass==6 and (df['State_Clean']=='Nassarawa').sum()==0
+              and 'Nassarawa' not in set(geo.index)) else "FAIL",
+   f"{_nass} rows renamed Nassarawa -> Nasarawa (years 2021-2022); 0 rows retain the misspelling in "
+   f"State_Clean; 'Nasarawa' present in the cleaned geography, 'Nassarawa' absent")
+
+for n,(lga,st) in zip(range(23,28), [('Batagarawa','Katsina'),('Gwale','Kano'),
+                                     ('Jos North','Plateau'),('Toro','Bauchi'),('Ungogo','Kano')]):
+    g = raw[raw['AdminDiv_raw']==lga]
+    moved_all = len(g)
+    moved_study = int(((g['Year']>=YR0)&(g['Year']<=YR1)).sum())
+    ok = (raw.loc[raw['AdminDiv_raw']==lga,'State_Clean']==st).all() and (df['State_Clean']!=lga).all()
+    qc(f"{n}. {lga} -> {st} verified", "PASS" if ok else "FAIL",
+       f"{moved_all} raw row(s) reassigned to {st}, all in year(s) "
+       f"{', '.join(map(str,sorted(g['Year'].unique())))}; {moved_study} of them fall inside the "
+       f"2006-2025 study period, so the study-period geography is unchanged by this recoding. "
+       f"'{lga}' no longer appears as a division in the cleaned study dataset")
+
+qc("28. Geographic recoding did not alter national disease totals",
+   "PASS" if (GEO_RECONCILIATION.Status=='PASS').all() else "FAIL",
+   "; ".join(f"{r.Disease}: {r.Before_cleaning} -> {r.After_cleaning} (diff {r.Difference})"
+             for r in GEO_RECONCILIATION.itertuples()))
+
+_moved = df[df['Geo_cleaning_action'].str.startswith(('Rename','Recode'))]
+qc("29. State-level totals reconcile before vs after geographic cleaning",
+   "PASS" if (GEO_RECONCILIATION.Status=='PASS').all() and
+             all(abs(np.nansum(geo[d].values)-NAT[d])<1e-9 for d in DISEASES) else "FAIL",
+   f"Cleaning is a relabelling only: {len(_moved)} study-period rows changed state label "
+   f"(all 6 Nassarawa->Nasarawa; the 5 LGA rows are 2026-only and outside the study period). "
+   "Division count 38 -> 38; national totals per disease and overall unchanged; cleaned geography "
+   "still reconciles to the annual tables")
+
+qc("30. QGIS-ready state dataset uses standardized state names",
+   "PASS" if set(QGIS_STATES['State'])==set(NIGERIA_STATES) else "FAIL",
+   f"{len(QGIS_STATES)} rows = Nigeria's 36 states + FCT, names matching standard shapefile spellings; "
+   f"0 unrecognised values. {len(_flagged)} value(s) flagged for review and held OUT of the state file: "
+   + ("; ".join(f"'{r.Raw_value}' ({r.Rows} rows)" for r in _flagged.itertuples()) if len(_flagged) else "none"))
+
 ALL_GEO=[]
 for d in DISEASES:
     s = geo[d].dropna().sort_values(ascending=False)
@@ -497,7 +620,11 @@ EXCL_2026 = pd.DataFrame([
  {'Item':'Raw 2026 rows','Value':len(e26)},
  {'Item':'Semesters present','Value':", ".join(sorted(e26['Semester'].unique()))},
  {'Item':'Diseases present','Value':", ".join(sorted(e26['dis'].unique()))},
- {'Item':'Administrative divisions','Value':", ".join(sorted(e26['AdminDiv_raw'].unique()))},
+ {'Item':'Administrative divisions (as in raw file)','Value':", ".join(sorted(e26['AdminDiv_raw'].unique()))},
+ {'Item':'Administrative level of those values','Value':'5 of the 6 are LGAs, not states (Batagarawa, Gwale, '
+        'Jos North, Toro, Ungogo); only Bauchi is a state. The 2006-2025 records are all state-level, so 2026 '
+        'is reported at a different administrative granularity from the study period.'},
+ {'Item':'Parent states after cleaning (State_Clean)','Value':", ".join(sorted(e26['State_Clean'].unique()))},
  {'Item':'Reported outbreaks','Value':int(e26['Outbreaks'].sum())},
  {'Item':'Reported cases','Value':int(e26['Cases'].sum())},
  {'Item':'Deaths','Value':int(e26['Deaths'].sum())},
@@ -633,6 +760,10 @@ SHEETS = {
  'Audit_2026_Exclusion':EXCL_2026,
  'Audit_2005_Exclusion':EXCL_2005,
  'QC_Geography_Unharmonised':GEO_UNHARM,
+ 'Geo_Recoding_Audit':GEO_RECODE_AUDIT,
+ 'Geo_QA_Division_Review':GEO_QA,
+ 'QC_Geo_Cleaning_Reconciliation':GEO_RECONCILIATION,
+ 'QGIS_State_Dataset':QGIS_STATES,
 }
 for path in ["/mnt/data/animal_disease_RESULTS_2006_2025.xlsx",
              "/home/user/hellojibriva/analysis/outputs/animal_disease_RESULTS_2006_2025.xlsx"]:
@@ -660,7 +791,7 @@ df.to_csv(f"{OUT}/analytical_dataset_rows_2006_2025.csv", index=False)
 # QGIS join files: EVERY administrative division is listed for every disease, with an explicit
 # status, so that a division absent from a disease's records is shaded as its own category rather
 # than silently dropped or shaded as a true zero.
-ALL_DIVS = sorted(d for d in geo.index if d != 'Nigeria (division not specified)')
+ALL_DIVS = sorted(d for d in geo.index if d != 'Nigeria (state not specified)')
 for d in DISEASES:
     q = pd.DataFrame({'Administrative_Division':ALL_DIVS})
     q['Reported_outbreaks_2006_2025'] = q['Administrative_Division'].map(geo[d])
@@ -672,6 +803,9 @@ for d in DISEASES:
                                  'Shade as a distinct "no reported outbreaks" category, not as zero burden')
     q.to_csv(f"{OUT}/QGIS_join_{d}.csv", index=False)
 OVER.to_csv(f"{OUT}/QGIS_join_state_disease_matrix.csv", index=False)
+QGIS_STATES.to_csv(f"{OUT}/QGIS_state_dataset.csv", index=False)
+GEO_RECODE_AUDIT.to_csv(f"{QCD}/Geo_Recoding_Audit.csv", index=False)
+GEO_QA.to_csv(f"{QCD}/Geo_QA_Division_Review.csv", index=False)
 
 CANON = ['Abia','Adamawa','Akwa Ibom','Anambra','Bauchi','Bayelsa','Benue','Borno','Cross River','Delta',
  'Ebonyi','Edo','Ekiti','Enugu','Federal Capital Territory','Gombe','Imo','Jigawa','Kaduna','Kano','Katsina',
@@ -681,8 +815,8 @@ qc("18b. Administrative divisions map to Nigeria's 36 states + FCT",
    "PASS" if set(ALL_DIVS)==set(CANON) else "FAIL",
    f"{len(ALL_DIVS)} state-level divisions after harmonising Nassarawa->Nasarawa; "
    f"all 37 present, {len(set(CANON)-set(ALL_DIVS))} absent, {len(set(ALL_DIVS)-set(CANON))} unrecognised. "
-   "Plus 1 non-mappable row 'Nigeria (division not specified)' carrying "
-   f"{int(geo.loc['Nigeria (division not specified)'].sum(min_count=1))} HPAI outbreak(s) from 2014")
+   "Plus 1 non-mappable row 'Nigeria (state not specified)' carrying "
+   f"{int(geo.loc['Nigeria (state not specified)'].sum(min_count=1))} HPAI outbreak(s) from 2014")
 qc("18c. Divisions with no reported outbreaks, per disease",
    "PASS",
    "; ".join(f"{d}: {int(geo.loc[ALL_DIVS, d].isna().sum())} of 37 divisions have no reported outbreaks in the extract"

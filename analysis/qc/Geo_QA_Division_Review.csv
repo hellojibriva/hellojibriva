@@ -1,0 +1,45 @@
+Raw_value,State_Clean,Rows,Status,Note
+Abia,Abia,8,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Adamawa,Adamawa,22,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Akwa Ibom,Akwa Ibom,9,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Anambra,Anambra,24,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Batagarawa,Katsina,1,Resolved,LGA recoded to parent state
+Bauchi,Bauchi,87,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Bayelsa,Bayelsa,20,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Benue,Benue,28,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Borno,Borno,14,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Cross River,Cross River,14,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Delta,Delta,33,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Ebonyi,Ebonyi,19,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Edo,Edo,24,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Ekiti,Ekiti,20,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Enugu,Enugu,20,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Federal Capital Territory,Federal Capital Territory,40,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Gombe,Gombe,50,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Gwale,Kano,1,Resolved,LGA recoded to parent state
+Imo,Imo,12,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Jigawa,Jigawa,26,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Jos North,Plateau,1,Resolved,LGA recoded to parent state
+Kaduna,Kaduna,71,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Kano,Kano,79,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Katsina,Katsina,26,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Kebbi,Kebbi,28,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Kogi,Kogi,12,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Kwara,Kwara,25,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Lagos,Lagos,30,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Nasarawa,Nasarawa,22,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Nassarawa,Nasarawa,6,Resolved,Spelling corrected
+Niger,Niger,45,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Nigeria,Nigeria (state not specified),6,FLAGGED FOR REVIEW,Not a state or LGA: national-level record with no state resolved. Not recoded - excluded from state-level maps and reported separately.
+Ogun,Ogun,32,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Ondo,Ondo,14,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Osun,Osun,32,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Oyo,Oyo,26,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Plateau,Plateau,96,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Rivers,Rivers,16,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Sokoto,Sokoto,13,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Taraba,Taraba,20,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Toro,Bauchi,1,Resolved,LGA recoded to parent state
+Ungogo,Kano,1,Resolved,LGA recoded to parent state
+Yobe,Yobe,14,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
+Zamfara,Zamfara,24,OK,"Recognised Nigerian state / FCT, matches shapefile naming"
