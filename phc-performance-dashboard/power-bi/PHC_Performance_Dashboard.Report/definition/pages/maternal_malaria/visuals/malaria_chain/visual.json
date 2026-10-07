@@ -1,0 +1,130 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.2.0/schema.json",
+  "name": "malaria_chain",
+  "position": {
+    "x": 840,
+    "y": 184,
+    "z": 12000,
+    "height": 262,
+    "width": 424,
+    "tabOrder": 12000
+  },
+  "visual": {
+    "visualType": "clusteredColumnChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Malaria Step"
+                    }
+                  },
+                  "Property": "Group"
+                }
+              },
+              "queryRef": "Malaria Step.Group",
+              "nativeQueryRef": "Group",
+              "active": true
+            }
+          ]
+        },
+        "Series": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Malaria Step"
+                    }
+                  },
+                  "Property": "Step"
+                }
+              },
+              "queryRef": "Malaria Step.Step",
+              "nativeQueryRef": "Step"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "Malaria Cases"
+                }
+              },
+              "queryRef": "Reports.Malaria Cases",
+              "nativeQueryRef": "Malaria Cases"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Malaria Step"
+                  }
+                },
+                "Property": "Group"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "objects": {
+      "labels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Malaria: tested, positive, treated'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

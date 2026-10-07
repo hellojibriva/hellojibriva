@@ -1,0 +1,38 @@
+table Facility
+	lineageTag: b89ce492-ce4e-5695-8ee7-e1cb72fd5977
+
+	column 'Facility Code'
+		dataType: string
+		lineageTag: 7c605da5-1f85-5782-97a1-4665049e8bbd
+		summarizeBy: none
+		sourceColumn: Facility Code
+
+		annotation SummarizationSetBy = User
+
+	column Zone
+		dataType: string
+		lineageTag: 7fd4a8b6-f9b6-52fa-a8be-49e2e29c924f
+		summarizeBy: none
+		sourceColumn: Zone
+
+		annotation SummarizationSetBy = User
+
+	column Partner
+		dataType: string
+		lineageTag: 10baa927-b1ca-5194-87f7-ffeaa237783c
+		summarizeBy: none
+		sourceColumn: Partner
+
+		annotation SummarizationSetBy = User
+
+	partition Facility = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Binary.Decompress(Binary.FromText("hdS9asMwFAXgvU/hB3DA+rfHVknpFAIaDN1MK2gg2OAqQ9++4FJruTln0fKdC9Lh2q/Tx/V2LT9NXD5z+77Mub1Ma5nz+nR5i4dzPHSqPS9r+Wpinss63f69ed4TmiYMTViacDThaSLQRE8TA06camOn6bsIrDEbzBazkzju7PF0wNxjHgCPtZYxi6wxG8wWs8PsMQfM/WNO2zqk5S7XkrZ1gGwwW8wOswec6s23U3At+nF3Q9yK/rK7I/Oe3C8Q74kP2FVHnPSnNHGD+1GWzDvipD8VcP+K9KcGPK87/D6tiMv9/f3t0lj3V/owx7q+D9hgtpgdZi/zLw==", BinaryEncoding.Base64), Compression.Deflate), [Delimiter = ",", Columns = 3, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"Facility Code", type text}, {"Zone", type text}, {"Partner", type text}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

@@ -1,0 +1,41 @@
+table 'Challenge Themes'
+	lineageTag: a890767b-e4d7-57be-8d07-26cf1e7de071
+
+	column 'Facility Code'
+		dataType: string
+		isHidden
+		lineageTag: 3188f66f-2b87-5ec6-9333-1d044898b81a
+		summarizeBy: none
+		sourceColumn: Facility Code
+
+		annotation SummarizationSetBy = User
+
+	column 'Month Number'
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: bd74c60f-ec0a-5a69-b50c-af612dbede04
+		summarizeBy: none
+		sourceColumn: Month Number
+
+		annotation SummarizationSetBy = User
+
+	column Theme
+		dataType: string
+		lineageTag: 959ddd54-3cc4-51ea-833b-11739a3b84f1
+		summarizeBy: none
+		sourceColumn: Theme
+
+		annotation SummarizationSetBy = User
+
+	partition 'Challenge Themes' = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Binary.Decompress(Binary.FromText("jZpLb9tGFIX3/RVadaWgJWfuzHDtKGgXDQIwANesTMdEbMqlqQb99xVfhh2Y59NO0Hc4c++ZB+fBT/WxfWiH/3Y3p9tm/9epG+53n8+Pfzf9/ut989j88uWPmw+fbz78nu2z/ZfTj6bf/bZrHprj0LfHy3OveA7cAffADXgAHoEnyXOIP4f6c6jfQf0J/E/gf4L4E/ifwP8E+SfIP6n8D9A/DtA/DtA/DqP/HrgB1+Wbyn/iOn/ZPhWMzwrGZwXjswL/K/C/Av8rGJ/VOH4MOD2fJDfwz8A/A/8M/DPIz8A/g/wDxJ+gfjV+SxifJYzPkefC/5nnwB1wD5ziC8Aj8O3+V5a6/4/cK38mngN3wA14AK7jN4gvQPkByo+qfSduwHX7JO1fxlzGl2e6ffNM+5er+buseH0TL/X/2d319fPQn4/DuW92v+6en+pj80qSs8SxxFgSWZKkZJmRUGIsCSTJwbpl9kIJhuvA3WUZgxJjSWAJNoBBMy6rHpAU7G7B7hZsXcHWFWxdwdYVkHQ1z/YoyVniWOJZYiwJJAlcSuBSIoeb2LrE1qVrKgoskS09r4sylniWGElgClrXUCiJLMGkHSftOFzH4Tq2zrF1nsP1HK7ncGEczZLIEt0AJZdS4lCbJYElV1SE4RYcC0zN4xKMGmCSUEWZXSMhX3Ia9pMES8m5FBr2k8SxxLPEWHJFRpElur8sm3GUeJZEliRaqY7rl4/9+dvzhRxPj4+n23Zom+dX3AE34AF4BJ62+WFeISg+vkw1F88vB1ea0/MmuYfyvYp/WURp7oFTfAF4kjxCfhHyixB/hPgjxB9V/6vm6X+Lz0sbBzxIrtp/5EGVX85bWs09cAMeJE/Cv5knxTPVP9aDC809cAMegEfgIj+YP8oK+k+l+8968VUO9d1d2327SIa+brvLzzcXX5o74B64AQ/AI/AkuYP4CvCnAH8K8KdQ9R/AnwP4s5zeaJ4D1/E55EnyAPEHeD5B/QXkX0D+sv0O3H4FtF8B+Rcq/2WbvsVLaN91U6y5AY+Sm/B/vRhQ3MPzXuW3XAxobsB1fBHiixBfFO07b/xk+VmGPAfugHvgQXLwf9qSKg7+5hlyEV+l32/r+1VzD5zqT5Ib1G/w/hvHb1UPTT/u3OquHeqhPXUv2Gs8XqtKHDSOGieFowhtOTaUGJ4OCjtduNOFOyo8KmwajwfAEucab0de6d6yfIUgcVI4CluWM2mJN0MrdXuv9+8SJ4VtO7T1HSJw1HjcoUjsNYbCg8ZR4Ex0pnVvtY2nqVlir2eHbH/459w+PTbdMG1eHm53x/vL9PZmdkKJY4lnibEksCSyJEnJMnsoybJnRImRxIN1y+EOSAJXFLiUxBkl6AzVPNJQ4lliLLkiI9nS690ZSOwaiWeJsURmtK6UQWK6jeYZCSUFhFvOp8IoSSDJPMaSefQlg767fv2iJMtRPMwM45j+2tfd89OpHyV9c9f0ff3wZi+5KVhfg1IwdqZtQTlvl0GAJRgJIgmSFEwvJhB4EogY1mPtT+fudl6Vt93x0mrtvz+da4MgJ4EngW0Lxp5ZqBJmgSph2T2BIJAgkkA5ebN8Gnd/6ppd1ww/Tv33V3c76R3y8jnlBkkbpY23+h/roZ6ae2z318c048y2Cacz9vfgfAAiYNosdvmmt2yO5/7nD3nf+dO/92d478/49s+XM543fy4riJc//wc=", BinaryEncoding.Base64), Compression.Deflate), [Delimiter = ",", Columns = 3, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"Facility Code", type text}, {"Month Number", Int64.Type}, {"Theme", type text}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

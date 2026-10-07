@@ -1,0 +1,23 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	discourageImplicitMeasures
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBI_QueryOrder = ["Reports", "Facility", "Challenge Themes"]
+
+ref table Reports
+ref table Facility
+ref table Month
+ref table 'Challenge Themes'
+ref table 'ANC Step'
+ref table 'IPTp Step'
+ref table 'Malaria Step'
+ref table 'FP Method'
+ref table 'Death Category'
+ref table 'DQ Check'

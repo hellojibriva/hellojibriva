@@ -1,0 +1,38 @@
+table 'DQ Check'
+	lineageTag: 69fb661d-e646-5c1d-a361-7d7428207a85
+
+	column Check
+		dataType: string
+		lineageTag: 5623ae26-30bc-530a-997e-a2932d4580d6
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Check]
+		sortByColumn: Order
+
+		annotation SummarizationSetBy = User
+
+	column Order
+		dataType: int64
+		formatString: 0
+		lineageTag: d5cd5722-eeae-59b7-9503-6d3dd5aa82a3
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Order]
+
+		annotation SummarizationSetBy = User
+
+	partition 'DQ Check' = calculated
+		mode: import
+		source = ```
+				DATATABLE ( "Check", STRING, "Order", INTEGER,
+					{
+						{"Zone entered inconsistently", 1},
+						{"More positives than tests", 2},
+						{"More treated than confirmed", 3},
+						{"More FP acceptors than counselled", 4},
+						{"Attendance spike (not June)", 5},
+						{"Immunisation spike (not June)", 6},
+						{"FP method breakdown missing", 7}
+					}
+				)
+				```

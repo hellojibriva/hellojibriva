@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.2.0/schema.json",
+  "name": "card_iptp3_completion",
+  "position": {
+    "x": 435,
+    "y": 80,
+    "z": 6000,
+    "height": 92,
+    "width": 201,
+    "tabOrder": 6000
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "IPTp3 Completion"
+                }
+              },
+              "queryRef": "Reports.IPTp3 Completion",
+              "nativeQueryRef": "IPTp3 Completion"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

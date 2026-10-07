@@ -1,0 +1,15 @@
+relationship ba18d3c2-b8c0-578c-ba02-79be47e296a3
+	fromColumn: Reports.'Facility Code'
+	toColumn: Facility.'Facility Code'
+
+relationship 7da4a647-770c-5668-b4fb-658868631a2a
+	fromColumn: Reports.'Month Number'
+	toColumn: Month.'Month Number'
+
+relationship 070bf0b6-7466-5e06-9d0d-3ddc73775cca
+	fromColumn: 'Challenge Themes'.'Facility Code'
+	toColumn: Facility.'Facility Code'
+
+relationship 918e73f7-2e04-5bfe-bd36-9ce34df00451
+	fromColumn: 'Challenge Themes'.'Month Number'
+	toColumn: Month.'Month Number'

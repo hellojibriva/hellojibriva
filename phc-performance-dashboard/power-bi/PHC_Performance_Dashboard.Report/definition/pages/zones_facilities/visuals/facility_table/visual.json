@@ -1,0 +1,204 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.2.0/schema.json",
+  "name": "facility_table",
+  "position": {
+    "x": 16,
+    "y": 328,
+    "z": 5000,
+    "height": 384,
+    "width": 816,
+    "tabOrder": 5000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Facility"
+                    }
+                  },
+                  "Property": "Facility Code"
+                }
+              },
+              "queryRef": "Facility.Facility Code",
+              "nativeQueryRef": "Facility Code"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Facility"
+                    }
+                  },
+                  "Property": "Zone"
+                }
+              },
+              "queryRef": "Facility.Zone",
+              "nativeQueryRef": "Zone"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Facility"
+                    }
+                  },
+                  "Property": "Partner"
+                }
+              },
+              "queryRef": "Facility.Partner",
+              "nativeQueryRef": "Partner"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "Reports Received"
+                }
+              },
+              "queryRef": "Reports.Reports Received",
+              "nativeQueryRef": "Reports Received"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "Patients Seen"
+                }
+              },
+              "queryRef": "Reports.Patients Seen",
+              "nativeQueryRef": "Patients Seen"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "SBA Deliveries"
+                }
+              },
+              "queryRef": "Reports.SBA Deliveries",
+              "nativeQueryRef": "SBA Deliveries"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "ANC4 Retention"
+                }
+              },
+              "queryRef": "Reports.ANC4 Retention",
+              "nativeQueryRef": "ANC4 Retention"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "IPTp3 Completion"
+                }
+              },
+              "queryRef": "Reports.IPTp3 Completion",
+              "nativeQueryRef": "IPTp3 Completion"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "U5 Positivity"
+                }
+              },
+              "queryRef": "Reports.U5 Positivity",
+              "nativeQueryRef": "U5 Positivity"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "Flagged Reports"
+                }
+              },
+              "queryRef": "Reports.Flagged Reports",
+              "nativeQueryRef": "Flagged Reports"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Reports"
+                  }
+                },
+                "Property": "ANC4 Retention"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Facilities (lowest ANC4 retention first)'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

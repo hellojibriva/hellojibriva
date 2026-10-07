@@ -1,0 +1,35 @@
+table 'Death Category'
+	lineageTag: 00f20002-f23f-5d38-83b4-f08300d3a61c
+
+	column Category
+		dataType: string
+		lineageTag: bad45d13-5f34-51b4-93c1-c7b9a77d2afb
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Category]
+		sortByColumn: Order
+
+		annotation SummarizationSetBy = User
+
+	column Order
+		dataType: int64
+		formatString: 0
+		lineageTag: b6f2fe9f-4a7b-517a-a7fa-54856d9358a4
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Order]
+
+		annotation SummarizationSetBy = User
+
+	partition 'Death Category' = calculated
+		mode: import
+		source = ```
+				DATATABLE ( "Category", STRING, "Order", INTEGER,
+					{
+						{"Infant", 1},
+						{"Under-5", 2},
+						{"Neonatal", 3},
+						{"Maternal", 4}
+					}
+				)
+				```

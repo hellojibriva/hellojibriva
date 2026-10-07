@@ -1,0 +1,172 @@
+{
+  "name": "PHC Field Report",
+  "dataColors": [
+    "#2A78D6",
+    "#EB6834",
+    "#1BAF7A",
+    "#EDA100",
+    "#E87BA4",
+    "#008300",
+    "#4A3AA7",
+    "#E34948"
+  ],
+  "foreground": "#15201C",
+  "foregroundNeutralSecondary": "#4A5852",
+  "foregroundNeutralTertiary": "#74817B",
+  "background": "#FFFFFF",
+  "backgroundLight": "#F3F5F2",
+  "backgroundNeutral": "#DDE2DC",
+  "tableAccent": "#0E6B58",
+  "good": "#1D7A3E",
+  "neutral": "#A96500",
+  "bad": "#C23A2F",
+  "maximum": "#184F95",
+  "center": "#86B6EF",
+  "minimum": "#EEF3F9",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#15201C"
+    },
+    "callout": {
+      "fontFace": "Segoe UI",
+      "fontSize": 24,
+      "color": "#15201C"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 9,
+      "color": "#4A5852"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#15201C"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#DDE2DC"
+              }
+            },
+            "radius": 8
+          }
+        ],
+        "padding": [
+          {
+            "top": 8,
+            "bottom": 8,
+            "left": 10,
+            "right": 10
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F3F5F2"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F3F5F2"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#15201C"
+              }
+            },
+            "fontSize": 22
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#74817B"
+              }
+            },
+            "fontSize": 9
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "columnHeaders": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#4A5852"
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": "#F3F5F2"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "columnHeaders": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#4A5852"
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": "#F3F5F2"
+              }
+            }
+          }
+        ],
+        "values": [
+          {
+            "fontSize": 9
+          }
+        ]
+      }
+    }
+  }
+}

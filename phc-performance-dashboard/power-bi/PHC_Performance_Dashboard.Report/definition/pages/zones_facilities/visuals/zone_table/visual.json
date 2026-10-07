@@ -1,0 +1,190 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.2.0/schema.json",
+  "name": "zone_table",
+  "position": {
+    "x": 16,
+    "y": 80,
+    "z": 4000,
+    "height": 236,
+    "width": 1248,
+    "tabOrder": 4000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Facility"
+                    }
+                  },
+                  "Property": "Zone"
+                }
+              },
+              "queryRef": "Facility.Zone",
+              "nativeQueryRef": "Zone"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "Facilities in Scope"
+                }
+              },
+              "queryRef": "Reports.Facilities in Scope",
+              "nativeQueryRef": "Facilities in Scope"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "Reporting Completeness"
+                }
+              },
+              "queryRef": "Reports.Reporting Completeness",
+              "nativeQueryRef": "Reporting Completeness"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "Patients Seen"
+                }
+              },
+              "queryRef": "Reports.Patients Seen",
+              "nativeQueryRef": "Patients Seen"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "ANC4 Retention"
+                }
+              },
+              "queryRef": "Reports.ANC4 Retention",
+              "nativeQueryRef": "ANC4 Retention"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "IPTp3 Completion"
+                }
+              },
+              "queryRef": "Reports.IPTp3 Completion",
+              "nativeQueryRef": "IPTp3 Completion"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "U5 Positivity"
+                }
+              },
+              "queryRef": "Reports.U5 Positivity",
+              "nativeQueryRef": "U5 Positivity"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "FP Acceptance"
+                }
+              },
+              "queryRef": "Reports.FP Acceptance",
+              "nativeQueryRef": "FP Acceptance"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "Flagged Reports"
+                }
+              },
+              "queryRef": "Reports.Flagged Reports",
+              "nativeQueryRef": "Flagged Reports"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Reports"
+                  }
+                },
+                "Property": "ANC4 Retention"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Performance by geopolitical zone'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

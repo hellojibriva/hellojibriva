@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.2.0/schema.json",
+  "name": "card_reported_deaths",
+  "position": {
+    "x": 1115,
+    "y": 80,
+    "z": 11000,
+    "height": 92,
+    "width": 149,
+    "tabOrder": 11000
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "Reported Deaths"
+                }
+              },
+              "queryRef": "Reports.Reported Deaths",
+              "nativeQueryRef": "Reported Deaths"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

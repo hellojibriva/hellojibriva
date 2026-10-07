@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.2.0/schema.json",
+  "name": "card_fp_acceptance",
+  "position": {
+    "x": 958,
+    "y": 80,
+    "z": 10000,
+    "height": 92,
+    "width": 149,
+    "tabOrder": 10000
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "FP Acceptance"
+                }
+              },
+              "queryRef": "Reports.FP Acceptance",
+              "nativeQueryRef": "FP Acceptance"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

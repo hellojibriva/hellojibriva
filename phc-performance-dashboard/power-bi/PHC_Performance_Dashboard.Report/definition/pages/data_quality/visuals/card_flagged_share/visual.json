@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.2.0/schema.json",
+  "name": "card_flagged_share",
+  "position": {
+    "x": 1021,
+    "y": 80,
+    "z": 8000,
+    "height": 92,
+    "width": 243,
+    "tabOrder": 8000
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "Flagged Share"
+                }
+              },
+              "queryRef": "Reports.Flagged Share",
+              "nativeQueryRef": "Flagged Share"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

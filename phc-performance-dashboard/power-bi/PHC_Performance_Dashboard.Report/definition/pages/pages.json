@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/pagesMetadata/1.0.0/schema.json",
+  "pageOrder": [
+    "overview",
+    "maternal_malaria",
+    "zones_facilities",
+    "fp_mortality_barriers",
+    "data_quality"
+  ],
+  "activePageName": "overview"
+}

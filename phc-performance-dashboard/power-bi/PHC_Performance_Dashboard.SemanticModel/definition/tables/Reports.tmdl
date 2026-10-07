@@ -1,0 +1,912 @@
+table Reports
+	lineageTag: 18816857-e7be-5660-9018-c4361662aa6b
+
+	/// Facility-month reports received.
+	measure 'Reports Received' = COUNTROWS ( Reports )
+		formatString: #,0
+		displayFolder: 1 Coverage
+		lineageTag: e43c9e0c-dd44-5cbb-b8fd-479e4500ceaf
+
+	measure 'Facilities Reporting' = DISTINCTCOUNT ( Reports[Facility Code] )
+		formatString: #,0
+		displayFolder: 1 Coverage
+		lineageTag: 1813932b-3b45-560b-88c2-2537bf550e9f
+
+	measure 'Facilities in Scope' = COUNTROWS ( Facility )
+		formatString: #,0
+		displayFolder: 1 Coverage
+		lineageTag: feb036d2-3d30-573f-a173-2457be91f503
+
+	/// Facilities in the selection multiplied by months in the selection.
+	measure 'Expected Reports' = COUNTROWS ( Facility ) * COUNTROWS ( 'Month' )
+		formatString: #,0
+		displayFolder: 1 Coverage
+		lineageTag: 09c4b0d4-efdb-5508-bef3-f075a25db0f8
+
+	measure 'Reporting Completeness' = DIVIDE ( [Reports Received], [Expected Reports] )
+		formatString: 0.0%
+		displayFolder: 1 Coverage
+		lineageTag: 28142d69-f510-56f7-ba9c-293da38e4313
+
+	measure 'Patients Seen' = SUM ( Reports[gen_att] )
+		formatString: #,0
+		displayFolder: 2 Service volume
+		lineageTag: 335906d0-1ca4-5877-8d0b-ac8b230c05e1
+
+	measure 'OPD Attendance' = SUM ( Reports[opd_att] )
+		formatString: #,0
+		displayFolder: 2 Service volume
+		lineageTag: 9928a780-a4cc-58a3-b84d-e60d34d6facf
+
+	measure 'OPD Share' = DIVIDE ( [OPD Attendance], [Patients Seen] )
+		formatString: 0%
+		displayFolder: 2 Service volume
+		lineageTag: bf963fbb-d0af-50bb-801c-575948204e87
+
+	/// Antigen doses to children under 1 (BCG, Penta 1-3, Vitamin A, MCV1). June includes the immunisation outreach.
+	measure 'Immunisation Doses' = SUM ( Reports[imm_doses_u1] )
+		formatString: #,0
+		displayFolder: 2 Service volume
+		lineageTag: 6ba951a6-8753-51d5-8a5a-e249f625f427
+
+	measure Outreaches = SUM ( Reports[outreaches] )
+		formatString: #,0
+		displayFolder: 2 Service volume
+		lineageTag: 7edb6851-ac9b-5dc3-a724-f6391d4b572e
+
+	measure 'SBA Deliveries' = SUM ( Reports[sba_deliveries] )
+		formatString: #,0
+		displayFolder: 2 Service volume
+		lineageTag: 33167e88-295b-54e1-856c-e6fe57c20b9c
+
+	measure ANC1 = SUM ( Reports[anc1] )
+		formatString: #,0
+		displayFolder: 3 Antenatal care
+		lineageTag: e46a643f-f7b0-5302-ad81-48cdbc66cf26
+
+	measure ANC4 = SUM ( Reports[anc4] )
+		formatString: #,0
+		displayFolder: 3 Antenatal care
+		lineageTag: 38ad3fa1-153d-52f9-9dbd-0357428333e8
+
+	measure ANC8 = SUM ( Reports[anc8] )
+		formatString: #,0
+		displayFolder: 3 Antenatal care
+		lineageTag: 5924e43d-a13d-5d1a-b729-fbf3877d6580
+
+	measure IPT1 = SUM ( Reports[ipt1] )
+		formatString: #,0
+		displayFolder: 3 Antenatal care
+		lineageTag: f9f8f5e2-1de3-5a65-8f44-07cc9fd4cb4c
+
+	measure IPT2 = SUM ( Reports[ipt2] )
+		formatString: #,0
+		displayFolder: 3 Antenatal care
+		lineageTag: d042f671-debd-5b97-891a-3a18b102fc79
+
+	measure IPT3 = SUM ( Reports[ipt3] )
+		formatString: #,0
+		displayFolder: 3 Antenatal care
+		lineageTag: 64b2d45f-8077-54d7-917c-96815109363d
+
+	measure 'ANC4 Retention' = DIVIDE ( [ANC4], [ANC1] )
+		formatString: 0%
+		displayFolder: 3 Antenatal care
+		lineageTag: 6e02caee-a967-5eca-837d-8b8cca97f54c
+
+	measure 'ANC8 Retention' = DIVIDE ( [ANC8], [ANC1] )
+		formatString: 0%
+		displayFolder: 3 Antenatal care
+		lineageTag: d2c5c5d3-9871-51e1-9371-b806db5d3f90
+
+	measure 'IPTp3 Completion' = DIVIDE ( [IPT3], [IPT1] )
+		formatString: 0%
+		displayFolder: 3 Antenatal care
+		lineageTag: 6207e710-ae36-52bb-bc46-20ce860711f4
+
+	measure 'ANC Cascade' = ```
+			SWITCH (
+			    SELECTEDVALUE ( 'ANC Step'[Step] ),
+			    "ANC1", [ANC1],
+			    "ANC4", [ANC4],
+			    "ANC8", [ANC8]
+			)
+			```
+		formatString: #,0
+		displayFolder: 3 Antenatal care
+		lineageTag: 9f03a46c-b0f1-5f86-8881-dd3000815b02
+
+	measure 'IPTp Cascade' = ```
+			SWITCH (
+			    SELECTEDVALUE ( 'IPTp Step'[Step] ),
+			    "IPT1", [IPT1],
+			    "IPT2", [IPT2],
+			    "IPT3", [IPT3]
+			)
+			```
+		formatString: #,0
+		displayFolder: 3 Antenatal care
+		lineageTag: 3973de5f-281f-59f7-93ab-a2f66e1491d9
+
+	measure 'U5 Tested' = SUM ( Reports[u5_tested] )
+		formatString: #,0
+		displayFolder: 4 Malaria
+		lineageTag: c9b2b7f0-41fe-54a1-819a-03a99a3fc682
+
+	measure 'U5 Positive' = SUM ( Reports[u5_pos] )
+		formatString: #,0
+		displayFolder: 4 Malaria
+		lineageTag: 8b404ad8-eb7a-54d3-8006-b88fb3818d20
+
+	measure 'U5 Treated' = SUM ( Reports[u5_treated] )
+		formatString: #,0
+		displayFolder: 4 Malaria
+		lineageTag: bd7e5e51-aab4-5b1e-8837-fd2c158d3ae9
+
+	measure 'Adult Tested' = SUM ( Reports[ad_tested] )
+		formatString: #,0
+		displayFolder: 4 Malaria
+		lineageTag: 448a3e74-d51d-537a-b06e-c93ca402f4dc
+
+	measure 'Adult Positive' = SUM ( Reports[ad_pos] )
+		formatString: #,0
+		displayFolder: 4 Malaria
+		lineageTag: 5265d0ad-d9a3-55ac-a0fd-a038b190f058
+
+	measure 'Adult Treated' = SUM ( Reports[ad_treated] )
+		formatString: #,0
+		displayFolder: 4 Malaria
+		lineageTag: 6be90b9a-26eb-56b4-aeab-f4e2fc66a5e6
+
+	measure 'U5 Positivity' = DIVIDE ( [U5 Positive], [U5 Tested] )
+		formatString: 0%
+		displayFolder: 4 Malaria
+		lineageTag: ff69d139-3e2a-5953-8dba-ba218f12f4a1
+
+	measure 'Adult Positivity' = DIVIDE ( [Adult Positive], [Adult Tested] )
+		formatString: 0%
+		displayFolder: 4 Malaria
+		lineageTag: 40ee09a3-55ff-5992-9f3a-6025d64ed732
+
+	measure 'U5 Treatment Coverage' = DIVIDE ( [U5 Treated], [U5 Positive] )
+		formatString: 0%
+		displayFolder: 4 Malaria
+		lineageTag: 571bef51-fd22-5057-80d2-bbdeb8e75cf7
+
+	measure 'Adult Treatment Coverage' = DIVIDE ( [Adult Treated], [Adult Positive] )
+		formatString: 0%
+		displayFolder: 4 Malaria
+		lineageTag: 758dc705-b7b6-5364-b649-32869855666d
+
+	measure 'Malaria Cases' = ```
+			VAR _Group = SELECTEDVALUE ( 'Malaria Step'[Group] )
+			VAR _Step = SELECTEDVALUE ( 'Malaria Step'[Step] )
+			RETURN
+			    SWITCH (
+			        TRUE (),
+			        _Group = "Under 5" && _Step = "Tested", [U5 Tested],
+			        _Group = "Under 5" && _Step = "Positive", [U5 Positive],
+			        _Group = "Under 5" && _Step = "Treated", [U5 Treated],
+			        _Group = "Adults" && _Step = "Tested", [Adult Tested],
+			        _Group = "Adults" && _Step = "Positive", [Adult Positive],
+			        _Group = "Adults" && _Step = "Treated", [Adult Treated]
+			    )
+			```
+		formatString: #,0
+		displayFolder: 4 Malaria
+		lineageTag: 62d6f4c2-91b7-592b-9ee2-38fb36bd39ad
+
+	measure 'FP Counselled' = SUM ( Reports[fp_counselled] )
+		formatString: #,0
+		displayFolder: 5 Family planning
+		lineageTag: 3f3c74e6-57d3-5fb4-9514-bf7b275a5295
+
+	measure 'FP Acceptors' = SUM ( Reports[fp_acceptors] )
+		formatString: #,0
+		displayFolder: 5 Family planning
+		lineageTag: 99e8ac14-6e28-5795-b091-55f5cea4115c
+
+	measure 'FP Acceptance' = DIVIDE ( [FP Acceptors], [FP Counselled] )
+		formatString: 0%
+		displayFolder: 5 Family planning
+		lineageTag: fd1954a1-0e8f-574a-9061-f952a6c270a0
+
+	/// Acceptors with a method recorded. Lower than FP Acceptors because many reports omit the breakdown.
+	measure 'FP Method Total' = SUM ( Reports[fp_injectables] ) + SUM ( Reports[fp_male_condom] ) + SUM ( Reports[fp_implants] ) + SUM ( Reports[fp_pills] ) + SUM ( Reports[fp_female_condom] ) + SUM ( Reports[fp_iud] )
+		formatString: #,0
+		displayFolder: 5 Family planning
+		lineageTag: a4ac07b0-3bc2-577e-8c72-4b919e854b1d
+
+	measure 'FP Method Acceptors' = ```
+			SWITCH (
+			    SELECTEDVALUE ( 'FP Method'[Method] ),
+			    "Injectables", SUM ( Reports[fp_injectables] ),
+			    "Male condoms", SUM ( Reports[fp_male_condom] ),
+			    "Implants", SUM ( Reports[fp_implants] ),
+			    "Pills", SUM ( Reports[fp_pills] ),
+			    "Female condoms", SUM ( Reports[fp_female_condom] ),
+			    "IUD", SUM ( Reports[fp_iud] )
+			)
+			```
+		formatString: #,0
+		displayFolder: 5 Family planning
+		lineageTag: 31ff1eba-67dc-534f-9ff9-dd408e97f73a
+
+	measure 'FP Method Share' = DIVIDE ( [FP Method Acceptors], [FP Method Total] )
+		formatString: 0%
+		displayFolder: 5 Family planning
+		lineageTag: de824a24-a6ce-54d1-affb-95ac604da554
+
+	measure 'Infant Deaths' = SUM ( Reports[deaths_infant] )
+		formatString: #,0
+		displayFolder: 6 Mortality
+		lineageTag: fc933dcc-fb7b-5c6b-a42d-4b29c8a3273e
+
+	measure 'Under-5 Deaths' = SUM ( Reports[deaths_u5] )
+		formatString: #,0
+		displayFolder: 6 Mortality
+		lineageTag: d98d38f7-3d18-53ac-992f-9691493d5448
+
+	measure 'Neonatal Deaths' = SUM ( Reports[deaths_neonatal] )
+		formatString: #,0
+		displayFolder: 6 Mortality
+		lineageTag: 1f2ea7d0-b850-5bee-aef5-8f89f129af6e
+
+	measure 'Maternal Deaths' = SUM ( Reports[deaths_maternal] )
+		formatString: #,0
+		displayFolder: 6 Mortality
+		lineageTag: e75f1edd-c6ed-589c-a4a6-7d45baf1d25e
+
+	/// Sum of the four separately reported death fields.
+	measure 'Reported Deaths' = [Infant Deaths] + [Under-5 Deaths] + [Neonatal Deaths] + [Maternal Deaths]
+		formatString: #,0
+		displayFolder: 6 Mortality
+		lineageTag: cd6356ed-48da-546d-98d3-d4142e46f1b8
+
+	measure 'Deaths by Category' = ```
+			SWITCH (
+			    SELECTEDVALUE ( 'Death Category'[Category] ),
+			    "Infant", [Infant Deaths],
+			    "Under-5", [Under-5 Deaths],
+			    "Neonatal", [Neonatal Deaths],
+			    "Maternal", [Maternal Deaths]
+			)
+			```
+		formatString: #,0
+		displayFolder: 6 Mortality
+		lineageTag: 2c1f3d2c-2d0f-5953-8845-0d5e292e4cdd
+
+	measure 'Reports Answering' = CALCULATE ( [Reports Received], Reports[Challenge Status] <> "not_answered" )
+		formatString: #,0
+		displayFolder: 7 Barriers
+		lineageTag: 1882964c-75b3-5f08-943c-1852533cfe75
+
+	measure 'Reports Naming a Challenge' = CALCULATE ( [Reports Received], Reports[Challenge Status] = "challenge" )
+		formatString: #,0
+		displayFolder: 7 Barriers
+		lineageTag: 1ff7bc74-9f1f-5587-a34d-06068120ef83
+
+	measure 'Challenge Share' = DIVIDE ( [Reports Naming a Challenge], [Reports Answering] )
+		formatString: 0%
+		displayFolder: 7 Barriers
+		lineageTag: 06b41a96-cf06-52fd-9911-c838d5a47cab
+
+	measure 'Theme Mentions' = COUNTROWS ( 'Challenge Themes' )
+		formatString: #,0
+		displayFolder: 7 Barriers
+		lineageTag: 5fe66db8-18ed-5442-96e8-864a6028bbab
+
+	/// Share of reports naming any challenge that mention this theme.
+	measure 'Theme Share' = DIVIDE ( [Theme Mentions], [Reports Naming a Challenge] )
+		formatString: 0%
+		displayFolder: 7 Barriers
+		lineageTag: 9d90e50e-f1d2-506e-b58c-80a222c331d5
+
+	/// Reports failing at least one consistency or outlier check. June volumes are not treated as spikes because of the immunisation outreach.
+	measure 'Flagged Reports' = CALCULATE ( [Reports Received], Reports[dq_any] = 1 )
+		formatString: #,0
+		displayFolder: 8 Data quality
+		lineageTag: 926cdf2d-5778-5451-881f-a5c5064c7df5
+
+	measure 'Flagged Share' = DIVIDE ( [Flagged Reports], [Reports Received] )
+		formatString: 0.0%
+		displayFolder: 8 Data quality
+		lineageTag: 7fe86d50-eb58-51a8-a17e-02a291d7b1d0
+
+	measure 'Reports Failing Check' = ```
+			SWITCH (
+			    SELECTEDVALUE ( 'DQ Check'[Check] ),
+			    "Zone entered inconsistently", CALCULATE ( [Reports Received], Reports[dq_zone_mismatch] = 1 ),
+			    "More positives than tests", CALCULATE ( [Reports Received], Reports[dq_pos_gt_tested] = 1 ),
+			    "More treated than confirmed", CALCULATE ( [Reports Received], Reports[dq_treated_gt_pos] = 1 ),
+			    "More FP acceptors than counselled", CALCULATE ( [Reports Received], Reports[dq_fp_acc_gt_counselled] = 1 ),
+			    "Attendance spike (not June)", CALCULATE ( [Reports Received], Reports[dq_spike_attendance] = 1 ),
+			    "Immunisation spike (not June)", CALCULATE ( [Reports Received], Reports[dq_spike_immunisation] = 1 ),
+			    "FP method breakdown missing", CALCULATE ( [Reports Received], Reports[dq_fp_no_method] = 1 )
+			)
+			```
+		formatString: #,0
+		displayFolder: 8 Data quality
+		lineageTag: 60fff66b-dac1-5e8a-91c7-95204c12948a
+
+	/// Matrix cell status: report received, flagged by a check, or missing.
+	measure 'Report Status' = ```
+			VAR _Reports = [Reports Received]
+			VAR _Flagged = [Flagged Reports]
+			RETURN
+			    SWITCH (
+			        TRUE (),
+			        ISBLANK ( _Reports ), "✗ missing",
+			        _Flagged > 0, "⚠ flagged",
+			        "✓"
+			    )
+			```
+		displayFolder: 8 Data quality
+		lineageTag: b03429da-824d-5d96-8019-ea140166f588
+
+		annotation PBI_FormatHint = {"isText":true}
+
+	measure Headline = ```
+			VAR _Pos = FORMAT ( [U5 Positivity], "0%" )
+			VAR _Drop = FORMAT ( 1 - [ANC4 Retention], "0%" )
+			VAR _Comp = FORMAT ( [Reporting Completeness], "0.0%" )
+			RETURN
+			    _Pos & " of under-5 malaria tests are positive. "
+			        & _Drop & " of women who start ANC do not reach a fourth visit. "
+			        & _Comp & " of expected monthly reports were received."
+			
+			```
+		displayFolder: 0 Headline
+		lineageTag: f1457e31-8452-552a-873c-f76085d358a4
+
+		annotation PBI_FormatHint = {"isText":true}
+
+	column 'Facility Code'
+		dataType: string
+		isHidden
+		lineageTag: d9ff842a-5c37-5143-bb5e-4e8094eec440
+		summarizeBy: none
+		sourceColumn: Facility Code
+
+		annotation SummarizationSetBy = User
+
+	column 'Month Number'
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 74240d56-be77-5598-817d-e83705b1d250
+		summarizeBy: none
+		sourceColumn: Month Number
+
+		annotation SummarizationSetBy = User
+
+	column 'Challenge Status'
+		dataType: string
+		isHidden
+		lineageTag: 25403ace-cf83-5cc1-8fee-0c9532b6ec90
+		summarizeBy: none
+		sourceColumn: Challenge Status
+
+		annotation SummarizationSetBy = User
+
+	column partner_imputed
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: ff438257-17c0-5fda-a069-ad2dd20e4a75
+		summarizeBy: none
+		sourceColumn: partner_imputed
+
+		annotation SummarizationSetBy = User
+
+	column gen_att
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 87e22e12-5e08-5dd0-a9bb-d69df723adf7
+		summarizeBy: none
+		sourceColumn: gen_att
+
+		annotation SummarizationSetBy = User
+
+	column opd_att
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 4f16df14-f9b3-5fb3-a9ad-75cf3a6f7c4c
+		summarizeBy: none
+		sourceColumn: opd_att
+
+		annotation SummarizationSetBy = User
+
+	column anc_total
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 4d3ffa16-3d2d-5741-b56a-b4f79d8f2e29
+		summarizeBy: none
+		sourceColumn: anc_total
+
+		annotation SummarizationSetBy = User
+
+	column anc1
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 053829c0-6f72-58f3-8c0c-f09e84256906
+		summarizeBy: none
+		sourceColumn: anc1
+
+		annotation SummarizationSetBy = User
+
+	column anc4
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 5188a327-056f-5bb7-8192-5843a4bfe7ac
+		summarizeBy: none
+		sourceColumn: anc4
+
+		annotation SummarizationSetBy = User
+
+	column anc8
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 978c2374-3acb-5436-a737-1b3e0cf62568
+		summarizeBy: none
+		sourceColumn: anc8
+
+		annotation SummarizationSetBy = User
+
+	column ipt1
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 56e44bd5-5540-5dea-b948-54dbb206f047
+		summarizeBy: none
+		sourceColumn: ipt1
+
+		annotation SummarizationSetBy = User
+
+	column ipt2
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 4747f498-6a7b-5d69-a7c7-5262666d4b13
+		summarizeBy: none
+		sourceColumn: ipt2
+
+		annotation SummarizationSetBy = User
+
+	column ipt3
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: ec23525b-b3df-558c-b46d-d78be8d1f640
+		summarizeBy: none
+		sourceColumn: ipt3
+
+		annotation SummarizationSetBy = User
+
+	column u5_tested
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: c8dfa1b4-fccc-5b3b-a369-4bc0a8f8ec1f
+		summarizeBy: none
+		sourceColumn: u5_tested
+
+		annotation SummarizationSetBy = User
+
+	column u5_pos
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 3b1e459e-1817-52fa-8447-be99f3c56793
+		summarizeBy: none
+		sourceColumn: u5_pos
+
+		annotation SummarizationSetBy = User
+
+	column u5_treated
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 1a1ada3f-e19d-54e3-9927-a579fe36b7f9
+		summarizeBy: none
+		sourceColumn: u5_treated
+
+		annotation SummarizationSetBy = User
+
+	column ad_tested
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: fb8b287b-3f9b-5b5d-a253-94724f617c7a
+		summarizeBy: none
+		sourceColumn: ad_tested
+
+		annotation SummarizationSetBy = User
+
+	column ad_pos
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: d85a7203-7f52-5903-a86b-972fd607fc2c
+		summarizeBy: none
+		sourceColumn: ad_pos
+
+		annotation SummarizationSetBy = User
+
+	column ad_treated
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 7d7cf10b-752d-58d3-9a64-cc7e6a8bd819
+		summarizeBy: none
+		sourceColumn: ad_treated
+
+		annotation SummarizationSetBy = User
+
+	column sba_deliveries
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: a08efd26-c6af-5cd0-bd78-fad2fc92865a
+		summarizeBy: none
+		sourceColumn: sba_deliveries
+
+		annotation SummarizationSetBy = User
+
+	column imm_doses_u1
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 3e2f33c4-7700-5e1a-9f05-55d932f8c2cc
+		summarizeBy: none
+		sourceColumn: imm_doses_u1
+
+		annotation SummarizationSetBy = User
+
+	column fic_0_9m
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 999480d6-664b-5045-9086-242c48e73a41
+		summarizeBy: none
+		sourceColumn: fic_0_9m
+
+		annotation SummarizationSetBy = User
+
+	column fp_counselled
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: cd4490c2-9e70-5921-95cf-4e91afbae5a6
+		summarizeBy: none
+		sourceColumn: fp_counselled
+
+		annotation SummarizationSetBy = User
+
+	column fp_acceptors
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: e133eeac-93d5-5f1c-9796-727948f44513
+		summarizeBy: none
+		sourceColumn: fp_acceptors
+
+		annotation SummarizationSetBy = User
+
+	column fp_male_condom
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 41d52c4e-0abc-5f11-aaa1-d229be0425b4
+		summarizeBy: none
+		sourceColumn: fp_male_condom
+
+		annotation SummarizationSetBy = User
+
+	column fp_female_condom
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 918d892f-1e4f-5328-ba19-eb4bc5e6106d
+		summarizeBy: none
+		sourceColumn: fp_female_condom
+
+		annotation SummarizationSetBy = User
+
+	column fp_pills
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 87eab3ae-7c07-5c74-a307-3e3058fb63cf
+		summarizeBy: none
+		sourceColumn: fp_pills
+
+		annotation SummarizationSetBy = User
+
+	column fp_injectables
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 01f16182-8950-5567-b27b-90849bbc8f73
+		summarizeBy: none
+		sourceColumn: fp_injectables
+
+		annotation SummarizationSetBy = User
+
+	column fp_implants
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: b809eee2-7663-5414-a25f-2feb5a54530c
+		summarizeBy: none
+		sourceColumn: fp_implants
+
+		annotation SummarizationSetBy = User
+
+	column fp_iud
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: c1da1423-f1c7-5ddd-bbf2-604f3148117c
+		summarizeBy: none
+		sourceColumn: fp_iud
+
+		annotation SummarizationSetBy = User
+
+	column outreaches
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 560e59a9-c1b5-55c0-86de-8575651a7aa2
+		summarizeBy: none
+		sourceColumn: outreaches
+
+		annotation SummarizationSetBy = User
+
+	column deaths_neonatal
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 268b4627-3be8-5176-a5a9-f90c59248254
+		summarizeBy: none
+		sourceColumn: deaths_neonatal
+
+		annotation SummarizationSetBy = User
+
+	column deaths_infant
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 3782ee6d-69bf-55fb-9a00-4c69f97bd570
+		summarizeBy: none
+		sourceColumn: deaths_infant
+
+		annotation SummarizationSetBy = User
+
+	column deaths_u5
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: f74bbfae-7edb-5f32-8fae-0694451fd38e
+		summarizeBy: none
+		sourceColumn: deaths_u5
+
+		annotation SummarizationSetBy = User
+
+	column deaths_maternal
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 587ec2ee-8c0b-5345-a558-61e5d8f24da1
+		summarizeBy: none
+		sourceColumn: deaths_maternal
+
+		annotation SummarizationSetBy = User
+
+	column ch_power
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 0b440396-17ad-5ed3-b7c5-f8481cb08b32
+		summarizeBy: none
+		sourceColumn: ch_power
+
+		annotation SummarizationSetBy = User
+
+	column ch_infrastructure
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: bf309b48-1117-570a-a20b-97459cf4fd73
+		summarizeBy: none
+		sourceColumn: ch_infrastructure
+
+		annotation SummarizationSetBy = User
+
+	column ch_commodities
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: ffcc8f66-10da-5839-b16a-b9b804c1a17a
+		summarizeBy: none
+		sourceColumn: ch_commodities
+
+		annotation SummarizationSetBy = User
+
+	column ch_staffing
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 9e50bb7f-e26e-5188-9895-34a81c745c42
+		summarizeBy: none
+		sourceColumn: ch_staffing
+
+		annotation SummarizationSetBy = User
+
+	column ch_wash
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 5f7918de-01e0-59e9-a70a-373f2a92cd41
+		summarizeBy: none
+		sourceColumn: ch_wash
+
+		annotation SummarizationSetBy = User
+
+	column ch_equipment
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: cc1ff469-97b5-57ba-a743-185b185e4924
+		summarizeBy: none
+		sourceColumn: ch_equipment
+
+		annotation SummarizationSetBy = User
+
+	column ch_transport
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 87bd863f-fe04-5c59-a5a3-81af65835814
+		summarizeBy: none
+		sourceColumn: ch_transport
+
+		annotation SummarizationSetBy = User
+
+	column ch_funding
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 67511635-849a-5312-a76b-82ed72ce297c
+		summarizeBy: none
+		sourceColumn: ch_funding
+
+		annotation SummarizationSetBy = User
+
+	column ch_network
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 91a70e99-1002-5904-b791-2c33e38c4d12
+		summarizeBy: none
+		sourceColumn: ch_network
+
+		annotation SummarizationSetBy = User
+
+	column ch_data
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 62f307f4-bd46-51db-9f84-1318e518e6e0
+		summarizeBy: none
+		sourceColumn: ch_data
+
+		annotation SummarizationSetBy = User
+
+	column ch_security
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 770bec0f-8a4b-5026-9ff4-49f2c787069e
+		summarizeBy: none
+		sourceColumn: ch_security
+
+		annotation SummarizationSetBy = User
+
+	column dq_zone_mismatch
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 89d73f3d-5590-5078-8cda-2ba051e6cbfb
+		summarizeBy: none
+		sourceColumn: dq_zone_mismatch
+
+		annotation SummarizationSetBy = User
+
+	column dq_pos_gt_tested
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 81a7c78d-512d-50f4-bbb5-e0095593699a
+		summarizeBy: none
+		sourceColumn: dq_pos_gt_tested
+
+		annotation SummarizationSetBy = User
+
+	column dq_treated_gt_pos
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 6f2f6958-70da-58a4-8c43-110d1fc929a2
+		summarizeBy: none
+		sourceColumn: dq_treated_gt_pos
+
+		annotation SummarizationSetBy = User
+
+	column dq_fp_acc_gt_counselled
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: e8029e77-62b3-5c0c-afcc-70d9af514fcb
+		summarizeBy: none
+		sourceColumn: dq_fp_acc_gt_counselled
+
+		annotation SummarizationSetBy = User
+
+	column dq_spike_attendance
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: b4b3b900-9357-55cf-b073-6a1ca8e9fcf4
+		summarizeBy: none
+		sourceColumn: dq_spike_attendance
+
+		annotation SummarizationSetBy = User
+
+	column dq_spike_immunisation
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: ce9e0c73-809a-54b9-a08e-6b3b8b3179c8
+		summarizeBy: none
+		sourceColumn: dq_spike_immunisation
+
+		annotation SummarizationSetBy = User
+
+	column dq_fp_no_method
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 793559f3-5f07-5083-a66d-550b446892dc
+		summarizeBy: none
+		sourceColumn: dq_fp_no_method
+
+		annotation SummarizationSetBy = User
+
+	column dq_any
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 42ad5590-15de-57b5-a80f-b8fc33ac6d44
+		summarizeBy: none
+		sourceColumn: dq_any
+
+		annotation SummarizationSetBy = User
+
+	partition Reports = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.Deflate), [Delimiter = ",", Columns = 54, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"Facility Code", type text}, {"Month Number", Int64.Type}, {"Challenge Status", type text}, {"partner_imputed", Int64.Type}, {"gen_att", Int64.Type}, {"opd_att", Int64.Type}, {"anc_total", Int64.Type}, {"anc1", Int64.Type}, {"anc4", Int64.Type}, {"anc8", Int64.Type}, {"ipt1", Int64.Type}, {"ipt2", Int64.Type}, {"ipt3", Int64.Type}, {"u5_tested", Int64.Type}, {"u5_pos", Int64.Type}, {"u5_treated", Int64.Type}, {"ad_tested", Int64.Type}, {"ad_pos", Int64.Type}, {"ad_treated", Int64.Type}, {"sba_deliveries", Int64.Type}, {"imm_doses_u1", Int64.Type}, {"fic_0_9m", Int64.Type}, {"fp_counselled", Int64.Type}, {"fp_acceptors", Int64.Type}, {"fp_male_condom", Int64.Type}, {"fp_female_condom", Int64.Type}, {"fp_pills", Int64.Type}, {"fp_injectables", Int64.Type}, {"fp_implants", Int64.Type}, {"fp_iud", Int64.Type}, {"outreaches", Int64.Type}, {"deaths_neonatal", Int64.Type}, {"deaths_infant", Int64.Type}, {"deaths_u5", Int64.Type}, {"deaths_maternal", Int64.Type}, {"ch_power", Int64.Type}, {"ch_infrastructure", Int64.Type}, {"ch_commodities", Int64.Type}, {"ch_staffing", Int64.Type}, {"ch_wash", Int64.Type}, {"ch_equipment", Int64.Type}, {"ch_transport", Int64.Type}, {"ch_funding", Int64.Type}, {"ch_network", Int64.Type}, {"ch_data", Int64.Type}, {"ch_security", Int64.Type}, {"dq_zone_mismatch", Int64.Type}, {"dq_pos_gt_tested", Int64.Type}, {"dq_treated_gt_pos", Int64.Type}, {"dq_fp_acc_gt_counselled", Int64.Type}, {"dq_spike_attendance", Int64.Type}, {"dq_spike_immunisation", Int64.Type}, {"dq_fp_no_method", Int64.Type}, {"dq_any", Int64.Type}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

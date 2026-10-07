@@ -1,0 +1,34 @@
+table 'ANC Step'
+	lineageTag: 11ed0900-c369-5dbd-b5fa-0fb382a2d573
+
+	column Step
+		dataType: string
+		lineageTag: cb6b4a76-008a-5ee1-b4cd-1014b8b3c4af
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Step]
+		sortByColumn: Order
+
+		annotation SummarizationSetBy = User
+
+	column Order
+		dataType: int64
+		formatString: 0
+		lineageTag: 4187f310-3845-57b9-acb9-3cbfebe7ac4a
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Order]
+
+		annotation SummarizationSetBy = User
+
+	partition 'ANC Step' = calculated
+		mode: import
+		source = ```
+				DATATABLE ( "Step", STRING, "Order", INTEGER,
+					{
+						{"ANC1", 1},
+						{"ANC4", 2},
+						{"ANC8", 3}
+					}
+				)
+				```

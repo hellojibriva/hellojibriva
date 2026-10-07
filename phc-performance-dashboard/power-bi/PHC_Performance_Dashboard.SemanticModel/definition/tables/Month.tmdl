@@ -1,0 +1,67 @@
+table Month
+	lineageTag: abe3d685-856f-5fca-9f59-eaa27b968790
+
+	column 'Month Number'
+		dataType: int64
+		formatString: 0
+		lineageTag: 7e81097c-dc0e-5086-8468-238b21abd458
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Month Number]
+
+		annotation SummarizationSetBy = User
+
+	column Month
+		dataType: string
+		lineageTag: d21ce8e4-c7ce-5cc9-8a7e-785765af34d2
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Month]
+		sortByColumn: 'Month Number'
+
+		annotation SummarizationSetBy = User
+
+	column 'Month Short'
+		dataType: string
+		lineageTag: b38d9a28-852d-57c9-9a2c-4241d83bee74
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Month Short]
+		sortByColumn: 'Month Number'
+
+		annotation SummarizationSetBy = User
+
+	column Quarter
+		dataType: string
+		lineageTag: 5c82b728-d4f5-5d4b-8fbe-e09d9ac19c67
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Quarter]
+
+		annotation SummarizationSetBy = User
+
+	column 'Programme Event'
+		dataType: string
+		lineageTag: 14ec5667-2d3b-508c-bc3e-e78196d29438
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Programme Event]
+
+		annotation SummarizationSetBy = User
+
+	partition Month = calculated
+		mode: import
+		source = ```
+				DATATABLE ( "Month Number", INTEGER, "Month", STRING, "Month Short", STRING, "Quarter", STRING, "Programme Event", STRING,
+					{
+						{1, "January", "Jan", "Q1", ""},
+						{2, "February", "Feb", "Q1", ""},
+						{3, "March", "Mar", "Q1", ""},
+						{4, "April", "Apr", "Q2", ""},
+						{5, "May", "May", "Q2", ""},
+						{6, "June", "Jun", "Q2", "Immunisation outreach"},
+						{7, "July", "Jul", "Q3", ""},
+						{8, "August", "Aug", "Q3", ""}
+					}
+				)
+				```

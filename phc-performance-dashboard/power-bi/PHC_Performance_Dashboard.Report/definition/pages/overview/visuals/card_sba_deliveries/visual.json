@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.2.0/schema.json",
+  "name": "card_sba_deliveries",
+  "position": {
+    "x": 330,
+    "y": 80,
+    "z": 6000,
+    "height": 92,
+    "width": 149,
+    "tabOrder": 6000
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "SBA Deliveries"
+                }
+              },
+              "queryRef": "Reports.SBA Deliveries",
+              "nativeQueryRef": "SBA Deliveries"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

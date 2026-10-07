@@ -1,0 +1,37 @@
+table 'FP Method'
+	lineageTag: 78619c33-4214-50bc-a136-cacd40bc60ac
+
+	column Method
+		dataType: string
+		lineageTag: b6b8224a-9a78-5592-9563-d60338a997d6
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Method]
+		sortByColumn: Order
+
+		annotation SummarizationSetBy = User
+
+	column Order
+		dataType: int64
+		formatString: 0
+		lineageTag: 91f85b6e-1717-57a7-a1c1-83480401d5ee
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Order]
+
+		annotation SummarizationSetBy = User
+
+	partition 'FP Method' = calculated
+		mode: import
+		source = ```
+				DATATABLE ( "Method", STRING, "Order", INTEGER,
+					{
+						{"Injectables", 1},
+						{"Male condoms", 2},
+						{"Implants", 3},
+						{"Pills", 4},
+						{"Female condoms", 5},
+						{"IUD", 6}
+					}
+				)
+				```

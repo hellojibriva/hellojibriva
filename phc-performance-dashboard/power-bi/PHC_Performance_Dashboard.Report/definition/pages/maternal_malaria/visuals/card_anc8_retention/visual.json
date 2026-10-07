@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.2.0/schema.json",
+  "name": "card_anc8_retention",
+  "position": {
+    "x": 225,
+    "y": 80,
+    "z": 5000,
+    "height": 92,
+    "width": 201,
+    "tabOrder": 5000
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Reports"
+                    }
+                  },
+                  "Property": "ANC8 Retention"
+                }
+              },
+              "queryRef": "Reports.ANC8 Retention",
+              "nativeQueryRef": "ANC8 Retention"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

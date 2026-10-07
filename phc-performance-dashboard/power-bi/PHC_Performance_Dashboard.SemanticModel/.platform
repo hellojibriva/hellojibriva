@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "PHC_Performance_Dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3c440b34-f9fd-58f1-80ba-7fdc570168c4"
+  }
+}

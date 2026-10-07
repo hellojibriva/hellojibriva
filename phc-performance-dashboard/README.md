@@ -8,7 +8,9 @@ An interactive M&E dashboard covering service volume, antenatal care, malaria in
 
 ![Dashboard overview: headline KPIs, attendance trend and reporting completeness](assets/overview.png)
 
-**Download it:** [`PHC_Performance_Dashboard.html`](PHC_Performance_Dashboard.html) is the whole dashboard in one file. Download it and open it in any browser; no install, server or internet connection needed. With GitHub Pages enabled on this repository it is also served at `https://hellojibriva.github.io/hellojibriva/phc-performance-dashboard/`.
+**Power BI version:** download [`PHC_Performance_Dashboard_PowerBI.zip`](PHC_Performance_Dashboard_PowerBI.zip), unzip it, and open `PHC_Performance_Dashboard.pbip` in Power BI Desktop. The data is built into the model, so just select **Refresh**. It has five report pages, a star-schema model and 55 DAX measures. See [`power-bi/README.md`](power-bi/README.md) for details.
+
+**Web version:** [`PHC_Performance_Dashboard.html`](PHC_Performance_Dashboard.html) is the same dashboard as a single file that opens in any browser. The screenshots below are from this version.
 
 ---
 
@@ -28,7 +30,7 @@ Programme staff had a large Excel workbook of monthly facility reports. It held 
 2. **Built an indicator framework.** 31 indicators, each summed across facility-month reports and never averaged, plus 9 derived rates such as ANC4 retention, IPTp3 completion, malaria test positivity, treatment coverage and FP acceptance.
 3. **Designed automated data-quality checks.** Seven rules run on every record: positives exceeding tests, treatments exceeding confirmed cases, acceptors exceeding counselled clients, missing method breakdowns, zone entry errors, and spikes above 3× a facility's own median month (outside the June outreach month, when high volumes are expected).
 4. **Coded 237 distinct free-text challenge answers** into 11 themes with transparent keyword rules.
-5. **Built the dashboard** in plain HTML, CSS and JavaScript with hand-written SVG charts and no external libraries, so it opens offline and runs on low-spec laptops. Four filters (month, zone, partner, facility) drive every chart, rate and table.
+5. **Built the dashboard in Power BI** with a star-schema model (one fact table, Facility and Month dimensions, a challenge-theme bridge) and 55 DAX measures in display folders. Month, zone and partner slicers stay in sync across five pages. I also built a single-file web version in HTML and JavaScript for clients without Power BI.
 6. **De-identified the data** for public sharing with a reproducible pipeline ([`scripts/build_dataset.py`](scripts/build_dataset.py)) that refuses to write output if any source name leaks.
 
 ## Key findings
@@ -48,6 +50,8 @@ Programme staff had a large Excel workbook of monthly facility reports. It held 
 
 ## What the dashboard includes
 
+The Power BI report covers the same ground across five pages: Overview, Maternal & malaria, Zones & facilities, FP, mortality & barriers, and Data quality. The web version is laid out as nine sections:
+
 | Section | Purpose |
 |---|---|
 | 01 Headline | Eight KPI tiles with status pills for figures that need attention |
@@ -66,13 +70,16 @@ Every chart has hover tooltips. The layout works on phones and in light and dark
 
 ```
 phc-performance-dashboard/
-├── PHC_Performance_Dashboard.html     # single-file download (data built in)
+├── PHC_Performance_Dashboard_PowerBI.zip  # Power BI project, ready to open
+├── power-bi/                          # the same Power BI project, unzipped
+├── PHC_Performance_Dashboard.html     # single-file web version (data built in)
 ├── index.html                         # the dashboard source
 ├── data/
 │   ├── phc_2026_deidentified.csv      # 449 facility-month records, 50 columns
 │   └── phc_2026_deidentified.js       # same data, loaded by the dashboard
 ├── scripts/build_dataset.py           # cleaning + de-identification pipeline
 ├── scripts/build_standalone.py        # bundles index.html + data into one file
+├── scripts/build_powerbi.py           # generates the Power BI project
 └── assets/                            # screenshots
 ```
 
@@ -82,6 +89,7 @@ Rebuild the dataset from a source workbook:
 pip install pandas openpyxl
 python scripts/build_dataset.py path/to/source.xlsx
 python scripts/build_standalone.py
+python scripts/build_powerbi.py
 ```
 
 ## Method notes and limitations
@@ -94,7 +102,7 @@ python scripts/build_standalone.py
 
 ## Skills demonstrated
 
-`Monitoring & Evaluation` `Health Information Systems` `Data Cleaning` `Indicator Design` `Data Quality Assurance` `Qualitative Coding` `Data Visualisation` `Dashboard Design` `Python (pandas)` `JavaScript` `SVG` `Data Privacy & De-identification`
+`Power BI` `DAX` `Power Query (M)` `Data Modelling` `Monitoring & Evaluation` `Health Information Systems` `Data Cleaning` `Indicator Design` `Data Quality Assurance` `Qualitative Coding` `Data Visualisation` `Python (pandas)` `JavaScript` `Data Privacy & De-identification`
 
 ---
 

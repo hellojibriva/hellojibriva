@@ -1,0 +1,34 @@
+table 'IPTp Step'
+	lineageTag: 85ca0e5c-62b8-5b54-acd1-d8adc5abe8a5
+
+	column Step
+		dataType: string
+		lineageTag: fd347401-2433-5a78-ba53-24099353e633
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Step]
+		sortByColumn: Order
+
+		annotation SummarizationSetBy = User
+
+	column Order
+		dataType: int64
+		formatString: 0
+		lineageTag: 570b9e38-0f50-5807-8412-987dfcd62e08
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Order]
+
+		annotation SummarizationSetBy = User
+
+	partition 'IPTp Step' = calculated
+		mode: import
+		source = ```
+				DATATABLE ( "Step", STRING, "Order", INTEGER,
+					{
+						{"IPT1", 1},
+						{"IPT2", 2},
+						{"IPT3", 3}
+					}
+				)
+				```

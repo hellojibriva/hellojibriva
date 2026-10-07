@@ -28,6 +28,7 @@ from pathlib import Path
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parent.parent
+OUTREACH_MONTH = 6  # June 2026: immunisation outreach
 ZONE_CODES = {
     "North Central": "NC", "North East": "NE", "North West": "NW",
     "South East": "SE", "South South": "SS", "South West": "SW",
@@ -143,6 +144,24 @@ def main():
     out["challenge_status"] = cls.map(lambda x: x[0])
     for k in THEMES:
         out[f"ch_{k}"] = cls.map(lambda x, k=k: int(k in x[1]))
+
+    # Data-quality flags. June is the immunisation outreach month, so its high
+    # volumes are expected and excluded from the spike rules.
+    med_att = out.groupby("facility_code")["gen_att"].transform("median")
+    med_imm = out.groupby("facility_code")["imm_doses_u1"].transform("median")
+    not_outreach = out["month_num"] != OUTREACH_MONTH
+    methods = out[["fp_male_condom", "fp_female_condom", "fp_pills",
+                   "fp_injectables", "fp_implants", "fp_iud"]].sum(axis=1)
+    out["dq_zone_mismatch"] = (out["zone"] != out["zone_as_reported"]).astype(int)
+    out["dq_pos_gt_tested"] = ((out.u5_pos > out.u5_tested) | (out.ad_pos > out.ad_tested)).astype(int)
+    out["dq_treated_gt_pos"] = ((out.u5_treated > out.u5_pos) | (out.ad_treated > out.ad_pos)).astype(int)
+    out["dq_fp_acc_gt_counselled"] = (out.fp_acceptors > out.fp_counselled).astype(int)
+    out["dq_spike_attendance"] = (not_outreach & (out.gen_att > 3 * med_att) & (out.gen_att > 200)).astype(int)
+    out["dq_spike_immunisation"] = (not_outreach & (out.imm_doses_u1 > 3 * med_imm) & (out.imm_doses_u1 > 200)).astype(int)
+    out["dq_fp_no_method"] = ((out.fp_acceptors > 0) & (methods == 0)).astype(int)
+    hard = ["dq_zone_mismatch", "dq_pos_gt_tested", "dq_treated_gt_pos",
+            "dq_fp_acc_gt_counselled", "dq_spike_attendance", "dq_spike_immunisation"]
+    out["dq_any"] = out[hard].max(axis=1)
 
     out = out.sort_values(["facility_code", "month_num"]).reset_index(drop=True)
 
