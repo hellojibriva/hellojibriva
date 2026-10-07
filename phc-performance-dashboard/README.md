@@ -2,15 +2,11 @@
 
 **Routine health facility data → a decision-ready monitoring dashboard for 60 primary health care facilities in Nigeria (January–August 2026).**
 
-An interactive M&E dashboard covering service volume, antenatal care, malaria in pregnancy, malaria testing and treatment, family planning, mortality, facility-reported barriers and data quality. It is built from 449 monthly facility reports submitted under a private-sector "adopt a health facility" programme with four funding partners across all six geopolitical zones.
+An interactive Power BI M&E dashboard covering service volume, antenatal care, malaria in pregnancy, malaria testing and treatment, family planning, mortality, facility-reported barriers and data quality. It is built from 449 monthly facility reports submitted under a private-sector "adopt a health facility" programme with four funding partners across all six geopolitical zones.
 
 > **De-identified portfolio edition.** Facility names are replaced with random codes, funding partners with letters, and state, LGA, ward and all free-text fields are removed. All totals still reconcile exactly with the source workbook.
 
-![Dashboard overview: headline KPIs, attendance trend and reporting completeness](assets/overview.png)
-
-**Power BI version:** download [`PHC_Performance_Dashboard_PowerBI.zip`](PHC_Performance_Dashboard_PowerBI.zip), unzip it, and open `PHC_Performance_Dashboard.pbip` in Power BI Desktop. The data is built into the model, so just select **Refresh**. It has five report pages, a star-schema model and 55 DAX measures. See [`power-bi/README.md`](power-bi/README.md) for details.
-
-**Web version:** [`PHC_Performance_Dashboard.html`](PHC_Performance_Dashboard.html) is the same dashboard as a single file that opens in any browser. The screenshots below are from this version.
+**Download:** [`PHC_Performance_Dashboard_PowerBI.zip`](PHC_Performance_Dashboard_PowerBI.zip). Unzip it and open `PHC_Performance_Dashboard.pbip` in Power BI Desktop. The data is built into the model, so just select **Refresh**, then use **File > Save as** to get a `.pbix`. See [`power-bi/README.md`](power-bi/README.md) for details.
 
 ---
 
@@ -30,7 +26,7 @@ Programme staff had a large Excel workbook of monthly facility reports. It held 
 2. **Built an indicator framework.** 31 indicators, each summed across facility-month reports and never averaged, plus 9 derived rates such as ANC4 retention, IPTp3 completion, malaria test positivity, treatment coverage and FP acceptance.
 3. **Designed automated data-quality checks.** Seven rules run on every record: positives exceeding tests, treatments exceeding confirmed cases, acceptors exceeding counselled clients, missing method breakdowns, zone entry errors, and spikes above 3× a facility's own median month (outside the June outreach month, when high volumes are expected).
 4. **Coded 237 distinct free-text challenge answers** into 11 themes with transparent keyword rules.
-5. **Built the dashboard in Power BI** with a star-schema model (one fact table, Facility and Month dimensions, a challenge-theme bridge) and 55 DAX measures in display folders. Month, zone and partner slicers stay in sync across five pages. I also built a single-file web version in HTML and JavaScript for clients without Power BI.
+5. **Built the dashboard in Power BI** with a star-schema model (one fact table, Facility and Month dimensions, a challenge-theme bridge) and 55 DAX measures in display folders. Month, zone and partner slicers stay in sync across five pages.
 6. **De-identified the data** for public sharing with a reproducible pipeline ([`scripts/build_dataset.py`](scripts/build_dataset.py)) that refuses to write output if any source name leaks.
 
 ## Key findings
@@ -46,25 +42,17 @@ Programme staff had a large Excel workbook of monthly facility reports. It held 
 | **Barriers** | 53% of answered reports name a challenge. Infrastructure (36%), power (35%) and staffing (28%) lead; many facilities describe solar systems and boreholes broken for months. |
 | **Data quality** | 33 records fail at least one consistency or outlier check, and 277 reports give FP acceptors with no method breakdown. Seven facilities had their zone entered wrongly in one month. |
 
-![Antenatal care cascade and malaria testing panels, dark theme](assets/maternal-malaria-dark.png)
-
 ## What the dashboard includes
 
-The Power BI report covers the same ground across five pages: Overview, Maternal & malaria, Zones & facilities, FP, mortality & barriers, and Data quality. The web version is laid out as nine sections:
-
-| Section | Purpose |
+| Page | Contents |
 |---|---|
-| 01 Headline | Eight KPI tiles with status pills for figures that need attention |
-| 02 Service volume | Attendance trend and facilities reporting per month |
-| 03 Antenatal care | ANC1→4→8 and IPT1→2→3 cascades showing where women drop out |
-| 04 Malaria | Positivity trend and the test → confirm → treat chain for children and adults |
-| 05 Zone comparison | Sortable table of rates across all six zones |
-| 06 FP and mortality | Method mix with a completeness note, and deaths by category |
-| 07 Barriers | Coded challenge themes |
-| 08 Data quality | A 60 × 8 reporting grid with flagged cells, and a check-by-check failure count |
-| 09 Facility table | A sortable, searchable list for prioritising supervision visits |
+| Overview | Eight KPI cards, monthly attendance, immunisation doses (with the June outreach), facilities reporting, community outreaches, and a headline that rewrites itself for the current filters |
+| Maternal & malaria | ANC1→4→8 and IPT1→2→3 cascades, malaria tested → positive → treated for children and adults, positivity and retention trends |
+| Zones & facilities | Zone performance table, facility table sorted by lowest ANC4 retention, ANC4 retention by zone |
+| FP, mortality & barriers | Family planning method mix, deaths by category, challenge themes facilities report |
+| Data quality | Facility × month report status matrix (✓ received, ⚠ flagged, ✗ missing), reports failing each check, completeness by month |
 
-Every chart has hover tooltips. The layout works on phones and in light and dark themes, and the colour palette is checked for colour-blind safety.
+Month, zone and partner slicers appear on every page and stay in sync.
 
 ## Repository layout
 
@@ -72,15 +60,10 @@ Every chart has hover tooltips. The layout works on phones and in light and dark
 phc-performance-dashboard/
 ├── PHC_Performance_Dashboard_PowerBI.zip  # Power BI project, ready to open
 ├── power-bi/                          # the same Power BI project, unzipped
-├── PHC_Performance_Dashboard.html     # single-file web version (data built in)
-├── index.html                         # the dashboard source
 ├── data/
-│   ├── phc_2026_deidentified.csv      # 449 facility-month records, 50 columns
-│   └── phc_2026_deidentified.js       # same data, loaded by the dashboard
+│   └── phc_2026_deidentified.csv      # 449 facility-month records, 58 columns
 ├── scripts/build_dataset.py           # cleaning + de-identification pipeline
-├── scripts/build_standalone.py        # bundles index.html + data into one file
-├── scripts/build_powerbi.py           # generates the Power BI project
-└── assets/                            # screenshots
+└── scripts/build_powerbi.py           # generates the Power BI project
 ```
 
 Rebuild the dataset from a source workbook:
@@ -88,7 +71,6 @@ Rebuild the dataset from a source workbook:
 ```bash
 pip install pandas openpyxl
 python scripts/build_dataset.py path/to/source.xlsx
-python scripts/build_standalone.py
 python scripts/build_powerbi.py
 ```
 
@@ -102,7 +84,7 @@ python scripts/build_powerbi.py
 
 ## Skills demonstrated
 
-`Power BI` `DAX` `Power Query (M)` `Data Modelling` `Monitoring & Evaluation` `Health Information Systems` `Data Cleaning` `Indicator Design` `Data Quality Assurance` `Qualitative Coding` `Data Visualisation` `Python (pandas)` `JavaScript` `Data Privacy & De-identification`
+`Power BI` `DAX` `Power Query (M)` `Data Modelling` `Monitoring & Evaluation` `Health Information Systems` `Data Cleaning` `Indicator Design` `Data Quality Assurance` `Qualitative Coding` `Data Visualisation` `Python (pandas)` `Data Privacy & De-identification`
 
 ---
 

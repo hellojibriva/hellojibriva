@@ -19,7 +19,6 @@ De-identification rules
 """
 import argparse
 import hashlib
-import json
 import re
 import secrets
 import sys
@@ -73,14 +72,6 @@ THEMES = {
     "data": r"data|report|documentation",
     "security": r"secur|bandit|steal|stole|thie|theave",
 }
-THEME_LABELS = {
-    "power": "Power / electricity", "infrastructure": "Infrastructure & space",
-    "commodities": "Drugs & commodities", "staffing": "Staffing & training",
-    "wash": "Water & sanitation", "equipment": "Equipment & cold chain",
-    "transport": "Transport & referral", "funding": "Funding & incentives",
-    "network": "Phone network", "data": "Data & reporting", "security": "Security",
-}
-
 
 def classify(text):
     if text is None or (isinstance(text, float) and pd.isna(text)) or not str(text).strip():
@@ -173,10 +164,6 @@ def main():
 
     (ROOT / "data").mkdir(exist_ok=True)
     out.to_csv(ROOT / "data" / "phc_2026_deidentified.csv", index=False)
-    payload = {"theme_labels": THEME_LABELS, "columns": list(out.columns),
-               "rows": out.values.tolist()}
-    js = "window.PHC_DATA = " + json.dumps(payload, separators=(",", ":")) + ";\n"
-    (ROOT / "data" / "phc_2026_deidentified.js").write_text(js)
 
     print(f"rows={len(out)} facilities={out.facility_code.nunique()} partners={out.partner.nunique()}")
     print(out.challenge_status.value_counts().to_string())
