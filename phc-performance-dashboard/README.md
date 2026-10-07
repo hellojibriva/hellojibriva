@@ -8,7 +8,7 @@ An interactive M&E dashboard covering service volume, antenatal care, malaria in
 
 ![Dashboard overview: headline KPIs, attendance trend and reporting completeness](assets/overview.png)
 
-**Run it:** download this folder and open `index.html` in any browser. No install, server or internet connection needed. With GitHub Pages enabled on this repository it is also served at `https://hellojibriva.github.io/hellojibriva/phc-performance-dashboard/`.
+**Download it:** [`PHC_Performance_Dashboard.html`](PHC_Performance_Dashboard.html) is the whole dashboard in one file. Download it and open it in any browser; no install, server or internet connection needed. With GitHub Pages enabled on this repository it is also served at `https://hellojibriva.github.io/hellojibriva/phc-performance-dashboard/`.
 
 ---
 
@@ -26,7 +26,7 @@ Programme staff had a large Excel workbook of monthly facility reports. It held 
 
 1. **Cleaned and standardised the raw data.** I harmonised partner names that had been entered seven different ways, imputed five blank partner fields from the facility's other months, converted text zeros ("Nil", "None", "O") to numbers, merged facility-name variants, and documented every transformation in a source-mapping sheet.
 2. **Built an indicator framework.** 31 indicators, each summed across facility-month reports and never averaged, plus 9 derived rates such as ANC4 retention, IPTp3 completion, malaria test positivity, treatment coverage and FP acceptance.
-3. **Designed automated data-quality checks.** Seven rules run on every record: positives exceeding tests, treatments exceeding confirmed cases, acceptors exceeding counselled clients, missing method breakdowns, zone entry errors, and spikes above 3× a facility's own median month.
+3. **Designed automated data-quality checks.** Seven rules run on every record: positives exceeding tests, treatments exceeding confirmed cases, acceptors exceeding counselled clients, missing method breakdowns, zone entry errors, and spikes above 3× a facility's own median month (outside the June outreach month, when high volumes are expected).
 4. **Coded 237 distinct free-text challenge answers** into 11 themes with transparent keyword rules.
 5. **Built the dashboard** in plain HTML, CSS and JavaScript with hand-written SVG charts and no external libraries, so it opens offline and runs on low-spec laptops. Four filters (month, zone, partner, facility) drive every chart, rate and table.
 6. **De-identified the data** for public sharing with a reproducible pipeline ([`scripts/build_dataset.py`](scripts/build_dataset.py)) that refuses to write output if any source name leaks.
@@ -40,9 +40,9 @@ Programme staff had a large Excel workbook of monthly facility reports. It held 
 | **Malaria in pregnancy** | 57% of IPT1 doses lead to IPT3; the South East is lowest at 29%. |
 | **Malaria testing** | 66% of under-5 tests and 63% of adult tests are positive. Positivity this high suggests testing is reserved for strongly suspected cases, or RDTs are running short, a hypothesis supported by facilities reporting RDT stock-outs. |
 | **Treatment** | Treatment covers 99% of confirmed child cases, but 15 reports treat more patients than they confirm, which points to presumptive treatment. |
-| **The June spike is a data problem, not demand** | Immunisation doses doubled in June (31,477 against a 15,039 monthly average). Six flagged facility reports account for 14,447 of those doses; without them, June looks like any other month. |
+| **June immunisation outreach** | The June outreach delivered 31,477 immunisation doses, 2.1× the 15,039 average of the other months, and lifted overall attendance to 55,275 (31% above the monthly average). Six facilities account for nearly half of the June doses, showing where the outreach reached most children. |
 | **Barriers** | 53% of answered reports name a challenge. Infrastructure (36%), power (35%) and staffing (28%) lead; many facilities describe solar systems and boreholes broken for months. |
-| **Data quality** | 42 records fail at least one consistency or outlier check, and 277 reports give FP acceptors with no method breakdown. Seven facilities had their zone entered wrongly in one month. |
+| **Data quality** | 33 records fail at least one consistency or outlier check, and 277 reports give FP acceptors with no method breakdown. Seven facilities had their zone entered wrongly in one month. |
 
 ![Antenatal care cascade and malaria testing panels, dark theme](assets/maternal-malaria-dark.png)
 
@@ -66,11 +66,13 @@ Every chart has hover tooltips. The layout works on phones and in light and dark
 
 ```
 phc-performance-dashboard/
-├── index.html                         # the dashboard (self-contained, offline)
+├── PHC_Performance_Dashboard.html     # single-file download (data built in)
+├── index.html                         # the dashboard source
 ├── data/
 │   ├── phc_2026_deidentified.csv      # 449 facility-month records, 50 columns
 │   └── phc_2026_deidentified.js       # same data, loaded by the dashboard
 ├── scripts/build_dataset.py           # cleaning + de-identification pipeline
+├── scripts/build_standalone.py        # bundles index.html + data into one file
 └── assets/                            # screenshots
 ```
 
@@ -79,6 +81,7 @@ Rebuild the dataset from a source workbook:
 ```bash
 pip install pandas openpyxl
 python scripts/build_dataset.py path/to/source.xlsx
+python scripts/build_standalone.py
 ```
 
 ## Method notes and limitations
