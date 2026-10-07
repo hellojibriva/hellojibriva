@@ -41,6 +41,18 @@ A prototype surveillance platform connecting **human, animal, and environmental 
 
 ---
 
+### 🏥 PHC Performance Dashboard
+
+**Primary health care M&E & data-quality intelligence**
+
+An interactive dashboard built from 449 monthly reports by 60 adopted primary health care facilities across Nigeria's six zones. It tracks the ANC and IPTp cascades, malaria test-confirm-treat, family planning, mortality and facility-reported barriers, and runs automated data-quality checks. Published as a de-identified edition.
+
+**Focus:** M&E · Primary Healthcare · Data Quality · Indicator Design · Maternal Health · Malaria · JavaScript · Python
+
+[View Project](phc-performance-dashboard/)
+
+---
+
 ### 🦠 Lassa Fever M&E Dashboard
 
 **Public-health programme monitoring & performance intelligence**
