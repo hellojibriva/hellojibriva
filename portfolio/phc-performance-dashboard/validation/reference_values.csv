@@ -1,0 +1,1561 @@
+Measure,Context,Member,ExpectedValue
+Service Value,Overall (Jan–Sep 2026),,1110074.0
+Values Recorded,Overall (Jan–Sep 2026),,11610.0
+General Attendance,Overall (Jan–Sep 2026),,377483.0
+OPD Visits,Overall (Jan–Sep 2026),,132731.0
+ANC Visits,Overall (Jan–Sep 2026),,51459.0
+ANC First Visits,Overall (Jan–Sep 2026),,15527.0
+ANC Fourth Visits,Overall (Jan–Sep 2026),,9256.0
+ANC Eighth Visits,Overall (Jan–Sep 2026),,2940.0
+IPTp Dose 1,Overall (Jan–Sep 2026),,14617.0
+IPTp Dose 2,Overall (Jan–Sep 2026),,11130.0
+IPTp Dose 3,Overall (Jan–Sep 2026),,8473.0
+Skilled Birth Deliveries,Overall (Jan–Sep 2026),,11896.0
+Immunization Doses <1 Year,Overall (Jan–Sep 2026),,150404.0
+Children 0-9m Fully Immunized,Overall (Jan–Sep 2026),,24948.0
+FP Clients Counselled,Overall (Jan–Sep 2026),,43428.0
+FP Acceptors,Overall (Jan–Sep 2026),,23206.0
+FP Male Condom Acceptances,Overall (Jan–Sep 2026),,8406.0
+FP Female Condom Acceptances,Overall (Jan–Sep 2026),,1025.0
+FP Pill Acceptances,Overall (Jan–Sep 2026),,1729.0
+FP Injectable Acceptances,Overall (Jan–Sep 2026),,9408.0
+FP Implant Acceptances,Overall (Jan–Sep 2026),,4026.0
+FP IUD Acceptances,Overall (Jan–Sep 2026),,763.0
+U5 Malaria Tests,Overall (Jan–Sep 2026),,29682.0
+U5 Malaria Positive,Overall (Jan–Sep 2026),,19687.0
+U5 Malaria Treated,Overall (Jan–Sep 2026),,19540.0
+Adult Malaria Tests,Overall (Jan–Sep 2026),,59742.0
+Adult Malaria Positive,Overall (Jan–Sep 2026),,38373.0
+Adult Malaria Treated,Overall (Jan–Sep 2026),,38205.0
+Community Outreaches,Overall (Jan–Sep 2026),,1990.0
+Malaria Tests (All Ages),Overall (Jan–Sep 2026),,89424.0
+Malaria Positive (All Ages),Overall (Jan–Sep 2026),,58060.0
+FP Method Acceptances (All Methods),Overall (Jan–Sep 2026),,25357.0
+U5 Malaria Test Positivity %,Overall (Jan–Sep 2026),,0.663264
+Adult Malaria Test Positivity %,Overall (Jan–Sep 2026),,0.642312
+U5 Treated per Positive %,Overall (Jan–Sep 2026),,0.992533
+Adult Treated per Positive %,Overall (Jan–Sep 2026),,0.995622
+FP Acceptors per Client Counselled %,Overall (Jan–Sep 2026),,0.534356
+ANC4 to ANC1 Ratio %,Overall (Jan–Sep 2026),,0.596123
+ANC8 to ANC1 Ratio %,Overall (Jan–Sep 2026),,0.189348
+IPTp3 to IPTp1 Ratio %,Overall (Jan–Sep 2026),,0.579668
+OPD Share of General Attendance %,Overall (Jan–Sep 2026),,0.351621
+Malaria Test Positivity % (All Ages),Overall (Jan–Sep 2026),,0.649266
+Expected Reports,Overall (Jan–Sep 2026),,540.0
+Reports Received,Overall (Jan–Sep 2026),,494.0
+Reports Not Received,Overall (Jan–Sep 2026),,46.0
+Reporting Completeness %,Overall (Jan–Sep 2026),,0.914815
+Facilities Expected,Overall (Jan–Sep 2026),,60.0
+Facilities Reporting,Overall (Jan–Sep 2026),,60.0
+Non-response Months Recorded as 0 in Source,Overall (Jan–Sep 2026),,32.0
+Missing Report Months,Overall (Jan–Sep 2026),,14.0
+General Attendance per Report,Overall (Jan–Sep 2026),,764.135628
+Indicator Value Completeness %,Overall (Jan–Sep 2026),,0.903284
+Fields Blank in Submitted Reports,Overall (Jan–Sep 2026),,1.0
+Data Quality Exceptions,Overall (Jan–Sep 2026),,315.0
+Logical Inconsistency Flags,Overall (Jan–Sep 2026),,43.0
+Facility-Months with Logical Inconsistencies,Overall (Jan–Sep 2026),,36.0
+Under-5 Deaths,Overall (Jan–Sep 2026),,22.0
+Maternal Deaths,Overall (Jan–Sep 2026),,3.0
+Neonatal Deaths,Overall (Jan–Sep 2026),,18.0
+Infant Deaths,Overall (Jan–Sep 2026),,33.0
+All-Category Deaths (Upper Bound),Overall (Jan–Sep 2026),,76.0
+Deaths per 100 Reports,Overall (Jan–Sep 2026),,15.384615
+Service Value,Month,2026-01-01,114425.0
+Values Recorded,Month,2026-01-01,1260.0
+General Attendance,Month,2026-01-01,38581.0
+OPD Visits,Month,2026-01-01,13511.0
+ANC Visits,Month,2026-01-01,5710.0
+ANC First Visits,Month,2026-01-01,1703.0
+ANC Fourth Visits,Month,2026-01-01,939.0
+ANC Eighth Visits,Month,2026-01-01,327.0
+IPTp Dose 1,Month,2026-01-01,1590.0
+IPTp Dose 2,Month,2026-01-01,1300.0
+IPTp Dose 3,Month,2026-01-01,931.0
+Skilled Birth Deliveries,Month,2026-01-01,1317.0
+Immunization Doses <1 Year,Month,2026-01-01,16099.0
+Children 0-9m Fully Immunized,Month,2026-01-01,3423.0
+FP Clients Counselled,Month,2026-01-01,4603.0
+FP Acceptors,Month,2026-01-01,2780.0
+FP Male Condom Acceptances,Month,2026-01-01,
+FP Female Condom Acceptances,Month,2026-01-01,
+FP Pill Acceptances,Month,2026-01-01,
+FP Injectable Acceptances,Month,2026-01-01,
+FP Implant Acceptances,Month,2026-01-01,
+FP IUD Acceptances,Month,2026-01-01,
+U5 Malaria Tests,Month,2026-01-01,3067.0
+U5 Malaria Positive,Month,2026-01-01,1995.0
+U5 Malaria Treated,Month,2026-01-01,2005.0
+Adult Malaria Tests,Month,2026-01-01,6585.0
+Adult Malaria Positive,Month,2026-01-01,3888.0
+Adult Malaria Treated,Month,2026-01-01,3861.0
+Community Outreaches,Month,2026-01-01,210.0
+Malaria Tests (All Ages),Month,2026-01-01,9652.0
+Malaria Positive (All Ages),Month,2026-01-01,5883.0
+FP Method Acceptances (All Methods),Month,2026-01-01,
+U5 Malaria Test Positivity %,Month,2026-01-01,0.650473
+Adult Malaria Test Positivity %,Month,2026-01-01,0.590433
+U5 Treated per Positive %,Month,2026-01-01,1.005013
+Adult Treated per Positive %,Month,2026-01-01,0.993056
+FP Acceptors per Client Counselled %,Month,2026-01-01,0.603954
+ANC4 to ANC1 Ratio %,Month,2026-01-01,0.55138
+ANC8 to ANC1 Ratio %,Month,2026-01-01,0.192014
+IPTp3 to IPTp1 Ratio %,Month,2026-01-01,0.585535
+OPD Share of General Attendance %,Month,2026-01-01,0.350198
+Malaria Test Positivity % (All Ages),Month,2026-01-01,0.609511
+Expected Reports,Month,2026-01-01,60.0
+Reports Received,Month,2026-01-01,60.0
+Reports Not Received,Month,2026-01-01,0.0
+Reporting Completeness %,Month,2026-01-01,1.0
+Facilities Expected,Month,2026-01-01,60.0
+Facilities Reporting,Month,2026-01-01,60.0
+Non-response Months Recorded as 0 in Source,Month,2026-01-01,0.0
+Missing Report Months,Month,2026-01-01,0.0
+General Attendance per Report,Month,2026-01-01,643.016667
+Indicator Value Completeness %,Month,2026-01-01,0.999206
+Fields Blank in Submitted Reports,Month,2026-01-01,1.0
+Data Quality Exceptions,Month,2026-01-01,13.0
+Logical Inconsistency Flags,Month,2026-01-01,2.0
+Facility-Months with Logical Inconsistencies,Month,2026-01-01,2.0
+Under-5 Deaths,Month,2026-01-01,0.0
+Maternal Deaths,Month,2026-01-01,0.0
+Neonatal Deaths,Month,2026-01-01,5.0
+Infant Deaths,Month,2026-01-01,3.0
+All-Category Deaths (Upper Bound),Month,2026-01-01,8.0
+Deaths per 100 Reports,Month,2026-01-01,13.333333
+Service Value,Month,2026-02-01,108001.0
+Values Recorded,Month,2026-02-01,1218.0
+General Attendance,Month,2026-02-01,38340.0
+OPD Visits,Month,2026-02-01,13505.0
+ANC Visits,Month,2026-02-01,5604.0
+ANC First Visits,Month,2026-02-01,1644.0
+ANC Fourth Visits,Month,2026-02-01,957.0
+ANC Eighth Visits,Month,2026-02-01,317.0
+IPTp Dose 1,Month,2026-02-01,1560.0
+IPTp Dose 2,Month,2026-02-01,1085.0
+IPTp Dose 3,Month,2026-02-01,978.0
+Skilled Birth Deliveries,Month,2026-02-01,1348.0
+Immunization Doses <1 Year,Month,2026-02-01,13703.0
+Children 0-9m Fully Immunized,Month,2026-02-01,2371.0
+FP Clients Counselled,Month,2026-02-01,4657.0
+FP Acceptors,Month,2026-02-01,2445.0
+FP Male Condom Acceptances,Month,2026-02-01,
+FP Female Condom Acceptances,Month,2026-02-01,
+FP Pill Acceptances,Month,2026-02-01,
+FP Injectable Acceptances,Month,2026-02-01,
+FP Implant Acceptances,Month,2026-02-01,
+FP IUD Acceptances,Month,2026-02-01,
+U5 Malaria Tests,Month,2026-02-01,2984.0
+U5 Malaria Positive,Month,2026-02-01,2074.0
+U5 Malaria Treated,Month,2026-02-01,2068.0
+Adult Malaria Tests,Month,2026-02-01,5212.0
+Adult Malaria Positive,Month,2026-02-01,3486.0
+Adult Malaria Treated,Month,2026-02-01,3480.0
+Community Outreaches,Month,2026-02-01,183.0
+Malaria Tests (All Ages),Month,2026-02-01,8196.0
+Malaria Positive (All Ages),Month,2026-02-01,5560.0
+FP Method Acceptances (All Methods),Month,2026-02-01,
+U5 Malaria Test Positivity %,Month,2026-02-01,0.69504
+Adult Malaria Test Positivity %,Month,2026-02-01,0.668841
+U5 Treated per Positive %,Month,2026-02-01,0.997107
+Adult Treated per Positive %,Month,2026-02-01,0.998279
+FP Acceptors per Client Counselled %,Month,2026-02-01,0.525016
+ANC4 to ANC1 Ratio %,Month,2026-02-01,0.582117
+ANC8 to ANC1 Ratio %,Month,2026-02-01,0.192822
+IPTp3 to IPTp1 Ratio %,Month,2026-02-01,0.626923
+OPD Share of General Attendance %,Month,2026-02-01,0.352243
+Malaria Test Positivity % (All Ages),Month,2026-02-01,0.67838
+Expected Reports,Month,2026-02-01,60.0
+Reports Received,Month,2026-02-01,58.0
+Reports Not Received,Month,2026-02-01,2.0
+Reporting Completeness %,Month,2026-02-01,0.966667
+Facilities Expected,Month,2026-02-01,60.0
+Facilities Reporting,Month,2026-02-01,58.0
+Non-response Months Recorded as 0 in Source,Month,2026-02-01,2.0
+Missing Report Months,Month,2026-02-01,0.0
+General Attendance per Report,Month,2026-02-01,661.034483
+Indicator Value Completeness %,Month,2026-02-01,0.957547
+Fields Blank in Submitted Reports,Month,2026-02-01,0.0
+Data Quality Exceptions,Month,2026-02-01,15.0
+Logical Inconsistency Flags,Month,2026-02-01,1.0
+Facility-Months with Logical Inconsistencies,Month,2026-02-01,1.0
+Under-5 Deaths,Month,2026-02-01,2.0
+Maternal Deaths,Month,2026-02-01,0.0
+Neonatal Deaths,Month,2026-02-01,0.0
+Infant Deaths,Month,2026-02-01,3.0
+All-Category Deaths (Upper Bound),Month,2026-02-01,5.0
+Deaths per 100 Reports,Month,2026-02-01,8.62069
+Service Value,Month,2026-03-01,115951.0
+Values Recorded,Month,2026-03-01,1197.0
+General Attendance,Month,2026-03-01,39850.0
+OPD Visits,Month,2026-03-01,13471.0
+ANC Visits,Month,2026-03-01,5941.0
+ANC First Visits,Month,2026-03-01,2138.0
+ANC Fourth Visits,Month,2026-03-01,972.0
+ANC Eighth Visits,Month,2026-03-01,364.0
+IPTp Dose 1,Month,2026-03-01,1781.0
+IPTp Dose 2,Month,2026-03-01,1312.0
+IPTp Dose 3,Month,2026-03-01,969.0
+Skilled Birth Deliveries,Month,2026-03-01,1347.0
+Immunization Doses <1 Year,Month,2026-03-01,16676.0
+Children 0-9m Fully Immunized,Month,2026-03-01,2847.0
+FP Clients Counselled,Month,2026-03-01,4244.0
+FP Acceptors,Month,2026-03-01,2611.0
+FP Male Condom Acceptances,Month,2026-03-01,
+FP Female Condom Acceptances,Month,2026-03-01,
+FP Pill Acceptances,Month,2026-03-01,
+FP Injectable Acceptances,Month,2026-03-01,
+FP Implant Acceptances,Month,2026-03-01,
+FP IUD Acceptances,Month,2026-03-01,
+U5 Malaria Tests,Month,2026-03-01,3669.0
+U5 Malaria Positive,Month,2026-03-01,2187.0
+U5 Malaria Treated,Month,2026-03-01,2191.0
+Adult Malaria Tests,Month,2026-03-01,5661.0
+Adult Malaria Positive,Month,2026-03-01,3759.0
+Adult Malaria Treated,Month,2026-03-01,3734.0
+Community Outreaches,Month,2026-03-01,227.0
+Malaria Tests (All Ages),Month,2026-03-01,9330.0
+Malaria Positive (All Ages),Month,2026-03-01,5946.0
+FP Method Acceptances (All Methods),Month,2026-03-01,
+U5 Malaria Test Positivity %,Month,2026-03-01,0.596075
+Adult Malaria Test Positivity %,Month,2026-03-01,0.664017
+U5 Treated per Positive %,Month,2026-03-01,1.001829
+Adult Treated per Positive %,Month,2026-03-01,0.993349
+FP Acceptors per Client Counselled %,Month,2026-03-01,0.615221
+ANC4 to ANC1 Ratio %,Month,2026-03-01,0.45463
+ANC8 to ANC1 Ratio %,Month,2026-03-01,0.170253
+IPTp3 to IPTp1 Ratio %,Month,2026-03-01,0.544076
+OPD Share of General Attendance %,Month,2026-03-01,0.338043
+Malaria Test Positivity % (All Ages),Month,2026-03-01,0.637299
+Expected Reports,Month,2026-03-01,60.0
+Reports Received,Month,2026-03-01,57.0
+Reports Not Received,Month,2026-03-01,3.0
+Reporting Completeness %,Month,2026-03-01,0.95
+Facilities Expected,Month,2026-03-01,60.0
+Facilities Reporting,Month,2026-03-01,57.0
+Non-response Months Recorded as 0 in Source,Month,2026-03-01,3.0
+Missing Report Months,Month,2026-03-01,0.0
+General Attendance per Report,Month,2026-03-01,699.122807
+Indicator Value Completeness %,Month,2026-03-01,0.93662
+Fields Blank in Submitted Reports,Month,2026-03-01,0.0
+Data Quality Exceptions,Month,2026-03-01,14.0
+Logical Inconsistency Flags,Month,2026-03-01,4.0
+Facility-Months with Logical Inconsistencies,Month,2026-03-01,4.0
+Under-5 Deaths,Month,2026-03-01,2.0
+Maternal Deaths,Month,2026-03-01,0.0
+Neonatal Deaths,Month,2026-03-01,0.0
+Infant Deaths,Month,2026-03-01,2.0
+All-Category Deaths (Upper Bound),Month,2026-03-01,4.0
+Deaths per 100 Reports,Month,2026-03-01,7.017544
+Service Value,Month,2026-04-01,115329.0
+Values Recorded,Month,2026-04-01,1197.0
+General Attendance,Month,2026-04-01,41417.0
+OPD Visits,Month,2026-04-01,14128.0
+ANC Visits,Month,2026-04-01,6016.0
+ANC First Visits,Month,2026-04-01,1685.0
+ANC Fourth Visits,Month,2026-04-01,937.0
+ANC Eighth Visits,Month,2026-04-01,362.0
+IPTp Dose 1,Month,2026-04-01,1603.0
+IPTp Dose 2,Month,2026-04-01,1270.0
+IPTp Dose 3,Month,2026-04-01,960.0
+Skilled Birth Deliveries,Month,2026-04-01,1369.0
+Immunization Doses <1 Year,Month,2026-04-01,15504.0
+Children 0-9m Fully Immunized,Month,2026-04-01,2862.0
+FP Clients Counselled,Month,2026-04-01,4327.0
+FP Acceptors,Month,2026-04-01,2471.0
+FP Male Condom Acceptances,Month,2026-04-01,
+FP Female Condom Acceptances,Month,2026-04-01,
+FP Pill Acceptances,Month,2026-04-01,
+FP Injectable Acceptances,Month,2026-04-01,
+FP Implant Acceptances,Month,2026-04-01,
+FP IUD Acceptances,Month,2026-04-01,
+U5 Malaria Tests,Month,2026-04-01,3274.0
+U5 Malaria Positive,Month,2026-04-01,1988.0
+U5 Malaria Treated,Month,2026-04-01,1866.0
+Adult Malaria Tests,Month,2026-04-01,5647.0
+Adult Malaria Positive,Month,2026-04-01,3614.0
+Adult Malaria Treated,Month,2026-04-01,3671.0
+Community Outreaches,Month,2026-04-01,358.0
+Malaria Tests (All Ages),Month,2026-04-01,8921.0
+Malaria Positive (All Ages),Month,2026-04-01,5602.0
+FP Method Acceptances (All Methods),Month,2026-04-01,
+U5 Malaria Test Positivity %,Month,2026-04-01,0.607208
+Adult Malaria Test Positivity %,Month,2026-04-01,0.639986
+U5 Treated per Positive %,Month,2026-04-01,0.938632
+Adult Treated per Positive %,Month,2026-04-01,1.015772
+FP Acceptors per Client Counselled %,Month,2026-04-01,0.571065
+ANC4 to ANC1 Ratio %,Month,2026-04-01,0.556083
+ANC8 to ANC1 Ratio %,Month,2026-04-01,0.214837
+IPTp3 to IPTp1 Ratio %,Month,2026-04-01,0.598877
+OPD Share of General Attendance %,Month,2026-04-01,0.341116
+Malaria Test Positivity % (All Ages),Month,2026-04-01,0.627957
+Expected Reports,Month,2026-04-01,60.0
+Reports Received,Month,2026-04-01,57.0
+Reports Not Received,Month,2026-04-01,3.0
+Reporting Completeness %,Month,2026-04-01,0.95
+Facilities Expected,Month,2026-04-01,60.0
+Facilities Reporting,Month,2026-04-01,57.0
+Non-response Months Recorded as 0 in Source,Month,2026-04-01,3.0
+Missing Report Months,Month,2026-04-01,0.0
+General Attendance per Report,Month,2026-04-01,726.614035
+Indicator Value Completeness %,Month,2026-04-01,0.93662
+Fields Blank in Submitted Reports,Month,2026-04-01,0.0
+Data Quality Exceptions,Month,2026-04-01,24.0
+Logical Inconsistency Flags,Month,2026-04-01,8.0
+Facility-Months with Logical Inconsistencies,Month,2026-04-01,7.0
+Under-5 Deaths,Month,2026-04-01,3.0
+Maternal Deaths,Month,2026-04-01,1.0
+Neonatal Deaths,Month,2026-04-01,2.0
+Infant Deaths,Month,2026-04-01,3.0
+All-Category Deaths (Upper Bound),Month,2026-04-01,9.0
+Deaths per 100 Reports,Month,2026-04-01,15.789474
+Service Value,Month,2026-05-01,110422.0
+Values Recorded,Month,2026-05-01,1176.0
+General Attendance,Month,2026-05-01,39434.0
+OPD Visits,Month,2026-05-01,14411.0
+ANC Visits,Month,2026-05-01,5246.0
+ANC First Visits,Month,2026-05-01,1567.0
+ANC Fourth Visits,Month,2026-05-01,898.0
+ANC Eighth Visits,Month,2026-05-01,324.0
+IPTp Dose 1,Month,2026-05-01,1511.0
+IPTp Dose 2,Month,2026-05-01,1111.0
+IPTp Dose 3,Month,2026-05-01,826.0
+Skilled Birth Deliveries,Month,2026-05-01,1341.0
+Immunization Doses <1 Year,Month,2026-05-01,14652.0
+Children 0-9m Fully Immunized,Month,2026-05-01,2643.0
+FP Clients Counselled,Month,2026-05-01,4041.0
+FP Acceptors,Month,2026-05-01,2259.0
+FP Male Condom Acceptances,Month,2026-05-01,
+FP Female Condom Acceptances,Month,2026-05-01,
+FP Pill Acceptances,Month,2026-05-01,
+FP Injectable Acceptances,Month,2026-05-01,
+FP Implant Acceptances,Month,2026-05-01,
+FP IUD Acceptances,Month,2026-05-01,
+U5 Malaria Tests,Month,2026-05-01,3171.0
+U5 Malaria Positive,Month,2026-05-01,1931.0
+U5 Malaria Treated,Month,2026-05-01,1951.0
+Adult Malaria Tests,Month,2026-05-01,5972.0
+Adult Malaria Positive,Month,2026-05-01,3454.0
+Adult Malaria Treated,Month,2026-05-01,3457.0
+Community Outreaches,Month,2026-05-01,222.0
+Malaria Tests (All Ages),Month,2026-05-01,9143.0
+Malaria Positive (All Ages),Month,2026-05-01,5385.0
+FP Method Acceptances (All Methods),Month,2026-05-01,
+U5 Malaria Test Positivity %,Month,2026-05-01,0.608956
+Adult Malaria Test Positivity %,Month,2026-05-01,0.578366
+U5 Treated per Positive %,Month,2026-05-01,1.010357
+Adult Treated per Positive %,Month,2026-05-01,1.000869
+FP Acceptors per Client Counselled %,Month,2026-05-01,0.55902
+ANC4 to ANC1 Ratio %,Month,2026-05-01,0.57307
+ANC8 to ANC1 Ratio %,Month,2026-05-01,0.206765
+IPTp3 to IPTp1 Ratio %,Month,2026-05-01,0.546658
+OPD Share of General Attendance %,Month,2026-05-01,0.365446
+Malaria Test Positivity % (All Ages),Month,2026-05-01,0.588975
+Expected Reports,Month,2026-05-01,60.0
+Reports Received,Month,2026-05-01,56.0
+Reports Not Received,Month,2026-05-01,4.0
+Reporting Completeness %,Month,2026-05-01,0.933333
+Facilities Expected,Month,2026-05-01,60.0
+Facilities Reporting,Month,2026-05-01,56.0
+Non-response Months Recorded as 0 in Source,Month,2026-05-01,4.0
+Missing Report Months,Month,2026-05-01,0.0
+General Attendance per Report,Month,2026-05-01,704.178571
+Indicator Value Completeness %,Month,2026-05-01,0.915888
+Fields Blank in Submitted Reports,Month,2026-05-01,0.0
+Data Quality Exceptions,Month,2026-05-01,19.0
+Logical Inconsistency Flags,Month,2026-05-01,6.0
+Facility-Months with Logical Inconsistencies,Month,2026-05-01,4.0
+Under-5 Deaths,Month,2026-05-01,2.0
+Maternal Deaths,Month,2026-05-01,1.0
+Neonatal Deaths,Month,2026-05-01,3.0
+Infant Deaths,Month,2026-05-01,2.0
+All-Category Deaths (Upper Bound),Month,2026-05-01,8.0
+Deaths per 100 Reports,Month,2026-05-01,14.285714
+Service Value,Month,2026-06-01,164632.0
+Values Recorded,Month,2026-06-01,1458.0
+General Attendance,Month,2026-06-01,55275.0
+OPD Visits,Month,2026-06-01,16098.0
+ANC Visits,Month,2026-06-01,6194.0
+ANC First Visits,Month,2026-06-01,2010.0
+ANC Fourth Visits,Month,2026-06-01,1210.0
+ANC Eighth Visits,Month,2026-06-01,323.0
+IPTp Dose 1,Month,2026-06-01,1877.0
+IPTp Dose 2,Month,2026-06-01,1375.0
+IPTp Dose 3,Month,2026-06-01,1033.0
+Skilled Birth Deliveries,Month,2026-06-01,1436.0
+Immunization Doses <1 Year,Month,2026-06-01,31477.0
+Children 0-9m Fully Immunized,Month,2026-06-01,2799.0
+FP Clients Counselled,Month,2026-06-01,7823.0
+FP Acceptors,Month,2026-06-01,3619.0
+FP Male Condom Acceptances,Month,2026-06-01,765.0
+FP Female Condom Acceptances,Month,2026-06-01,215.0
+FP Pill Acceptances,Month,2026-06-01,419.0
+FP Injectable Acceptances,Month,2026-06-01,4834.0
+FP Implant Acceptances,Month,2026-06-01,1166.0
+FP IUD Acceptances,Month,2026-06-01,175.0
+U5 Malaria Tests,Month,2026-06-01,3295.0
+U5 Malaria Positive,Month,2026-06-01,2120.0
+U5 Malaria Treated,Month,2026-06-01,2126.0
+Adult Malaria Tests,Month,2026-06-01,7367.0
+Adult Malaria Positive,Month,2026-06-01,4665.0
+Adult Malaria Treated,Month,2026-06-01,4693.0
+Community Outreaches,Month,2026-06-01,243.0
+Malaria Tests (All Ages),Month,2026-06-01,10662.0
+Malaria Positive (All Ages),Month,2026-06-01,6785.0
+FP Method Acceptances (All Methods),Month,2026-06-01,7574.0
+U5 Malaria Test Positivity %,Month,2026-06-01,0.643399
+Adult Malaria Test Positivity %,Month,2026-06-01,0.633229
+U5 Treated per Positive %,Month,2026-06-01,1.00283
+Adult Treated per Positive %,Month,2026-06-01,1.006002
+FP Acceptors per Client Counselled %,Month,2026-06-01,0.46261
+ANC4 to ANC1 Ratio %,Month,2026-06-01,0.60199
+ANC8 to ANC1 Ratio %,Month,2026-06-01,0.160697
+IPTp3 to IPTp1 Ratio %,Month,2026-06-01,0.550346
+OPD Share of General Attendance %,Month,2026-06-01,0.291235
+Malaria Test Positivity % (All Ages),Month,2026-06-01,0.636372
+Expected Reports,Month,2026-06-01,60.0
+Reports Received,Month,2026-06-01,54.0
+Reports Not Received,Month,2026-06-01,6.0
+Reporting Completeness %,Month,2026-06-01,0.9
+Facilities Expected,Month,2026-06-01,60.0
+Facilities Reporting,Month,2026-06-01,54.0
+Non-response Months Recorded as 0 in Source,Month,2026-06-01,5.0
+Missing Report Months,Month,2026-06-01,1.0
+General Attendance per Report,Month,2026-06-01,1023.611111
+Indicator Value Completeness %,Month,2026-06-01,0.9
+Fields Blank in Submitted Reports,Month,2026-06-01,0.0
+Data Quality Exceptions,Month,2026-06-01,47.0
+Logical Inconsistency Flags,Month,2026-06-01,3.0
+Facility-Months with Logical Inconsistencies,Month,2026-06-01,3.0
+Under-5 Deaths,Month,2026-06-01,7.0
+Maternal Deaths,Month,2026-06-01,1.0
+Neonatal Deaths,Month,2026-06-01,0.0
+Infant Deaths,Month,2026-06-01,7.0
+All-Category Deaths (Upper Bound),Month,2026-06-01,15.0
+Deaths per 100 Reports,Month,2026-06-01,27.777778
+Service Value,Month,2026-07-01,129764.0
+Values Recorded,Month,2026-07-01,1485.0
+General Attendance,Month,2026-07-01,42876.0
+OPD Visits,Month,2026-07-01,15592.0
+ANC Visits,Month,2026-07-01,5651.0
+ANC First Visits,Month,2026-07-01,1666.0
+ANC Fourth Visits,Month,2026-07-01,1132.0
+ANC Eighth Visits,Month,2026-07-01,349.0
+IPTp Dose 1,Month,2026-07-01,1592.0
+IPTp Dose 2,Month,2026-07-01,1328.0
+IPTp Dose 3,Month,2026-07-01,901.0
+Skilled Birth Deliveries,Month,2026-07-01,1326.0
+Immunization Doses <1 Year,Month,2026-07-01,14508.0
+Children 0-9m Fully Immunized,Month,2026-07-01,2632.0
+FP Clients Counselled,Month,2026-07-01,4856.0
+FP Acceptors,Month,2026-07-01,2506.0
+FP Male Condom Acceptances,Month,2026-07-01,2567.0
+FP Female Condom Acceptances,Month,2026-07-01,462.0
+FP Pill Acceptances,Month,2026-07-01,459.0
+FP Injectable Acceptances,Month,2026-07-01,1532.0
+FP Implant Acceptances,Month,2026-07-01,910.0
+FP IUD Acceptances,Month,2026-07-01,129.0
+U5 Malaria Tests,Month,2026-07-01,3636.0
+U5 Malaria Positive,Month,2026-07-01,2701.0
+U5 Malaria Treated,Month,2026-07-01,2609.0
+Adult Malaria Tests,Month,2026-07-01,7759.0
+Adult Malaria Positive,Month,2026-07-01,4935.0
+Adult Malaria Treated,Month,2026-07-01,4960.0
+Community Outreaches,Month,2026-07-01,190.0
+Malaria Tests (All Ages),Month,2026-07-01,11395.0
+Malaria Positive (All Ages),Month,2026-07-01,7636.0
+FP Method Acceptances (All Methods),Month,2026-07-01,6059.0
+U5 Malaria Test Positivity %,Month,2026-07-01,0.742849
+Adult Malaria Test Positivity %,Month,2026-07-01,0.636036
+U5 Treated per Positive %,Month,2026-07-01,0.965939
+Adult Treated per Positive %,Month,2026-07-01,1.005066
+FP Acceptors per Client Counselled %,Month,2026-07-01,0.516063
+ANC4 to ANC1 Ratio %,Month,2026-07-01,0.679472
+ANC8 to ANC1 Ratio %,Month,2026-07-01,0.209484
+IPTp3 to IPTp1 Ratio %,Month,2026-07-01,0.565955
+OPD Share of General Attendance %,Month,2026-07-01,0.363653
+Malaria Test Positivity % (All Ages),Month,2026-07-01,0.670118
+Expected Reports,Month,2026-07-01,60.0
+Reports Received,Month,2026-07-01,55.0
+Reports Not Received,Month,2026-07-01,5.0
+Reporting Completeness %,Month,2026-07-01,0.916667
+Facilities Expected,Month,2026-07-01,60.0
+Facilities Reporting,Month,2026-07-01,55.0
+Non-response Months Recorded as 0 in Source,Month,2026-07-01,5.0
+Missing Report Months,Month,2026-07-01,0.0
+General Attendance per Report,Month,2026-07-01,779.563636
+Indicator Value Completeness %,Month,2026-07-01,0.916667
+Fields Blank in Submitted Reports,Month,2026-07-01,0.0
+Data Quality Exceptions,Month,2026-07-01,60.0
+Logical Inconsistency Flags,Month,2026-07-01,3.0
+Facility-Months with Logical Inconsistencies,Month,2026-07-01,3.0
+Under-5 Deaths,Month,2026-07-01,4.0
+Maternal Deaths,Month,2026-07-01,0.0
+Neonatal Deaths,Month,2026-07-01,4.0
+Infant Deaths,Month,2026-07-01,10.0
+All-Category Deaths (Upper Bound),Month,2026-07-01,18.0
+Deaths per 100 Reports,Month,2026-07-01,32.727273
+Service Value,Month,2026-08-01,129820.0
+Values Recorded,Month,2026-08-01,1458.0
+General Attendance,Month,2026-08-01,43060.0
+OPD Visits,Month,2026-08-01,16305.0
+ANC Visits,Month,2026-08-01,5758.0
+ANC First Visits,Month,2026-08-01,1640.0
+ANC Fourth Visits,Month,2026-08-01,1016.0
+ANC Eighth Visits,Month,2026-08-01,319.0
+IPTp Dose 1,Month,2026-08-01,1662.0
+IPTp Dose 2,Month,2026-08-01,1201.0
+IPTp Dose 3,Month,2026-08-01,939.0
+Skilled Birth Deliveries,Month,2026-08-01,1368.0
+Immunization Doses <1 Year,Month,2026-08-01,14357.0
+Children 0-9m Fully Immunized,Month,2026-08-01,2755.0
+FP Clients Counselled,Month,2026-08-01,4795.0
+FP Acceptors,Month,2026-08-01,2407.0
+FP Male Condom Acceptances,Month,2026-08-01,3564.0
+FP Female Condom Acceptances,Month,2026-08-01,283.0
+FP Pill Acceptances,Month,2026-08-01,388.0
+FP Injectable Acceptances,Month,2026-08-01,1734.0
+FP Implant Acceptances,Month,2026-08-01,1101.0
+FP IUD Acceptances,Month,2026-08-01,263.0
+U5 Malaria Tests,Month,2026-08-01,3080.0
+U5 Malaria Positive,Month,2026-08-01,2233.0
+U5 Malaria Treated,Month,2026-08-01,2234.0
+Adult Malaria Tests,Month,2026-08-01,7500.0
+Adult Malaria Positive,Month,2026-08-01,4838.0
+Adult Malaria Treated,Month,2026-08-01,4824.0
+Community Outreaches,Month,2026-08-01,196.0
+Malaria Tests (All Ages),Month,2026-08-01,10580.0
+Malaria Positive (All Ages),Month,2026-08-01,7071.0
+FP Method Acceptances (All Methods),Month,2026-08-01,7333.0
+U5 Malaria Test Positivity %,Month,2026-08-01,0.725
+Adult Malaria Test Positivity %,Month,2026-08-01,0.645067
+U5 Treated per Positive %,Month,2026-08-01,1.000448
+Adult Treated per Positive %,Month,2026-08-01,0.997106
+FP Acceptors per Client Counselled %,Month,2026-08-01,0.501981
+ANC4 to ANC1 Ratio %,Month,2026-08-01,0.619512
+ANC8 to ANC1 Ratio %,Month,2026-08-01,0.194512
+IPTp3 to IPTp1 Ratio %,Month,2026-08-01,0.564982
+OPD Share of General Attendance %,Month,2026-08-01,0.378658
+Malaria Test Positivity % (All Ages),Month,2026-08-01,0.668336
+Expected Reports,Month,2026-08-01,60.0
+Reports Received,Month,2026-08-01,54.0
+Reports Not Received,Month,2026-08-01,6.0
+Reporting Completeness %,Month,2026-08-01,0.9
+Facilities Expected,Month,2026-08-01,60.0
+Facilities Reporting,Month,2026-08-01,54.0
+Non-response Months Recorded as 0 in Source,Month,2026-08-01,5.0
+Missing Report Months,Month,2026-08-01,1.0
+General Attendance per Report,Month,2026-08-01,797.407407
+Indicator Value Completeness %,Month,2026-08-01,0.9
+Fields Blank in Submitted Reports,Month,2026-08-01,0.0
+Data Quality Exceptions,Month,2026-08-01,60.0
+Logical Inconsistency Flags,Month,2026-08-01,4.0
+Facility-Months with Logical Inconsistencies,Month,2026-08-01,3.0
+Under-5 Deaths,Month,2026-08-01,2.0
+Maternal Deaths,Month,2026-08-01,0.0
+Neonatal Deaths,Month,2026-08-01,4.0
+Infant Deaths,Month,2026-08-01,3.0
+All-Category Deaths (Upper Bound),Month,2026-08-01,9.0
+Deaths per 100 Reports,Month,2026-08-01,16.666667
+Service Value,Month,2026-09-01,121730.0
+Values Recorded,Month,2026-09-01,1161.0
+General Attendance,Month,2026-09-01,38650.0
+OPD Visits,Month,2026-09-01,15710.0
+ANC Visits,Month,2026-09-01,5339.0
+ANC First Visits,Month,2026-09-01,1474.0
+ANC Fourth Visits,Month,2026-09-01,1195.0
+ANC Eighth Visits,Month,2026-09-01,255.0
+IPTp Dose 1,Month,2026-09-01,1441.0
+IPTp Dose 2,Month,2026-09-01,1148.0
+IPTp Dose 3,Month,2026-09-01,936.0
+Skilled Birth Deliveries,Month,2026-09-01,1044.0
+Immunization Doses <1 Year,Month,2026-09-01,13428.0
+Children 0-9m Fully Immunized,Month,2026-09-01,2616.0
+FP Clients Counselled,Month,2026-09-01,4082.0
+FP Acceptors,Month,2026-09-01,2108.0
+FP Male Condom Acceptances,Month,2026-09-01,1510.0
+FP Female Condom Acceptances,Month,2026-09-01,65.0
+FP Pill Acceptances,Month,2026-09-01,463.0
+FP Injectable Acceptances,Month,2026-09-01,1308.0
+FP Implant Acceptances,Month,2026-09-01,849.0
+FP IUD Acceptances,Month,2026-09-01,196.0
+U5 Malaria Tests,Month,2026-09-01,3506.0
+U5 Malaria Positive,Month,2026-09-01,2458.0
+U5 Malaria Treated,Month,2026-09-01,2490.0
+Adult Malaria Tests,Month,2026-09-01,8039.0
+Adult Malaria Positive,Month,2026-09-01,5734.0
+Adult Malaria Treated,Month,2026-09-01,5525.0
+Community Outreaches,Month,2026-09-01,161.0
+Malaria Tests (All Ages),Month,2026-09-01,11545.0
+Malaria Positive (All Ages),Month,2026-09-01,8192.0
+FP Method Acceptances (All Methods),Month,2026-09-01,4391.0
+U5 Malaria Test Positivity %,Month,2026-09-01,0.701084
+Adult Malaria Test Positivity %,Month,2026-09-01,0.713273
+U5 Treated per Positive %,Month,2026-09-01,1.013019
+Adult Treated per Positive %,Month,2026-09-01,0.963551
+FP Acceptors per Client Counselled %,Month,2026-09-01,0.516414
+ANC4 to ANC1 Ratio %,Month,2026-09-01,0.810719
+ANC8 to ANC1 Ratio %,Month,2026-09-01,0.172999
+IPTp3 to IPTp1 Ratio %,Month,2026-09-01,0.649549
+OPD Share of General Attendance %,Month,2026-09-01,0.406468
+Malaria Test Positivity % (All Ages),Month,2026-09-01,0.709571
+Expected Reports,Month,2026-09-01,60.0
+Reports Received,Month,2026-09-01,43.0
+Reports Not Received,Month,2026-09-01,17.0
+Reporting Completeness %,Month,2026-09-01,0.716667
+Facilities Expected,Month,2026-09-01,60.0
+Facilities Reporting,Month,2026-09-01,43.0
+Non-response Months Recorded as 0 in Source,Month,2026-09-01,5.0
+Missing Report Months,Month,2026-09-01,12.0
+General Attendance per Report,Month,2026-09-01,898.837209
+Indicator Value Completeness %,Month,2026-09-01,0.716667
+Fields Blank in Submitted Reports,Month,2026-09-01,0.0
+Data Quality Exceptions,Month,2026-09-01,63.0
+Logical Inconsistency Flags,Month,2026-09-01,12.0
+Facility-Months with Logical Inconsistencies,Month,2026-09-01,9.0
+Under-5 Deaths,Month,2026-09-01,0.0
+Maternal Deaths,Month,2026-09-01,0.0
+Neonatal Deaths,Month,2026-09-01,0.0
+Infant Deaths,Month,2026-09-01,0.0
+All-Category Deaths (Upper Bound),Month,2026-09-01,0.0
+Deaths per 100 Reports,Month,2026-09-01,0.0
+Service Value,Quarter,Q1 2026,338377.0
+Values Recorded,Quarter,Q1 2026,3675.0
+General Attendance,Quarter,Q1 2026,116771.0
+OPD Visits,Quarter,Q1 2026,40487.0
+ANC Visits,Quarter,Q1 2026,17255.0
+ANC First Visits,Quarter,Q1 2026,5485.0
+ANC Fourth Visits,Quarter,Q1 2026,2868.0
+ANC Eighth Visits,Quarter,Q1 2026,1008.0
+IPTp Dose 1,Quarter,Q1 2026,4931.0
+IPTp Dose 2,Quarter,Q1 2026,3697.0
+IPTp Dose 3,Quarter,Q1 2026,2878.0
+Skilled Birth Deliveries,Quarter,Q1 2026,4012.0
+Immunization Doses <1 Year,Quarter,Q1 2026,46478.0
+Children 0-9m Fully Immunized,Quarter,Q1 2026,8641.0
+FP Clients Counselled,Quarter,Q1 2026,13504.0
+FP Acceptors,Quarter,Q1 2026,7836.0
+FP Male Condom Acceptances,Quarter,Q1 2026,
+FP Female Condom Acceptances,Quarter,Q1 2026,
+FP Pill Acceptances,Quarter,Q1 2026,
+FP Injectable Acceptances,Quarter,Q1 2026,
+FP Implant Acceptances,Quarter,Q1 2026,
+FP IUD Acceptances,Quarter,Q1 2026,
+U5 Malaria Tests,Quarter,Q1 2026,9720.0
+U5 Malaria Positive,Quarter,Q1 2026,6256.0
+U5 Malaria Treated,Quarter,Q1 2026,6264.0
+Adult Malaria Tests,Quarter,Q1 2026,17458.0
+Adult Malaria Positive,Quarter,Q1 2026,11133.0
+Adult Malaria Treated,Quarter,Q1 2026,11075.0
+Community Outreaches,Quarter,Q1 2026,620.0
+Malaria Tests (All Ages),Quarter,Q1 2026,27178.0
+Malaria Positive (All Ages),Quarter,Q1 2026,17389.0
+FP Method Acceptances (All Methods),Quarter,Q1 2026,
+U5 Malaria Test Positivity %,Quarter,Q1 2026,0.643621
+Adult Malaria Test Positivity %,Quarter,Q1 2026,0.637702
+U5 Treated per Positive %,Quarter,Q1 2026,1.001279
+Adult Treated per Positive %,Quarter,Q1 2026,0.99479
+FP Acceptors per Client Counselled %,Quarter,Q1 2026,0.580273
+ANC4 to ANC1 Ratio %,Quarter,Q1 2026,0.522881
+ANC8 to ANC1 Ratio %,Quarter,Q1 2026,0.183774
+IPTp3 to IPTp1 Ratio %,Quarter,Q1 2026,0.583654
+OPD Share of General Attendance %,Quarter,Q1 2026,0.346721
+Malaria Test Positivity % (All Ages),Quarter,Q1 2026,0.639819
+Expected Reports,Quarter,Q1 2026,180.0
+Reports Received,Quarter,Q1 2026,175.0
+Reports Not Received,Quarter,Q1 2026,5.0
+Reporting Completeness %,Quarter,Q1 2026,0.972222
+Facilities Expected,Quarter,Q1 2026,60.0
+Facilities Reporting,Quarter,Q1 2026,60.0
+Non-response Months Recorded as 0 in Source,Quarter,Q1 2026,5.0
+Missing Report Months,Quarter,Q1 2026,0.0
+General Attendance per Report,Quarter,Q1 2026,667.262857
+Indicator Value Completeness %,Quarter,Q1 2026,0.964304
+Fields Blank in Submitted Reports,Quarter,Q1 2026,1.0
+Data Quality Exceptions,Quarter,Q1 2026,42.0
+Logical Inconsistency Flags,Quarter,Q1 2026,7.0
+Facility-Months with Logical Inconsistencies,Quarter,Q1 2026,7.0
+Under-5 Deaths,Quarter,Q1 2026,4.0
+Maternal Deaths,Quarter,Q1 2026,0.0
+Neonatal Deaths,Quarter,Q1 2026,5.0
+Infant Deaths,Quarter,Q1 2026,8.0
+All-Category Deaths (Upper Bound),Quarter,Q1 2026,17.0
+Deaths per 100 Reports,Quarter,Q1 2026,9.714286
+Service Value,Quarter,Q2 2026,390383.0
+Values Recorded,Quarter,Q2 2026,3831.0
+General Attendance,Quarter,Q2 2026,136126.0
+OPD Visits,Quarter,Q2 2026,44637.0
+ANC Visits,Quarter,Q2 2026,17456.0
+ANC First Visits,Quarter,Q2 2026,5262.0
+ANC Fourth Visits,Quarter,Q2 2026,3045.0
+ANC Eighth Visits,Quarter,Q2 2026,1009.0
+IPTp Dose 1,Quarter,Q2 2026,4991.0
+IPTp Dose 2,Quarter,Q2 2026,3756.0
+IPTp Dose 3,Quarter,Q2 2026,2819.0
+Skilled Birth Deliveries,Quarter,Q2 2026,4146.0
+Immunization Doses <1 Year,Quarter,Q2 2026,61633.0
+Children 0-9m Fully Immunized,Quarter,Q2 2026,8304.0
+FP Clients Counselled,Quarter,Q2 2026,16191.0
+FP Acceptors,Quarter,Q2 2026,8349.0
+FP Male Condom Acceptances,Quarter,Q2 2026,765.0
+FP Female Condom Acceptances,Quarter,Q2 2026,215.0
+FP Pill Acceptances,Quarter,Q2 2026,419.0
+FP Injectable Acceptances,Quarter,Q2 2026,4834.0
+FP Implant Acceptances,Quarter,Q2 2026,1166.0
+FP IUD Acceptances,Quarter,Q2 2026,175.0
+U5 Malaria Tests,Quarter,Q2 2026,9740.0
+U5 Malaria Positive,Quarter,Q2 2026,6039.0
+U5 Malaria Treated,Quarter,Q2 2026,5943.0
+Adult Malaria Tests,Quarter,Q2 2026,18986.0
+Adult Malaria Positive,Quarter,Q2 2026,11733.0
+Adult Malaria Treated,Quarter,Q2 2026,11821.0
+Community Outreaches,Quarter,Q2 2026,823.0
+Malaria Tests (All Ages),Quarter,Q2 2026,28726.0
+Malaria Positive (All Ages),Quarter,Q2 2026,17772.0
+FP Method Acceptances (All Methods),Quarter,Q2 2026,7574.0
+U5 Malaria Test Positivity %,Quarter,Q2 2026,0.620021
+Adult Malaria Test Positivity %,Quarter,Q2 2026,0.617982
+U5 Treated per Positive %,Quarter,Q2 2026,0.984103
+Adult Treated per Positive %,Quarter,Q2 2026,1.0075
+FP Acceptors per Client Counselled %,Quarter,Q2 2026,0.515657
+ANC4 to ANC1 Ratio %,Quarter,Q2 2026,0.578677
+ANC8 to ANC1 Ratio %,Quarter,Q2 2026,0.191752
+IPTp3 to IPTp1 Ratio %,Quarter,Q2 2026,0.564817
+OPD Share of General Attendance %,Quarter,Q2 2026,0.327909
+Malaria Test Positivity % (All Ages),Quarter,Q2 2026,0.618673
+Expected Reports,Quarter,Q2 2026,180.0
+Reports Received,Quarter,Q2 2026,167.0
+Reports Not Received,Quarter,Q2 2026,13.0
+Reporting Completeness %,Quarter,Q2 2026,0.927778
+Facilities Expected,Quarter,Q2 2026,60.0
+Facilities Reporting,Quarter,Q2 2026,57.0
+Non-response Months Recorded as 0 in Source,Quarter,Q2 2026,12.0
+Missing Report Months,Quarter,Q2 2026,1.0
+General Attendance per Report,Quarter,Q2 2026,815.125749
+Indicator Value Completeness %,Quarter,Q2 2026,0.916069
+Fields Blank in Submitted Reports,Quarter,Q2 2026,0.0
+Data Quality Exceptions,Quarter,Q2 2026,90.0
+Logical Inconsistency Flags,Quarter,Q2 2026,17.0
+Facility-Months with Logical Inconsistencies,Quarter,Q2 2026,14.0
+Under-5 Deaths,Quarter,Q2 2026,12.0
+Maternal Deaths,Quarter,Q2 2026,3.0
+Neonatal Deaths,Quarter,Q2 2026,5.0
+Infant Deaths,Quarter,Q2 2026,12.0
+All-Category Deaths (Upper Bound),Quarter,Q2 2026,32.0
+Deaths per 100 Reports,Quarter,Q2 2026,19.161677
+Service Value,Quarter,Q3 2026,381314.0
+Values Recorded,Quarter,Q3 2026,4104.0
+General Attendance,Quarter,Q3 2026,124586.0
+OPD Visits,Quarter,Q3 2026,47607.0
+ANC Visits,Quarter,Q3 2026,16748.0
+ANC First Visits,Quarter,Q3 2026,4780.0
+ANC Fourth Visits,Quarter,Q3 2026,3343.0
+ANC Eighth Visits,Quarter,Q3 2026,923.0
+IPTp Dose 1,Quarter,Q3 2026,4695.0
+IPTp Dose 2,Quarter,Q3 2026,3677.0
+IPTp Dose 3,Quarter,Q3 2026,2776.0
+Skilled Birth Deliveries,Quarter,Q3 2026,3738.0
+Immunization Doses <1 Year,Quarter,Q3 2026,42293.0
+Children 0-9m Fully Immunized,Quarter,Q3 2026,8003.0
+FP Clients Counselled,Quarter,Q3 2026,13733.0
+FP Acceptors,Quarter,Q3 2026,7021.0
+FP Male Condom Acceptances,Quarter,Q3 2026,7641.0
+FP Female Condom Acceptances,Quarter,Q3 2026,810.0
+FP Pill Acceptances,Quarter,Q3 2026,1310.0
+FP Injectable Acceptances,Quarter,Q3 2026,4574.0
+FP Implant Acceptances,Quarter,Q3 2026,2860.0
+FP IUD Acceptances,Quarter,Q3 2026,588.0
+U5 Malaria Tests,Quarter,Q3 2026,10222.0
+U5 Malaria Positive,Quarter,Q3 2026,7392.0
+U5 Malaria Treated,Quarter,Q3 2026,7333.0
+Adult Malaria Tests,Quarter,Q3 2026,23298.0
+Adult Malaria Positive,Quarter,Q3 2026,15507.0
+Adult Malaria Treated,Quarter,Q3 2026,15309.0
+Community Outreaches,Quarter,Q3 2026,547.0
+Malaria Tests (All Ages),Quarter,Q3 2026,33520.0
+Malaria Positive (All Ages),Quarter,Q3 2026,22899.0
+FP Method Acceptances (All Methods),Quarter,Q3 2026,17783.0
+U5 Malaria Test Positivity %,Quarter,Q3 2026,0.723146
+Adult Malaria Test Positivity %,Quarter,Q3 2026,0.665594
+U5 Treated per Positive %,Quarter,Q3 2026,0.992018
+Adult Treated per Positive %,Quarter,Q3 2026,0.987232
+FP Acceptors per Client Counselled %,Quarter,Q3 2026,0.51125
+ANC4 to ANC1 Ratio %,Quarter,Q3 2026,0.699372
+ANC8 to ANC1 Ratio %,Quarter,Q3 2026,0.193096
+IPTp3 to IPTp1 Ratio %,Quarter,Q3 2026,0.591267
+OPD Share of General Attendance %,Quarter,Q3 2026,0.382122
+Malaria Test Positivity % (All Ages),Quarter,Q3 2026,0.683144
+Expected Reports,Quarter,Q3 2026,180.0
+Reports Received,Quarter,Q3 2026,152.0
+Reports Not Received,Quarter,Q3 2026,28.0
+Reporting Completeness %,Quarter,Q3 2026,0.844444
+Facilities Expected,Quarter,Q3 2026,60.0
+Facilities Reporting,Quarter,Q3 2026,55.0
+Non-response Months Recorded as 0 in Source,Quarter,Q3 2026,15.0
+Missing Report Months,Quarter,Q3 2026,13.0
+General Attendance per Report,Quarter,Q3 2026,819.644737
+Indicator Value Completeness %,Quarter,Q3 2026,0.844444
+Fields Blank in Submitted Reports,Quarter,Q3 2026,0.0
+Data Quality Exceptions,Quarter,Q3 2026,183.0
+Logical Inconsistency Flags,Quarter,Q3 2026,19.0
+Facility-Months with Logical Inconsistencies,Quarter,Q3 2026,15.0
+Under-5 Deaths,Quarter,Q3 2026,6.0
+Maternal Deaths,Quarter,Q3 2026,0.0
+Neonatal Deaths,Quarter,Q3 2026,8.0
+Infant Deaths,Quarter,Q3 2026,13.0
+All-Category Deaths (Upper Bound),Quarter,Q3 2026,27.0
+Deaths per 100 Reports,Quarter,Q3 2026,17.763158
+Service Value,Adopter,Adopter A,1010333.0
+Values Recorded,Adopter,Adopter A,10113.0
+General Attendance,Adopter,Adopter A,336326.0
+OPD Visits,Adopter,Adopter A,123159.0
+ANC Visits,Adopter,Adopter A,48410.0
+ANC First Visits,Adopter,Adopter A,14563.0
+ANC Fourth Visits,Adopter,Adopter A,8592.0
+ANC Eighth Visits,Adopter,Adopter A,2556.0
+IPTp Dose 1,Adopter,Adopter A,13749.0
+IPTp Dose 2,Adopter,Adopter A,10599.0
+IPTp Dose 3,Adopter,Adopter A,8099.0
+Skilled Birth Deliveries,Adopter,Adopter A,10810.0
+Immunization Doses <1 Year,Adopter,Adopter A,135567.0
+Children 0-9m Fully Immunized,Adopter,Adopter A,22228.0
+FP Clients Counselled,Adopter,Adopter A,38343.0
+FP Acceptors,Adopter,Adopter A,21448.0
+FP Male Condom Acceptances,Adopter,Adopter A,8241.0
+FP Female Condom Acceptances,Adopter,Adopter A,924.0
+FP Pill Acceptances,Adopter,Adopter A,1649.0
+FP Injectable Acceptances,Adopter,Adopter A,8895.0
+FP Implant Acceptances,Adopter,Adopter A,3681.0
+FP IUD Acceptances,Adopter,Adopter A,695.0
+U5 Malaria Tests,Adopter,Adopter A,27497.0
+U5 Malaria Positive,Adopter,Adopter A,18239.0
+U5 Malaria Treated,Adopter,Adopter A,18202.0
+Adult Malaria Tests,Adopter,Adopter A,55459.0
+Adult Malaria Positive,Adopter,Adopter A,35426.0
+Adult Malaria Treated,Adopter,Adopter A,35228.0
+Community Outreaches,Adopter,Adopter A,1748.0
+Malaria Tests (All Ages),Adopter,Adopter A,82956.0
+Malaria Positive (All Ages),Adopter,Adopter A,53665.0
+FP Method Acceptances (All Methods),Adopter,Adopter A,24085.0
+U5 Malaria Test Positivity %,Adopter,Adopter A,0.663309
+Adult Malaria Test Positivity %,Adopter,Adopter A,0.638778
+U5 Treated per Positive %,Adopter,Adopter A,0.997971
+Adult Treated per Positive %,Adopter,Adopter A,0.994411
+FP Acceptors per Client Counselled %,Adopter,Adopter A,0.559372
+ANC4 to ANC1 Ratio %,Adopter,Adopter A,0.589988
+ANC8 to ANC1 Ratio %,Adopter,Adopter A,0.175513
+IPTp3 to IPTp1 Ratio %,Adopter,Adopter A,0.589061
+OPD Share of General Attendance %,Adopter,Adopter A,0.366189
+Malaria Test Positivity % (All Ages),Adopter,Adopter A,0.646909
+Expected Reports,Adopter,Adopter A,441.0
+Reports Received,Adopter,Adopter A,429.0
+Reports Not Received,Adopter,Adopter A,12.0
+Reporting Completeness %,Adopter,Adopter A,0.972789
+Facilities Expected,Adopter,Adopter A,49.0
+Facilities Reporting,Adopter,Adopter A,49.0
+Non-response Months Recorded as 0 in Source,Adopter,Adopter A,0.0
+Missing Report Months,Adopter,Adopter A,12.0
+General Attendance per Report,Adopter,Adopter A,783.97669
+Indicator Value Completeness %,Adopter,Adopter A,0.968957
+Fields Blank in Submitted Reports,Adopter,Adopter A,0.0
+Data Quality Exceptions,Adopter,Adopter A,247.0
+Logical Inconsistency Flags,Adopter,Adopter A,35.0
+Facility-Months with Logical Inconsistencies,Adopter,Adopter A,29.0
+Under-5 Deaths,Adopter,Adopter A,
+Maternal Deaths,Adopter,Adopter A,
+Neonatal Deaths,Adopter,Adopter A,
+Infant Deaths,Adopter,Adopter A,
+All-Category Deaths (Upper Bound),Adopter,Adopter A,
+Deaths per 100 Reports,Adopter,Adopter A,
+Service Value,Adopter,Adopter B,18609.0
+Values Recorded,Adopter,Adopter B,273.0
+General Attendance,Adopter,Adopter B,7208.0
+OPD Visits,Adopter,Adopter B,2152.0
+ANC Visits,Adopter,Adopter B,491.0
+ANC First Visits,Adopter,Adopter B,76.0
+ANC Fourth Visits,Adopter,Adopter B,130.0
+ANC Eighth Visits,Adopter,Adopter B,140.0
+IPTp Dose 1,Adopter,Adopter B,174.0
+IPTp Dose 2,Adopter,Adopter B,148.0
+IPTp Dose 3,Adopter,Adopter B,75.0
+Skilled Birth Deliveries,Adopter,Adopter B,48.0
+Immunization Doses <1 Year,Adopter,Adopter B,3478.0
+Children 0-9m Fully Immunized,Adopter,Adopter B,851.0
+FP Clients Counselled,Adopter,Adopter B,521.0
+FP Acceptors,Adopter,Adopter B,317.0
+FP Male Condom Acceptances,Adopter,Adopter B,
+FP Female Condom Acceptances,Adopter,Adopter B,
+FP Pill Acceptances,Adopter,Adopter B,
+FP Injectable Acceptances,Adopter,Adopter B,
+FP Implant Acceptances,Adopter,Adopter B,
+FP IUD Acceptances,Adopter,Adopter B,
+U5 Malaria Tests,Adopter,Adopter B,532.0
+U5 Malaria Positive,Adopter,Adopter B,196.0
+U5 Malaria Treated,Adopter,Adopter B,97.0
+Adult Malaria Tests,Adopter,Adopter B,1194.0
+Adult Malaria Positive,Adopter,Adopter B,367.0
+Adult Malaria Treated,Adopter,Adopter B,367.0
+Community Outreaches,Adopter,Adopter B,47.0
+Malaria Tests (All Ages),Adopter,Adopter B,1726.0
+Malaria Positive (All Ages),Adopter,Adopter B,563.0
+FP Method Acceptances (All Methods),Adopter,Adopter B,
+U5 Malaria Test Positivity %,Adopter,Adopter B,0.368421
+Adult Malaria Test Positivity %,Adopter,Adopter B,0.30737
+U5 Treated per Positive %,Adopter,Adopter B,0.494898
+Adult Treated per Positive %,Adopter,Adopter B,1.0
+FP Acceptors per Client Counselled %,Adopter,Adopter B,0.608445
+ANC4 to ANC1 Ratio %,Adopter,Adopter B,1.710526
+ANC8 to ANC1 Ratio %,Adopter,Adopter B,1.842105
+IPTp3 to IPTp1 Ratio %,Adopter,Adopter B,0.431034
+OPD Share of General Attendance %,Adopter,Adopter B,0.298557
+Malaria Test Positivity % (All Ages),Adopter,Adopter B,0.326188
+Expected Reports,Adopter,Adopter B,45.0
+Reports Received,Adopter,Adopter B,13.0
+Reports Not Received,Adopter,Adopter B,32.0
+Reporting Completeness %,Adopter,Adopter B,0.288889
+Facilities Expected,Adopter,Adopter B,5.0
+Facilities Reporting,Adopter,Adopter B,5.0
+Non-response Months Recorded as 0 in Source,Adopter,Adopter B,32.0
+Missing Report Months,Adopter,Adopter B,0.0
+General Attendance per Report,Adopter,Adopter B,554.461538
+Indicator Value Completeness %,Adopter,Adopter B,0.240106
+Fields Blank in Submitted Reports,Adopter,Adopter B,0.0
+Data Quality Exceptions,Adopter,Adopter B,39.0
+Logical Inconsistency Flags,Adopter,Adopter B,1.0
+Facility-Months with Logical Inconsistencies,Adopter,Adopter B,1.0
+Under-5 Deaths,Adopter,Adopter B,
+Maternal Deaths,Adopter,Adopter B,
+Neonatal Deaths,Adopter,Adopter B,
+Infant Deaths,Adopter,Adopter B,
+All-Category Deaths (Upper Bound),Adopter,Adopter B,
+Deaths per 100 Reports,Adopter,Adopter B,
+Service Value,Adopter,Adopter C,38591.0
+Values Recorded,Adopter,Adopter C,825.0
+General Attendance,Adopter,Adopter C,11365.0
+OPD Visits,Adopter,Adopter C,3904.0
+ANC Visits,Adopter,Adopter C,1456.0
+ANC First Visits,Adopter,Adopter C,374.0
+ANC Fourth Visits,Adopter,Adopter C,212.0
+ANC Eighth Visits,Adopter,Adopter C,132.0
+IPTp Dose 1,Adopter,Adopter C,349.0
+IPTp Dose 2,Adopter,Adopter C,229.0
+IPTp Dose 3,Adopter,Adopter C,187.0
+Skilled Birth Deliveries,Adopter,Adopter C,478.0
+Immunization Doses <1 Year,Adopter,Adopter C,6047.0
+Children 0-9m Fully Immunized,Adopter,Adopter C,872.0
+FP Clients Counselled,Adopter,Adopter C,3317.0
+FP Acceptors,Adopter,Adopter C,520.0
+FP Male Condom Acceptances,Adopter,Adopter C,48.0
+FP Female Condom Acceptances,Adopter,Adopter C,6.0
+FP Pill Acceptances,Adopter,Adopter C,36.0
+FP Injectable Acceptances,Adopter,Adopter C,125.0
+FP Implant Acceptances,Adopter,Adopter C,91.0
+FP IUD Acceptances,Adopter,Adopter C,4.0
+U5 Malaria Tests,Adopter,Adopter C,975.0
+U5 Malaria Positive,Adopter,Adopter C,857.0
+U5 Malaria Treated,Adopter,Adopter C,846.0
+Adult Malaria Tests,Adopter,Adopter C,2141.0
+Adult Malaria Positive,Adopter,Adopter C,1939.0
+Adult Malaria Treated,Adopter,Adopter C,1969.0
+Community Outreaches,Adopter,Adopter C,112.0
+Malaria Tests (All Ages),Adopter,Adopter C,3116.0
+Malaria Positive (All Ages),Adopter,Adopter C,2796.0
+FP Method Acceptances (All Methods),Adopter,Adopter C,310.0
+U5 Malaria Test Positivity %,Adopter,Adopter C,0.878974
+Adult Malaria Test Positivity %,Adopter,Adopter C,0.905652
+U5 Treated per Positive %,Adopter,Adopter C,0.987165
+Adult Treated per Positive %,Adopter,Adopter C,1.015472
+FP Acceptors per Client Counselled %,Adopter,Adopter C,0.156768
+ANC4 to ANC1 Ratio %,Adopter,Adopter C,0.566845
+ANC8 to ANC1 Ratio %,Adopter,Adopter C,0.352941
+IPTp3 to IPTp1 Ratio %,Adopter,Adopter C,0.535817
+OPD Share of General Attendance %,Adopter,Adopter C,0.343511
+Malaria Test Positivity % (All Ages),Adopter,Adopter C,0.897304
+Expected Reports,Adopter,Adopter C,36.0
+Reports Received,Adopter,Adopter C,35.0
+Reports Not Received,Adopter,Adopter C,1.0
+Reporting Completeness %,Adopter,Adopter C,0.972222
+Facilities Expected,Adopter,Adopter C,4.0
+Facilities Reporting,Adopter,Adopter C,4.0
+Non-response Months Recorded as 0 in Source,Adopter,Adopter C,0.0
+Missing Report Months,Adopter,Adopter C,1.0
+General Attendance per Report,Adopter,Adopter C,324.714286
+Indicator Value Completeness %,Adopter,Adopter C,0.967136
+Fields Blank in Submitted Reports,Adopter,Adopter C,1.0
+Data Quality Exceptions,Adopter,Adopter C,21.0
+Logical Inconsistency Flags,Adopter,Adopter C,6.0
+Facility-Months with Logical Inconsistencies,Adopter,Adopter C,5.0
+Under-5 Deaths,Adopter,Adopter C,
+Maternal Deaths,Adopter,Adopter C,
+Neonatal Deaths,Adopter,Adopter C,
+Infant Deaths,Adopter,Adopter C,
+All-Category Deaths (Upper Bound),Adopter,Adopter C,
+Deaths per 100 Reports,Adopter,Adopter C,
+Service Value,Adopter,Adopter D,42541.0
+Values Recorded,Adopter,Adopter D,399.0
+General Attendance,Adopter,Adopter D,22584.0
+OPD Visits,Adopter,Adopter D,3516.0
+ANC Visits,Adopter,Adopter D,1102.0
+ANC First Visits,Adopter,Adopter D,514.0
+ANC Fourth Visits,Adopter,Adopter D,322.0
+ANC Eighth Visits,Adopter,Adopter D,112.0
+IPTp Dose 1,Adopter,Adopter D,345.0
+IPTp Dose 2,Adopter,Adopter D,154.0
+IPTp Dose 3,Adopter,Adopter D,112.0
+Skilled Birth Deliveries,Adopter,Adopter D,560.0
+Immunization Doses <1 Year,Adopter,Adopter D,5312.0
+Children 0-9m Fully Immunized,Adopter,Adopter D,997.0
+FP Clients Counselled,Adopter,Adopter D,1247.0
+FP Acceptors,Adopter,Adopter D,921.0
+FP Male Condom Acceptances,Adopter,Adopter D,117.0
+FP Female Condom Acceptances,Adopter,Adopter D,95.0
+FP Pill Acceptances,Adopter,Adopter D,44.0
+FP Injectable Acceptances,Adopter,Adopter D,388.0
+FP Implant Acceptances,Adopter,Adopter D,254.0
+FP IUD Acceptances,Adopter,Adopter D,64.0
+U5 Malaria Tests,Adopter,Adopter D,678.0
+U5 Malaria Positive,Adopter,Adopter D,395.0
+U5 Malaria Treated,Adopter,Adopter D,395.0
+Adult Malaria Tests,Adopter,Adopter D,948.0
+Adult Malaria Positive,Adopter,Adopter D,641.0
+Adult Malaria Treated,Adopter,Adopter D,641.0
+Community Outreaches,Adopter,Adopter D,83.0
+Malaria Tests (All Ages),Adopter,Adopter D,1626.0
+Malaria Positive (All Ages),Adopter,Adopter D,1036.0
+FP Method Acceptances (All Methods),Adopter,Adopter D,962.0
+U5 Malaria Test Positivity %,Adopter,Adopter D,0.582596
+Adult Malaria Test Positivity %,Adopter,Adopter D,0.67616
+U5 Treated per Positive %,Adopter,Adopter D,1.0
+Adult Treated per Positive %,Adopter,Adopter D,1.0
+FP Acceptors per Client Counselled %,Adopter,Adopter D,0.738573
+ANC4 to ANC1 Ratio %,Adopter,Adopter D,0.626459
+ANC8 to ANC1 Ratio %,Adopter,Adopter D,0.217899
+IPTp3 to IPTp1 Ratio %,Adopter,Adopter D,0.324638
+OPD Share of General Attendance %,Adopter,Adopter D,0.155685
+Malaria Test Positivity % (All Ages),Adopter,Adopter D,0.637146
+Expected Reports,Adopter,Adopter D,18.0
+Reports Received,Adopter,Adopter D,17.0
+Reports Not Received,Adopter,Adopter D,1.0
+Reporting Completeness %,Adopter,Adopter D,0.944444
+Facilities Expected,Adopter,Adopter D,2.0
+Facilities Reporting,Adopter,Adopter D,2.0
+Non-response Months Recorded as 0 in Source,Adopter,Adopter D,0.0
+Missing Report Months,Adopter,Adopter D,1.0
+General Attendance per Report,Adopter,Adopter D,1328.470588
+Indicator Value Completeness %,Adopter,Adopter D,0.93662
+Fields Blank in Submitted Reports,Adopter,Adopter D,0.0
+Data Quality Exceptions,Adopter,Adopter D,8.0
+Logical Inconsistency Flags,Adopter,Adopter D,1.0
+Facility-Months with Logical Inconsistencies,Adopter,Adopter D,1.0
+Under-5 Deaths,Adopter,Adopter D,
+Maternal Deaths,Adopter,Adopter D,
+Neonatal Deaths,Adopter,Adopter D,
+Infant Deaths,Adopter,Adopter D,
+All-Category Deaths (Upper Bound),Adopter,Adopter D,
+Deaths per 100 Reports,Adopter,Adopter D,
+Service Value,Zone,North Central,116545.0
+Values Recorded,Zone,North Central,1863.0
+General Attendance,Zone,North Central,38770.0
+OPD Visits,Zone,North Central,10651.0
+ANC Visits,Zone,North Central,7206.0
+ANC First Visits,Zone,North Central,2014.0
+ANC Fourth Visits,Zone,North Central,1064.0
+ANC Eighth Visits,Zone,North Central,223.0
+IPTp Dose 1,Zone,North Central,1840.0
+IPTp Dose 2,Zone,North Central,1489.0
+IPTp Dose 3,Zone,North Central,1186.0
+Skilled Birth Deliveries,Zone,North Central,1470.0
+Immunization Doses <1 Year,Zone,North Central,22404.0
+Children 0-9m Fully Immunized,Zone,North Central,3803.0
+FP Clients Counselled,Zone,North Central,2954.0
+FP Acceptors,Zone,North Central,2382.0
+FP Male Condom Acceptances,Zone,North Central,837.0
+FP Female Condom Acceptances,Zone,North Central,13.0
+FP Pill Acceptances,Zone,North Central,145.0
+FP Injectable Acceptances,Zone,North Central,739.0
+FP Implant Acceptances,Zone,North Central,323.0
+FP IUD Acceptances,Zone,North Central,22.0
+U5 Malaria Tests,Zone,North Central,2015.0
+U5 Malaria Positive,Zone,North Central,1272.0
+U5 Malaria Treated,Zone,North Central,1312.0
+Adult Malaria Tests,Zone,North Central,5274.0
+Adult Malaria Positive,Zone,North Central,3418.0
+Adult Malaria Treated,Zone,North Central,3462.0
+Community Outreaches,Zone,North Central,257.0
+Malaria Tests (All Ages),Zone,North Central,7289.0
+Malaria Positive (All Ages),Zone,North Central,4690.0
+FP Method Acceptances (All Methods),Zone,North Central,2079.0
+U5 Malaria Test Positivity %,Zone,North Central,0.631266
+Adult Malaria Test Positivity %,Zone,North Central,0.648085
+U5 Treated per Positive %,Zone,North Central,1.031447
+Adult Treated per Positive %,Zone,North Central,1.012873
+FP Acceptors per Client Counselled %,Zone,North Central,0.806364
+ANC4 to ANC1 Ratio %,Zone,North Central,0.528302
+ANC8 to ANC1 Ratio %,Zone,North Central,0.110725
+IPTp3 to IPTp1 Ratio %,Zone,North Central,0.644565
+OPD Share of General Attendance %,Zone,North Central,0.274723
+Malaria Test Positivity % (All Ages),Zone,North Central,0.643435
+Expected Reports,Zone,North Central,81.0
+Reports Received,Zone,North Central,79.0
+Reports Not Received,Zone,North Central,2.0
+Reporting Completeness %,Zone,North Central,0.975309
+Facilities Expected,Zone,North Central,9.0
+Facilities Reporting,Zone,North Central,9.0
+Non-response Months Recorded as 0 in Source,Zone,North Central,0.0
+Missing Report Months,Zone,North Central,2.0
+General Attendance per Report,Zone,North Central,490.759494
+Indicator Value Completeness %,Zone,North Central,0.971831
+Fields Blank in Submitted Reports,Zone,North Central,0.0
+Data Quality Exceptions,Zone,North Central,46.0
+Logical Inconsistency Flags,Zone,North Central,8.0
+Facility-Months with Logical Inconsistencies,Zone,North Central,7.0
+Under-5 Deaths,Zone,North Central,
+Maternal Deaths,Zone,North Central,
+Neonatal Deaths,Zone,North Central,
+Infant Deaths,Zone,North Central,
+All-Category Deaths (Upper Bound),Zone,North Central,
+Deaths per 100 Reports,Zone,North Central,
+Service Value,Zone,North East,196258.0
+Values Recorded,Zone,North East,1650.0
+General Attendance,Zone,North East,74313.0
+OPD Visits,Zone,North East,24841.0
+ANC Visits,Zone,North East,9796.0
+ANC First Visits,Zone,North East,3280.0
+ANC Fourth Visits,Zone,North East,1597.0
+ANC Eighth Visits,Zone,North East,846.0
+IPTp Dose 1,Zone,North East,3127.0
+IPTp Dose 2,Zone,North East,2395.0
+IPTp Dose 3,Zone,North East,1562.0
+Skilled Birth Deliveries,Zone,North East,2365.0
+Immunization Doses <1 Year,Zone,North East,12326.0
+Children 0-9m Fully Immunized,Zone,North East,1772.0
+FP Clients Counselled,Zone,North East,9538.0
+FP Acceptors,Zone,North East,5394.0
+FP Male Condom Acceptances,Zone,North East,697.0
+FP Female Condom Acceptances,Zone,North East,234.0
+FP Pill Acceptances,Zone,North East,440.0
+FP Injectable Acceptances,Zone,North East,1212.0
+FP Implant Acceptances,Zone,North East,894.0
+FP IUD Acceptances,Zone,North East,76.0
+U5 Malaria Tests,Zone,North East,7288.0
+U5 Malaria Positive,Zone,North East,4481.0
+U5 Malaria Treated,Zone,North East,4484.0
+Adult Malaria Tests,Zone,North East,10003.0
+Adult Malaria Positive,Zone,North East,6483.0
+Adult Malaria Treated,Zone,North East,6445.0
+Community Outreaches,Zone,North East,369.0
+Malaria Tests (All Ages),Zone,North East,17291.0
+Malaria Positive (All Ages),Zone,North East,10964.0
+FP Method Acceptances (All Methods),Zone,North East,3553.0
+U5 Malaria Test Positivity %,Zone,North East,0.614846
+Adult Malaria Test Positivity %,Zone,North East,0.648106
+U5 Treated per Positive %,Zone,North East,1.000669
+Adult Treated per Positive %,Zone,North East,0.994139
+FP Acceptors per Client Counselled %,Zone,North East,0.565527
+ANC4 to ANC1 Ratio %,Zone,North East,0.48689
+ANC8 to ANC1 Ratio %,Zone,North East,0.257927
+IPTp3 to IPTp1 Ratio %,Zone,North East,0.49952
+OPD Share of General Attendance %,Zone,North East,0.334275
+Malaria Test Positivity % (All Ages),Zone,North East,0.634087
+Expected Reports,Zone,North East,72.0
+Reports Received,Zone,North East,70.0
+Reports Not Received,Zone,North East,2.0
+Reporting Completeness %,Zone,North East,0.972222
+Facilities Expected,Zone,North East,8.0
+Facilities Reporting,Zone,North East,8.0
+Non-response Months Recorded as 0 in Source,Zone,North East,0.0
+Missing Report Months,Zone,North East,2.0
+General Attendance per Report,Zone,North East,1061.614286
+Indicator Value Completeness %,Zone,North East,0.96831
+Fields Blank in Submitted Reports,Zone,North East,0.0
+Data Quality Exceptions,Zone,North East,37.0
+Logical Inconsistency Flags,Zone,North East,3.0
+Facility-Months with Logical Inconsistencies,Zone,North East,3.0
+Under-5 Deaths,Zone,North East,
+Maternal Deaths,Zone,North East,
+Neonatal Deaths,Zone,North East,
+Infant Deaths,Zone,North East,
+All-Category Deaths (Upper Bound),Zone,North East,
+Deaths per 100 Reports,Zone,North East,
+Service Value,Zone,North West,398006.0
+Values Recorded,Zone,North West,1704.0
+General Attendance,Zone,North West,126336.0
+OPD Visits,Zone,North West,64870.0
+ANC Visits,Zone,North West,19737.0
+ANC First Visits,Zone,North West,6245.0
+ANC Fourth Visits,Zone,North West,4161.0
+ANC Eighth Visits,Zone,North West,1015.0
+IPTp Dose 1,Zone,North West,5822.0
+IPTp Dose 2,Zone,North West,4285.0
+IPTp Dose 3,Zone,North West,3622.0
+Skilled Birth Deliveries,Zone,North West,5215.0
+Immunization Doses <1 Year,Zone,North West,22541.0
+Children 0-9m Fully Immunized,Zone,North West,3764.0
+FP Clients Counselled,Zone,North West,13522.0
+FP Acceptors,Zone,North West,7127.0
+FP Male Condom Acceptances,Zone,North West,1541.0
+FP Female Condom Acceptances,Zone,North West,338.0
+FP Pill Acceptances,Zone,North West,665.0
+FP Injectable Acceptances,Zone,North West,5262.0
+FP Implant Acceptances,Zone,North West,1243.0
+FP IUD Acceptances,Zone,North West,310.0
+U5 Malaria Tests,Zone,North West,13078.0
+U5 Malaria Positive,Zone,North West,9151.0
+U5 Malaria Treated,Zone,North West,9041.0
+Adult Malaria Tests,Zone,North West,30286.0
+Adult Malaria Positive,Zone,North West,19349.0
+Adult Malaria Treated,Zone,North West,19163.0
+Community Outreaches,Zone,North West,317.0
+Malaria Tests (All Ages),Zone,North West,43364.0
+Malaria Positive (All Ages),Zone,North West,28500.0
+FP Method Acceptances (All Methods),Zone,North West,9359.0
+U5 Malaria Test Positivity %,Zone,North West,0.699725
+Adult Malaria Test Positivity %,Zone,North West,0.638876
+U5 Treated per Positive %,Zone,North West,0.987979
+Adult Treated per Positive %,Zone,North West,0.990387
+FP Acceptors per Client Counselled %,Zone,North West,0.527067
+ANC4 to ANC1 Ratio %,Zone,North West,0.666293
+ANC8 to ANC1 Ratio %,Zone,North West,0.16253
+IPTp3 to IPTp1 Ratio %,Zone,North West,0.622123
+OPD Share of General Attendance %,Zone,North West,0.513472
+Malaria Test Positivity % (All Ages),Zone,North West,0.657227
+Expected Reports,Zone,North West,72.0
+Reports Received,Zone,North West,72.0
+Reports Not Received,Zone,North West,0.0
+Reporting Completeness %,Zone,North West,1.0
+Facilities Expected,Zone,North West,8.0
+Facilities Reporting,Zone,North West,8.0
+Non-response Months Recorded as 0 in Source,Zone,North West,0.0
+Missing Report Months,Zone,North West,0.0
+General Attendance per Report,Zone,North West,1754.666667
+Indicator Value Completeness %,Zone,North West,1.0
+Fields Blank in Submitted Reports,Zone,North West,0.0
+Data Quality Exceptions,Zone,North West,41.0
+Logical Inconsistency Flags,Zone,North West,5.0
+Facility-Months with Logical Inconsistencies,Zone,North West,5.0
+Under-5 Deaths,Zone,North West,
+Maternal Deaths,Zone,North West,
+Neonatal Deaths,Zone,North West,
+Infant Deaths,Zone,North West,
+All-Category Deaths (Upper Bound),Zone,North West,
+Deaths per 100 Reports,Zone,North West,
+Service Value,Zone,South East,29357.0
+Values Recorded,Zone,South East,1251.0
+General Attendance,Zone,South East,9278.0
+OPD Visits,Zone,South East,2646.0
+ANC Visits,Zone,South East,888.0
+ANC First Visits,Zone,South East,322.0
+ANC Fourth Visits,Zone,South East,109.0
+ANC Eighth Visits,Zone,South East,45.0
+IPTp Dose 1,Zone,South East,246.0
+IPTp Dose 2,Zone,South East,158.0
+IPTp Dose 3,Zone,South East,101.0
+Skilled Birth Deliveries,Zone,South East,225.0
+Immunization Doses <1 Year,Zone,South East,6799.0
+Children 0-9m Fully Immunized,Zone,South East,858.0
+FP Clients Counselled,Zone,South East,1996.0
+FP Acceptors,Zone,South East,782.0
+FP Male Condom Acceptances,Zone,South East,152.0
+FP Female Condom Acceptances,Zone,South East,8.0
+FP Pill Acceptances,Zone,South East,45.0
+FP Injectable Acceptances,Zone,South East,146.0
+FP Implant Acceptances,Zone,South East,82.0
+FP IUD Acceptances,Zone,South East,28.0
+U5 Malaria Tests,Zone,South East,416.0
+U5 Malaria Positive,Zone,South East,308.0
+U5 Malaria Treated,Zone,South East,323.0
+Adult Malaria Tests,Zone,South East,1335.0
+Adult Malaria Positive,Zone,South East,965.0
+Adult Malaria Treated,Zone,South East,945.0
+Community Outreaches,Zone,South East,151.0
+Malaria Tests (All Ages),Zone,South East,1751.0
+Malaria Positive (All Ages),Zone,South East,1273.0
+FP Method Acceptances (All Methods),Zone,South East,461.0
+U5 Malaria Test Positivity %,Zone,South East,0.740385
+Adult Malaria Test Positivity %,Zone,South East,0.722846
+U5 Treated per Positive %,Zone,South East,1.048701
+Adult Treated per Positive %,Zone,South East,0.979275
+FP Acceptors per Client Counselled %,Zone,South East,0.391784
+ANC4 to ANC1 Ratio %,Zone,South East,0.338509
+ANC8 to ANC1 Ratio %,Zone,South East,0.139752
+IPTp3 to IPTp1 Ratio %,Zone,South East,0.410569
+OPD Share of General Attendance %,Zone,South East,0.285191
+Malaria Test Positivity % (All Ages),Zone,South East,0.727013
+Expected Reports,Zone,South East,54.0
+Reports Received,Zone,South East,53.0
+Reports Not Received,Zone,South East,1.0
+Reporting Completeness %,Zone,South East,0.981481
+Facilities Expected,Zone,South East,6.0
+Facilities Reporting,Zone,South East,6.0
+Non-response Months Recorded as 0 in Source,Zone,South East,0.0
+Missing Report Months,Zone,South East,1.0
+General Attendance per Report,Zone,South East,175.056604
+Indicator Value Completeness %,Zone,South East,0.978873
+Fields Blank in Submitted Reports,Zone,South East,0.0
+Data Quality Exceptions,Zone,South East,22.0
+Logical Inconsistency Flags,Zone,South East,6.0
+Facility-Months with Logical Inconsistencies,Zone,South East,5.0
+Under-5 Deaths,Zone,South East,
+Maternal Deaths,Zone,South East,
+Neonatal Deaths,Zone,South East,
+Infant Deaths,Zone,South East,
+All-Category Deaths (Upper Bound),Zone,South East,
+Deaths per 100 Reports,Zone,South East,
+Service Value,Zone,South South,221627.0
+Values Recorded,Zone,South South,3519.0
+General Attendance,Zone,South South,68982.0
+OPD Visits,Zone,South South,18126.0
+ANC Visits,Zone,South South,7358.0
+ANC First Visits,Zone,South South,1925.0
+ANC Fourth Visits,Zone,South South,1219.0
+ANC Eighth Visits,Zone,South South,521.0
+IPTp Dose 1,Zone,South South,2039.0
+IPTp Dose 2,Zone,South South,1645.0
+IPTp Dose 3,Zone,South South,1193.0
+Skilled Birth Deliveries,Zone,South South,1448.0
+Immunization Doses <1 Year,Zone,South South,59856.0
+Children 0-9m Fully Immunized,Zone,South South,9551.0
+FP Clients Counselled,Zone,South South,9658.0
+FP Acceptors,Zone,South South,3860.0
+FP Male Condom Acceptances,Zone,South South,1114.0
+FP Female Condom Acceptances,Zone,South South,190.0
+FP Pill Acceptances,Zone,South South,201.0
+FP Injectable Acceptances,Zone,South South,703.0
+FP Implant Acceptances,Zone,South South,609.0
+FP IUD Acceptances,Zone,South South,80.0
+U5 Malaria Tests,Zone,South South,4784.0
+U5 Malaria Positive,Zone,South South,3281.0
+U5 Malaria Treated,Zone,South South,3190.0
+Adult Malaria Tests,Zone,South South,8646.0
+Adult Malaria Positive,Zone,South South,5385.0
+Adult Malaria Treated,Zone,South South,5420.0
+Community Outreaches,Zone,South South,643.0
+Malaria Tests (All Ages),Zone,South South,13430.0
+Malaria Positive (All Ages),Zone,South South,8666.0
+FP Method Acceptances (All Methods),Zone,South South,2897.0
+U5 Malaria Test Positivity %,Zone,South South,0.685828
+Adult Malaria Test Positivity %,Zone,South South,0.622831
+U5 Treated per Positive %,Zone,South South,0.972265
+Adult Treated per Positive %,Zone,South South,1.0065
+FP Acceptors per Client Counselled %,Zone,South South,0.399669
+ANC4 to ANC1 Ratio %,Zone,South South,0.633247
+ANC8 to ANC1 Ratio %,Zone,South South,0.270649
+IPTp3 to IPTp1 Ratio %,Zone,South South,0.585091
+OPD Share of General Attendance %,Zone,South South,0.262764
+Malaria Test Positivity % (All Ages),Zone,South South,0.645272
+Expected Reports,Zone,South South,189.0
+Reports Received,Zone,South South,151.0
+Reports Not Received,Zone,South South,38.0
+Reporting Completeness %,Zone,South South,0.798942
+Facilities Expected,Zone,South South,21.0
+Facilities Reporting,Zone,South South,21.0
+Non-response Months Recorded as 0 in Source,Zone,South South,32.0
+Missing Report Months,Zone,South South,6.0
+General Attendance per Report,Zone,South South,456.834437
+Indicator Value Completeness %,Zone,South South,0.774037
+Fields Blank in Submitted Reports,Zone,South South,1.0
+Data Quality Exceptions,Zone,South South,131.0
+Logical Inconsistency Flags,Zone,South South,18.0
+Facility-Months with Logical Inconsistencies,Zone,South South,14.0
+Under-5 Deaths,Zone,South South,
+Maternal Deaths,Zone,South South,
+Neonatal Deaths,Zone,South South,
+Infant Deaths,Zone,South South,
+All-Category Deaths (Upper Bound),Zone,South South,
+Deaths per 100 Reports,Zone,South South,
+Service Value,Zone,South West,105740.0
+Values Recorded,Zone,South West,1224.0
+General Attendance,Zone,South West,37220.0
+OPD Visits,Zone,South West,8081.0
+ANC Visits,Zone,South West,5372.0
+ANC First Visits,Zone,South West,1227.0
+ANC Fourth Visits,Zone,South West,784.0
+ANC Eighth Visits,Zone,South West,178.0
+IPTp Dose 1,Zone,South West,1198.0
+IPTp Dose 2,Zone,South West,1004.0
+IPTp Dose 3,Zone,South West,697.0
+Skilled Birth Deliveries,Zone,South West,613.0
+Immunization Doses <1 Year,Zone,South West,21166.0
+Children 0-9m Fully Immunized,Zone,South West,4203.0
+FP Clients Counselled,Zone,South West,4513.0
+FP Acceptors,Zone,South West,2740.0
+FP Male Condom Acceptances,Zone,South West,3948.0
+FP Female Condom Acceptances,Zone,South West,147.0
+FP Pill Acceptances,Zone,South West,189.0
+FP Injectable Acceptances,Zone,South West,958.0
+FP Implant Acceptances,Zone,South West,621.0
+FP IUD Acceptances,Zone,South West,183.0
+U5 Malaria Tests,Zone,South West,1423.0
+U5 Malaria Positive,Zone,South West,799.0
+U5 Malaria Treated,Zone,South West,795.0
+Adult Malaria Tests,Zone,South West,3250.0
+Adult Malaria Positive,Zone,South West,2132.0
+Adult Malaria Treated,Zone,South West,2129.0
+Community Outreaches,Zone,South West,170.0
+Malaria Tests (All Ages),Zone,South West,4673.0
+Malaria Positive (All Ages),Zone,South West,2931.0
+FP Method Acceptances (All Methods),Zone,South West,6046.0
+U5 Malaria Test Positivity %,Zone,South West,0.56149
+Adult Malaria Test Positivity %,Zone,South West,0.656
+U5 Treated per Positive %,Zone,South West,0.994994
+Adult Treated per Positive %,Zone,South West,0.998593
+FP Acceptors per Client Counselled %,Zone,South West,0.607135
+ANC4 to ANC1 Ratio %,Zone,South West,0.638957
+ANC8 to ANC1 Ratio %,Zone,South West,0.145069
+IPTp3 to IPTp1 Ratio %,Zone,South West,0.581803
+OPD Share of General Attendance %,Zone,South West,0.217114
+Malaria Test Positivity % (All Ages),Zone,South West,0.62722
+Expected Reports,Zone,South West,54.0
+Reports Received,Zone,South West,52.0
+Reports Not Received,Zone,South West,2.0
+Reporting Completeness %,Zone,South West,0.962963
+Facilities Expected,Zone,South West,6.0
+Facilities Reporting,Zone,South West,6.0
+Non-response Months Recorded as 0 in Source,Zone,South West,0.0
+Missing Report Months,Zone,South West,2.0
+General Attendance per Report,Zone,South West,715.769231
+Indicator Value Completeness %,Zone,South West,0.957746
+Fields Blank in Submitted Reports,Zone,South West,0.0
+Data Quality Exceptions,Zone,South West,30.0
+Logical Inconsistency Flags,Zone,South West,2.0
+Facility-Months with Logical Inconsistencies,Zone,South West,1.0
+Under-5 Deaths,Zone,South West,
+Maternal Deaths,Zone,South West,
+Neonatal Deaths,Zone,South West,
+Infant Deaths,Zone,South West,
+All-Category Deaths (Upper Bound),Zone,South West,
+Deaths per 100 Reports,Zone,South West,
+Service Value,Zone,Not disclosed (small cell),42541.0
+Values Recorded,Zone,Not disclosed (small cell),399.0
+General Attendance,Zone,Not disclosed (small cell),22584.0
+OPD Visits,Zone,Not disclosed (small cell),3516.0
+ANC Visits,Zone,Not disclosed (small cell),1102.0
+ANC First Visits,Zone,Not disclosed (small cell),514.0
+ANC Fourth Visits,Zone,Not disclosed (small cell),322.0
+ANC Eighth Visits,Zone,Not disclosed (small cell),112.0
+IPTp Dose 1,Zone,Not disclosed (small cell),345.0
+IPTp Dose 2,Zone,Not disclosed (small cell),154.0
+IPTp Dose 3,Zone,Not disclosed (small cell),112.0
+Skilled Birth Deliveries,Zone,Not disclosed (small cell),560.0
+Immunization Doses <1 Year,Zone,Not disclosed (small cell),5312.0
+Children 0-9m Fully Immunized,Zone,Not disclosed (small cell),997.0
+FP Clients Counselled,Zone,Not disclosed (small cell),1247.0
+FP Acceptors,Zone,Not disclosed (small cell),921.0
+FP Male Condom Acceptances,Zone,Not disclosed (small cell),117.0
+FP Female Condom Acceptances,Zone,Not disclosed (small cell),95.0
+FP Pill Acceptances,Zone,Not disclosed (small cell),44.0
+FP Injectable Acceptances,Zone,Not disclosed (small cell),388.0
+FP Implant Acceptances,Zone,Not disclosed (small cell),254.0
+FP IUD Acceptances,Zone,Not disclosed (small cell),64.0
+U5 Malaria Tests,Zone,Not disclosed (small cell),678.0
+U5 Malaria Positive,Zone,Not disclosed (small cell),395.0
+U5 Malaria Treated,Zone,Not disclosed (small cell),395.0
+Adult Malaria Tests,Zone,Not disclosed (small cell),948.0
+Adult Malaria Positive,Zone,Not disclosed (small cell),641.0
+Adult Malaria Treated,Zone,Not disclosed (small cell),641.0
+Community Outreaches,Zone,Not disclosed (small cell),83.0
+Malaria Tests (All Ages),Zone,Not disclosed (small cell),1626.0
+Malaria Positive (All Ages),Zone,Not disclosed (small cell),1036.0
+FP Method Acceptances (All Methods),Zone,Not disclosed (small cell),962.0
+U5 Malaria Test Positivity %,Zone,Not disclosed (small cell),0.582596
+Adult Malaria Test Positivity %,Zone,Not disclosed (small cell),0.67616
+U5 Treated per Positive %,Zone,Not disclosed (small cell),1.0
+Adult Treated per Positive %,Zone,Not disclosed (small cell),1.0
+FP Acceptors per Client Counselled %,Zone,Not disclosed (small cell),0.738573
+ANC4 to ANC1 Ratio %,Zone,Not disclosed (small cell),0.626459
+ANC8 to ANC1 Ratio %,Zone,Not disclosed (small cell),0.217899
+IPTp3 to IPTp1 Ratio %,Zone,Not disclosed (small cell),0.324638
+OPD Share of General Attendance %,Zone,Not disclosed (small cell),0.155685
+Malaria Test Positivity % (All Ages),Zone,Not disclosed (small cell),0.637146
+Expected Reports,Zone,Not disclosed (small cell),18.0
+Reports Received,Zone,Not disclosed (small cell),17.0
+Reports Not Received,Zone,Not disclosed (small cell),1.0
+Reporting Completeness %,Zone,Not disclosed (small cell),0.944444
+Facilities Expected,Zone,Not disclosed (small cell),2.0
+Facilities Reporting,Zone,Not disclosed (small cell),2.0
+Non-response Months Recorded as 0 in Source,Zone,Not disclosed (small cell),0.0
+Missing Report Months,Zone,Not disclosed (small cell),1.0
+General Attendance per Report,Zone,Not disclosed (small cell),1328.470588
+Indicator Value Completeness %,Zone,Not disclosed (small cell),0.93662
+Fields Blank in Submitted Reports,Zone,Not disclosed (small cell),0.0
+Data Quality Exceptions,Zone,Not disclosed (small cell),8.0
+Logical Inconsistency Flags,Zone,Not disclosed (small cell),1.0
+Facility-Months with Logical Inconsistencies,Zone,Not disclosed (small cell),1.0
+Under-5 Deaths,Zone,Not disclosed (small cell),
+Maternal Deaths,Zone,Not disclosed (small cell),
+Neonatal Deaths,Zone,Not disclosed (small cell),
+Infant Deaths,Zone,Not disclosed (small cell),
+All-Category Deaths (Upper Bound),Zone,Not disclosed (small cell),
+Deaths per 100 Reports,Zone,Not disclosed (small cell),
+General Attendance MoM %,Month,2026-01-01,
+General Attendance MoM %,Month,2026-02-01,-0.006247
+General Attendance MoM %,Month,2026-03-01,0.039384
+General Attendance MoM %,Month,2026-04-01,0.039322
+General Attendance MoM %,Month,2026-05-01,-0.047879
+General Attendance MoM %,Month,2026-06-01,0.401709
+General Attendance MoM %,Month,2026-07-01,-0.224315
+General Attendance MoM %,Month,2026-08-01,0.004291
+General Attendance MoM %,Month,2026-09-01,-0.102415
+General Attendance QoQ %,Quarter,Q1 2026,
+General Attendance QoQ %,Quarter,Q2 2026,0.165752
+General Attendance QoQ %,Quarter,Q3 2026,-0.084774
+ANC Visits MoM %,Month,2026-01-01,
+ANC Visits MoM %,Month,2026-02-01,-0.018564
+ANC Visits MoM %,Month,2026-03-01,0.060136
+ANC Visits MoM %,Month,2026-04-01,0.012624
+ANC Visits MoM %,Month,2026-05-01,-0.127992
+ANC Visits MoM %,Month,2026-06-01,0.180709
+ANC Visits MoM %,Month,2026-07-01,-0.087665
+ANC Visits MoM %,Month,2026-08-01,0.018935
+ANC Visits MoM %,Month,2026-09-01,-0.072768
+ANC Visits QoQ %,Quarter,Q1 2026,
+ANC Visits QoQ %,Quarter,Q2 2026,0.011649
+ANC Visits QoQ %,Quarter,Q3 2026,-0.040559
+Skilled Birth Deliveries MoM %,Month,2026-01-01,
+Skilled Birth Deliveries MoM %,Month,2026-02-01,0.023538
+Skilled Birth Deliveries MoM %,Month,2026-03-01,-0.000742
+Skilled Birth Deliveries MoM %,Month,2026-04-01,0.016333
+Skilled Birth Deliveries MoM %,Month,2026-05-01,-0.020453
+Skilled Birth Deliveries MoM %,Month,2026-06-01,0.070843
+Skilled Birth Deliveries MoM %,Month,2026-07-01,-0.076602
+Skilled Birth Deliveries MoM %,Month,2026-08-01,0.031674
+Skilled Birth Deliveries MoM %,Month,2026-09-01,-0.236842
+Skilled Birth Deliveries QoQ %,Quarter,Q1 2026,
+Skilled Birth Deliveries QoQ %,Quarter,Q2 2026,0.0334
+Skilled Birth Deliveries QoQ %,Quarter,Q3 2026,-0.098408
+FP Acceptors MoM %,Month,2026-01-01,
+FP Acceptors MoM %,Month,2026-02-01,-0.120504
+FP Acceptors MoM %,Month,2026-03-01,0.067894
+FP Acceptors MoM %,Month,2026-04-01,-0.053619
+FP Acceptors MoM %,Month,2026-05-01,-0.085795
+FP Acceptors MoM %,Month,2026-06-01,0.602036
+FP Acceptors MoM %,Month,2026-07-01,-0.307544
+FP Acceptors MoM %,Month,2026-08-01,-0.039505
+FP Acceptors MoM %,Month,2026-09-01,-0.124221
+FP Acceptors QoQ %,Quarter,Q1 2026,
+FP Acceptors QoQ %,Quarter,Q2 2026,0.065467
+FP Acceptors QoQ %,Quarter,Q3 2026,-0.159061
+Immunization Doses <1 Year MoM %,Month,2026-01-01,
+Immunization Doses <1 Year MoM %,Month,2026-02-01,-0.148829
+Immunization Doses <1 Year MoM %,Month,2026-03-01,0.21696
+Immunization Doses <1 Year MoM %,Month,2026-04-01,-0.070281
+Immunization Doses <1 Year MoM %,Month,2026-05-01,-0.054954
+Immunization Doses <1 Year MoM %,Month,2026-06-01,1.148307
+Immunization Doses <1 Year MoM %,Month,2026-07-01,-0.539092
+Immunization Doses <1 Year MoM %,Month,2026-08-01,-0.010408
+Immunization Doses <1 Year MoM %,Month,2026-09-01,-0.064707
+Immunization Doses <1 Year QoQ %,Quarter,Q1 2026,
+Immunization Doses <1 Year QoQ %,Quarter,Q2 2026,0.326068
+Immunization Doses <1 Year QoQ %,Quarter,Q3 2026,-0.313793
+Malaria Tests (All Ages) MoM %,Month,2026-01-01,
+Malaria Tests (All Ages) MoM %,Month,2026-02-01,-0.15085
+Malaria Tests (All Ages) MoM %,Month,2026-03-01,0.13836
+Malaria Tests (All Ages) MoM %,Month,2026-04-01,-0.043837
+Malaria Tests (All Ages) MoM %,Month,2026-05-01,0.024885
+Malaria Tests (All Ages) MoM %,Month,2026-06-01,0.166138
+Malaria Tests (All Ages) MoM %,Month,2026-07-01,0.068749
+Malaria Tests (All Ages) MoM %,Month,2026-08-01,-0.071523
+Malaria Tests (All Ages) MoM %,Month,2026-09-01,0.09121
+Malaria Tests (All Ages) QoQ %,Quarter,Q1 2026,
+Malaria Tests (All Ages) QoQ %,Quarter,Q2 2026,0.056958
+Malaria Tests (All Ages) QoQ %,Quarter,Q3 2026,0.166887

@@ -1,0 +1,7 @@
+# Confidential material must never be committed to this public repository
+**/private/
+**/*mapping*
+**/*DO_NOT_SHARE*
+portfolio/**/*.xlsx
+portfolio/**/raw/
+*.pbix.bak

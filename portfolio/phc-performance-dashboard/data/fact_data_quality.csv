@@ -1,0 +1,316 @@
+FacilityKey,MonthDate,CheckCode,Check,CheckType
+9,2026-09-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+18,2026-03-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+18,2026-09-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+22,2026-05-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+33,2026-08-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+37,2026-04-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+38,2026-05-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+38,2026-09-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+43,2026-09-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+45,2026-01-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+59,2026-06-01,DQ01,Under-5 treated exceeds under-5 positive,Logical consistency
+9,2026-09-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+13,2026-07-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+13,2026-09-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+18,2026-06-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+18,2026-09-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+19,2026-04-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+22,2026-05-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+30,2026-03-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+33,2026-08-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+35,2026-04-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+35,2026-09-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+38,2026-05-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+38,2026-09-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+55,2026-04-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+56,2026-04-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+56,2026-06-01,DQ02,Adult treated exceeds adult positive,Logical consistency
+17,2026-04-01,DQ03,Under-5 positive exceeds under-5 tested,Logical consistency
+27,2026-03-01,DQ03,Under-5 positive exceeds under-5 tested,Logical consistency
+41,2026-05-01,DQ03,Under-5 positive exceeds under-5 tested,Logical consistency
+50,2026-07-01,DQ03,Under-5 positive exceeds under-5 tested,Logical consistency
+25,2026-09-01,DQ04,Adult positive exceeds adult tested,Logical consistency
+27,2026-08-01,DQ04,Adult positive exceeds adult tested,Logical consistency
+29,2026-05-01,DQ04,Adult positive exceeds adult tested,Logical consistency
+55,2026-04-01,DQ04,Adult positive exceeds adult tested,Logical consistency
+55,2026-08-01,DQ04,Adult positive exceeds adult tested,Logical consistency
+20,2026-01-01,DQ05,FP acceptors exceed FP clients counselled,Logical consistency
+21,2026-07-01,DQ05,FP acceptors exceed FP clients counselled,Logical consistency
+23,2026-09-01,DQ05,FP acceptors exceed FP clients counselled,Logical consistency
+28,2026-02-01,DQ05,FP acceptors exceed FP clients counselled,Logical consistency
+42,2026-03-01,DQ05,FP acceptors exceed FP clients counselled,Logical consistency
+2,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+2,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+2,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+3,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+3,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+5,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+5,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+5,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+6,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+6,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+6,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+8,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+8,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+9,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+10,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+10,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+10,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+11,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+11,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+11,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+12,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+12,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+12,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+13,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+13,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+13,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+13,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+14,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+15,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+15,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+16,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+17,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+17,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+17,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+17,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+18,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+18,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+21,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+22,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+22,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+22,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+23,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+24,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+24,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+24,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+25,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+25,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+25,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+25,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+26,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+26,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+27,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+27,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+28,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+28,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+29,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+29,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+30,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+30,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+30,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+31,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+31,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+31,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+32,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+32,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+32,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+33,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+33,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+34,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+34,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+34,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+34,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+35,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+36,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+37,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+37,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+37,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+38,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+38,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+38,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+39,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+39,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+41,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+41,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+41,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+41,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+42,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+42,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+42,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+42,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+43,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+43,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+43,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+44,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+44,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+44,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+44,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+45,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+45,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+45,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+47,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+47,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+47,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+47,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+50,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+50,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+51,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+51,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+51,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+52,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+53,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+53,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+53,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+54,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+54,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+54,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+55,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+55,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+55,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+56,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+56,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+56,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+58,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+58,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+58,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+58,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+59,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+59,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+60,2026-06-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+60,2026-07-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+60,2026-08-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+60,2026-09-01,DQ06,Sum of FP methods exceeds FP acceptors,Definition (multi-method counting)
+3,2026-09-01,DQ07,ANC first visits exceed all ANC visits,Logical consistency
+21,2026-04-01,DQ07,ANC first visits exceed all ANC visits,Logical consistency
+1,2026-01-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+1,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+6,2026-06-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+6,2026-09-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+7,2026-01-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+8,2026-09-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+10,2026-06-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+15,2026-01-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+15,2026-06-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+15,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+18,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+19,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+19,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+21,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+22,2026-03-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+22,2026-05-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+23,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+25,2026-01-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+25,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+25,2026-05-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+25,2026-06-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+25,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+25,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+25,2026-09-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+26,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+26,2026-05-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+26,2026-06-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+27,2026-05-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+29,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+29,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+29,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+30,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+32,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+33,2026-01-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+33,2026-03-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+33,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+34,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+34,2026-09-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+35,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+36,2026-09-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+37,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+37,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+38,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+38,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+39,2026-05-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+41,2026-01-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+41,2026-03-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+42,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+42,2026-06-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+42,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+42,2026-09-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+43,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+44,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+44,2026-03-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+44,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+44,2026-05-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+44,2026-06-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+44,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+44,2026-09-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+45,2026-01-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+45,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+45,2026-03-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+45,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+45,2026-05-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+45,2026-06-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+45,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+45,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+46,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+47,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+47,2026-03-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+47,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+47,2026-05-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+47,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+48,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+48,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+48,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+49,2026-09-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+51,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+51,2026-05-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+52,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+53,2026-07-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+54,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+55,2026-01-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+55,2026-06-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+57,2026-01-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+57,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+57,2026-04-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+58,2026-02-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+60,2026-01-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+60,2026-03-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+60,2026-08-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+60,2026-09-01,DQ08,"ANC4 exceeds ANC1 in the same month (cross-sectional, not invalid)",Interpretation
+27,2026-01-01,DQ09,Report submitted with 1 indicator field(s) blank (recorded as 0),Completeness
+1,2026-03-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+1,2026-04-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+1,2026-05-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+1,2026-06-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+1,2026-07-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+1,2026-08-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+1,2026-09-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+4,2026-04-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+4,2026-05-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+4,2026-06-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+4,2026-07-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+4,2026-08-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+4,2026-09-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+7,2026-02-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+7,2026-03-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+7,2026-06-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+7,2026-07-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+7,2026-08-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+7,2026-09-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+19,2026-09-01,DQ10,No report submitted (missing),Reporting
+20,2026-02-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+20,2026-03-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+20,2026-04-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+20,2026-05-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+20,2026-06-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+20,2026-07-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+20,2026-08-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+20,2026-09-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+21,2026-08-01,DQ10,No report submitted (missing),Reporting
+21,2026-09-01,DQ10,No report submitted (missing),Reporting
+28,2026-09-01,DQ10,No report submitted (missing),Reporting
+29,2026-09-01,DQ10,No report submitted (missing),Reporting
+30,2026-09-01,DQ10,No report submitted (missing),Reporting
+33,2026-06-01,DQ10,No report submitted (missing),Reporting
+33,2026-09-01,DQ10,No report submitted (missing),Reporting
+39,2026-09-01,DQ10,No report submitted (missing),Reporting
+46,2026-09-01,DQ10,No report submitted (missing),Reporting
+48,2026-09-01,DQ10,No report submitted (missing),Reporting
+53,2026-09-01,DQ10,No report submitted (missing),Reporting
+54,2026-09-01,DQ10,No report submitted (missing),Reporting
+57,2026-05-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+57,2026-06-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+57,2026-07-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+57,2026-08-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+57,2026-09-01,DQ10,No report submitted (source recorded 0 under non-response rule),Reporting
+59,2026-09-01,DQ10,No report submitted (missing),Reporting
+9,2026-09-01,DQ11,Value corrected upstream (implausible raw entry),Accuracy

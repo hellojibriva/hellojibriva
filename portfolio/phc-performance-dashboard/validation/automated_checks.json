@@ -1,0 +1,191 @@
+[
+  {
+    "id": "P1",
+    "area": "Privacy",
+    "test": "No facility/adopter/state/LGA/ward name from the source appears in any portfolio file (38 files, 208 identifiers scanned)",
+    "outcome": "PASS",
+    "detail": "0 hits; 1 identifier(s) that are ordinary English words excluded after manual review"
+  },
+  {
+    "id": "P2",
+    "area": "Privacy",
+    "test": "No identity mapping file inside the portfolio folder",
+    "outcome": "PASS",
+    "detail": "checked file names"
+  },
+  {
+    "id": "P3",
+    "area": "Privacy",
+    "test": "Facility labels follow \"Facility NNN\" and adopter labels \"Adopter X\"",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "P4",
+    "area": "Privacy",
+    "test": "No state, LGA, ward, backend-row or free-text note columns in published data",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "P5",
+    "area": "Privacy",
+    "test": "No adopter × disclosed-zone cell contains fewer than 3 facilities",
+    "outcome": "PASS",
+    "detail": "smallest disclosed cell = 4"
+  },
+  {
+    "id": "P6",
+    "area": "Privacy",
+    "test": "Mortality published only at national-month grain (no facility/zone/adopter keys)",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "S1",
+    "area": "Anonymization",
+    "test": "Each source facility maps to exactly one pseudonym and vice versa (60 ↔ 60)",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "S2",
+    "area": "Anonymization",
+    "test": "Each source adopter maps to exactly one pseudonym (4 ↔ 4)",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "S3",
+    "area": "Anonymization",
+    "test": "Every facility key appears in all 9 months of the reporting fact (consistent across periods)",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "S4",
+    "area": "Anonymization",
+    "test": "Facility-month reporting flags identical to source after pseudonymisation (540 rows)",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "I1",
+    "area": "Integrity",
+    "test": "No duplicate facility-month records",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "I2",
+    "area": "Integrity",
+    "test": "No duplicate facility-month-indicator observations",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "I3",
+    "area": "Integrity",
+    "test": "Service fact rows = 540 facility-months × 27 indicators",
+    "outcome": "PASS",
+    "detail": "14580 rows"
+  },
+  {
+    "id": "I4",
+    "area": "Integrity",
+    "test": "No negative values",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "I5",
+    "area": "Integrity",
+    "test": "All dates are valid month starts within Jan–Sep 2026",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "I6",
+    "area": "Integrity",
+    "test": "Every foreign key resolves (facility, adopter, zone, indicator)",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "R1",
+    "area": "Reconciliation",
+    "test": "Indicator × month totals equal the validated source (Clean_Data) for all 32 indicators × 9 months (288 checks)",
+    "outcome": "PASS",
+    "detail": "0 differences"
+  },
+  {
+    "id": "R2",
+    "area": "Reconciliation",
+    "test": "Jan–Sep totals equal the source workbook's Monthly_Indicator_Table (independent formula layer)",
+    "outcome": "PASS",
+    "detail": "0 differences"
+  },
+  {
+    "id": "R3",
+    "area": "Reconciliation",
+    "test": "Zone totals reconcile once the small-cell \"Not disclosed\" group is added back (general attendance)",
+    "outcome": "PASS",
+    "detail": "disclosed zones + not-disclosed group = 377,483 vs source 377,483"
+  },
+  {
+    "id": "R4",
+    "area": "Reconciliation",
+    "test": "Reports expected / received = 540 / 494 (source)",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "M1",
+    "area": "Missing data",
+    "test": "Every value for a facility-month without a report is NULL (no zero imputation)",
+    "outcome": "PASS",
+    "detail": "1242 values"
+  },
+  {
+    "id": "M2",
+    "area": "Missing data",
+    "test": "FP method fields Jan–May (not on the form) are NULL, not 0",
+    "outcome": "PASS",
+    "detail": "1800 values; {'Not captured on form': 1728, 'No report submitted': 72}"
+  },
+  {
+    "id": "M3",
+    "area": "Missing data",
+    "test": "NULLs only where documented (no report / not captured)",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "D1",
+    "area": "DAX",
+    "test": "Static lint of 84 measures: balanced brackets; every [measure], table and column reference resolves",
+    "outcome": "PASS",
+    "detail": "[]"
+  },
+  {
+    "id": "D2",
+    "area": "DAX",
+    "test": "Reference engine reproduces the validated workbook headline values (377,483 attendance; 91.5% reporting; Q3 −8.5% QoQ; 84.4% Q3 reporting)",
+    "outcome": "PASS",
+    "detail": ""
+  },
+  {
+    "id": "D3",
+    "area": "DAX",
+    "test": "Ratios use ratio-of-sums (U5 positivity), not the mean of facility-month percentages",
+    "outcome": "PASS",
+    "detail": "ratio of sums 0.6633 vs mean of facility-month ratios 0.6650"
+  },
+  {
+    "id": "Q1",
+    "area": "Power Query",
+    "test": "Every M script types exactly the columns present in its CSV header",
+    "outcome": "PASS",
+    "detail": "checked when scripts were generated (see powerquery/ALL_QUERIES.md); re-checked below"
+  }
+]

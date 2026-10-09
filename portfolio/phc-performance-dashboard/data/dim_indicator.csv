@@ -1,0 +1,33 @@
+IndicatorKey,IndicatorCode,Indicator,ServiceCategory,Unit,SortOrder,Additive,FirstMonthCaptured
+1,GEN_ATT,General attendance,Service utilisation,Service contacts,1,1,2026-01-01
+2,OPD_ATT,OPD attendance,Service utilisation,Visits,2,1,2026-01-01
+3,ANC_TOT,ANC visits (all),Maternal & newborn health,Visits,3,1,2026-01-01
+4,ANC1,ANC first visits,Maternal & newborn health,Visits,4,1,2026-01-01
+5,ANC4,ANC fourth visits,Maternal & newborn health,Visits,5,1,2026-01-01
+6,ANC8,ANC eighth visits,Maternal & newborn health,Visits,6,1,2026-01-01
+7,IPT1,IPTp dose 1,Maternal & newborn health,Doses given,7,1,2026-01-01
+8,IPT2,IPTp dose 2,Maternal & newborn health,Doses given,8,1,2026-01-01
+9,IPT3,IPTp dose 3,Maternal & newborn health,Doses given,9,1,2026-01-01
+10,SBA_DEL,Deliveries by skilled birth attendant,Maternal & newborn health,Deliveries,10,1,2026-01-01
+11,IMM_FIC,"Immunization doses, children <1 year (antigen total)",Immunization,Antigen doses,11,1,2026-01-01
+12,IMM_ALT,Children 0–9 months fully immunized,Immunization,Children,12,1,2026-01-01
+13,FP_COUN,FP clients counselled,Family planning,Clients,13,1,2026-01-01
+14,FP_ACC,FP acceptors,Family planning,Clients,14,1,2026-01-01
+15,FP_MCON,FP method – male condoms,Family planning methods,Method acceptances,15,1,2026-06-01
+16,FP_FCON,FP method – female condoms,Family planning methods,Method acceptances,16,1,2026-06-01
+17,FP_PILL,FP method – pills,Family planning methods,Method acceptances,17,1,2026-06-01
+18,FP_INJ,FP method – injectables,Family planning methods,Method acceptances,18,1,2026-06-01
+19,FP_IMP,FP method – implants,Family planning methods,Method acceptances,19,1,2026-06-01
+20,FP_IUD,FP method – IUD,Family planning methods,Method acceptances,20,1,2026-06-01
+21,MAL_U5_T,Under-5 malaria tests,Malaria,Tests,21,1,2026-01-01
+22,MAL_U5_P,Under-5 malaria positive tests,Malaria,Positive tests,22,1,2026-01-01
+23,MAL_U5_R,Under-5 malaria treated,Malaria,Treatments,23,1,2026-01-01
+24,MAL_AD_T,Adult malaria tests,Malaria,Tests,24,1,2026-01-01
+25,MAL_AD_P,Adult malaria positive tests,Malaria,Positive tests,25,1,2026-01-01
+26,MAL_AD_R,Adult malaria treated,Malaria,Treatments,26,1,2026-01-01
+27,OUTREACH,Community outreaches conducted,Outreach,Outreach sessions,27,1,2026-01-01
+28,DTH_U5,Under-5 deaths,Mortality (national only),Deaths,28,1,2026-01-01
+29,DTH_MAT,Maternal deaths,Mortality (national only),Deaths,29,1,2026-01-01
+30,DTH_NEO,Neonatal deaths,Mortality (national only),Deaths,30,1,2026-01-01
+31,DTH_INF,Infant deaths,Mortality (national only),Deaths,31,1,2026-01-01
+32,DTH_ALL,All-category deaths (upper bound),Mortality (national only),Deaths,32,1,2026-01-01
