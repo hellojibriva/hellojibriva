@@ -1,7 +1,29 @@
 # ADHFP Q3 2026 Dashboard – Redesign & Validation Summary
 
 **Deliverable:** `ADHFP_2026_Q3_Dashboard_Interactive_Redesigned.xlsx` (the original workbook is unchanged; this is a separate file)
+**Pivot sheet:** `Pivot_Explorer`, with 3 PivotTables and 6 slicers on Clean_Data (see section 0)
 **Method:** I edited the workbook package directly instead of round-tripping it through a spreadsheet library. That way all 110 charts, comments, named ranges, filters and add-in parts are kept. Values were recalculated and checked in LibreOffice. Excel recalculates everything when the file is opened (`fullCalcOnLoad`).
+
+## 0. Update – Excel repair prompt fixed; PivotTables and slicers added
+
+**Repair prompt (cause and fix).** In the previous version, Clean_Data, Trace_Long and Lists each had **two** `<tabColor>` elements: they already had one, and I added a second. That breaks the worksheet schema, so Excel repaired those sheets when opening the file. Clean_Data and Lists feed every dashboard filter formula, which is why the filters came back as n/a. Each sheet now has exactly one tab colour.
+
+To catch this kind of problem, every worksheet, the workbook, styles, all 112 charts, drawings and the pivot parts are now checked in two ways:
+- against the ISO/IEC 29500 schemas, where the only remaining differences from the original are extension elements those schemas don't define;
+- with a structural check for duplicate elements, row and cell order, overlapping merges or columns, style indexes and defined names. It finds 0 problems.
+
+**New sheet: `Pivot_Explorer`** (second tab, linked from every navigation bar):
+
+| Item | Detail |
+|---|---|
+| PivotTables (3) | All use one pivot cache on `Clean_Data!A1:AY541`, with 540 records. **PT_Month** is by month in calendar order. **PT_Zone** is by geopolitical zone. **PT_Facility** is by adopter, then facility, with adopters in the order MTN F, PSHAN, AIG F, HOW F. Each shows 8 summed measures plus a Grand Total. They refresh automatically when the file opens. |
+| Slicers (6) | Quarter, Month, Geopolitical zone, Adopter, Facility and Reporting status. **Each slicer is connected to all three PivotTables.** |
+| KPI tiles (6) | General attendance, Total ANC visits, Deliveries by SBA, Fully immunized <1 year, Facility reports received, and Reporting %. They read from the PivotTables through `GETPIVOTDATA`, so they follow the slicers. |
+| Monthly table + 2 charts | A Jan–Sep table built with `GETPIVOTDATA`, plus two charts: General vs OPD attendance, and Reporting %. A month removed by the slicers shows as a gap, not a zero. |
+
+**How it was built.** LibreOffice generated the pivot cache and records from Clean_Data. I wrote the PivotTable definitions in Excel's own layout, including row/column items, Grand Total and number formats. The slicer parts follow the Excel 2010+ slicer format. The main dashboard still uses its tested drop-down filters; the slicers drive the Pivot_Explorer sheet.
+
+**Checks on the new sheet.** All 6 tiles and all 72 monthly-table cells equal independent pandas totals from Clean_Data (for example 377,483 general attendance, 494 of 540 reports = 91.5%). The PivotTable definitions pass the ISO schema. The 14,079-cell integrity check and the 9 dashboard filter scenarios were run again on this build, and all passed.
 
 ## 1. What was improved
 
@@ -65,7 +87,7 @@
 
 ## 6. Limitations
 
-1. **No native slicers or PivotTables.** The dashboard runs on a formula engine (SUMIFS over named ranges), not PivotTables. Rebuilding it on pivots would change the tested calculation logic. The formula drop-downs give the same filtering and update every connected visual.
+1. **Slicers were not clicked in Excel.** LibreOffice cannot display slicers; it shows a placeholder box. I could not open the file in Microsoft Excel, so the slicer clicks themselves are untested. The PivotTables, GETPIVOTDATA links and totals were all verified. The main Interactive_Dashboard is still driven by its drop-downs, not by the slicers: rebuilding it on PivotTables would change the tested calculation logic.
 2. **Testing was done in LibreOffice, not Microsoft Excel.** Excel recalculates everything on open and may ask to save when you close it. Please open the file once in Excel to confirm. The dependent drop-downs (Indicator by category, Facility by adopter) use `INDIRECT`, which is standard in Excel.
 3. Changing the indicator category does not clear an indicator that is already selected. The status cell flags the mismatch instead.
 4. Dashboard charts show rates multiplied by 100 so their labels read as percent. The axis title changes with the indicator type, and the tables keep the true values.
